@@ -1,0 +1,1089 @@
+{
+  "best_any": {
+    "RJ": {
+      "uf": "RJ",
+      "media4": 820.9,
+      "notas": {
+        "CN": 809.8,
+        "CH": 808.1,
+        "LC": 763.4,
+        "MT": 902.1
+      },
+      "area_max": "MT",
+      "nota_max": 902.1,
+      "redacao": 720.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Rio de Janeiro"
+    },
+    "MA": {
+      "uf": "MA",
+      "media4": 828.9,
+      "notas": {
+        "CN": 858.7,
+        "CH": 760.4,
+        "LC": 754.1,
+        "MT": 942.3
+      },
+      "area_max": "MT",
+      "nota_max": 942.3,
+      "redacao": 920.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Pedreiras"
+    },
+    "SP": {
+      "uf": "SP",
+      "media4": 863.4,
+      "notas": {
+        "CN": 858.7,
+        "CH": 832.8,
+        "LC": 794.5,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 800.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Ribeirão Preto"
+    },
+    "PI": {
+      "uf": "PI",
+      "media4": 843.0,
+      "notas": {
+        "CN": 824.8,
+        "CH": 835.4,
+        "LC": 744.0,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 920.0,
+      "co_escola": "22025740",
+      "uf_esc": "PI",
+      "munic_esc": "Teresina",
+      "dep": "Privada",
+      "munic_prova": "Teresina",
+      "escola_nome": "INSTITUTO DOM BARRETO CENTRO",
+      "escola_municipio": "Teresina",
+      "escola_uf": "PI"
+    },
+    "MG": {
+      "uf": "MG",
+      "media4": 830.0,
+      "notas": {
+        "CN": 858.7,
+        "CH": 811.3,
+        "LC": 682.4,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 940.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Belo Horizonte"
+    },
+    "SE": {
+      "uf": "SE",
+      "media4": 822.2,
+      "notas": {
+        "CN": 858.7,
+        "CH": 711.9,
+        "LC": 794.5,
+        "MT": 923.7
+      },
+      "area_max": "MT",
+      "nota_max": 923.7,
+      "redacao": 840.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Aracaju"
+    },
+    "PB": {
+      "uf": "PB",
+      "media4": 819.2,
+      "notas": {
+        "CN": 819.3,
+        "CH": 748.4,
+        "LC": 741.5,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 960.0,
+      "co_escola": "25120298",
+      "uf_esc": "PB",
+      "munic_esc": "João Pessoa",
+      "dep": "Privada",
+      "munic_prova": "João Pessoa",
+      "escola_nome": "CENTRO PESSOENSE DE EDUCACAO - COLEGIO MOTIVA",
+      "escola_municipio": "João Pessoa",
+      "escola_uf": "PB"
+    },
+    "BA": {
+      "uf": "BA",
+      "media4": 838.7,
+      "notas": {
+        "CN": 758.0,
+        "CH": 856.4,
+        "LC": 772.7,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 960.0,
+      "co_escola": "29485541",
+      "uf_esc": "BA",
+      "munic_esc": "Salvador",
+      "dep": "Privada",
+      "munic_prova": "Salvador",
+      "escola_nome": "COLEGIO BERNOULLI",
+      "escola_municipio": "Salvador",
+      "escola_uf": "BA"
+    },
+    "PE": {
+      "uf": "PE",
+      "media4": 833.5,
+      "notas": {
+        "CN": 824.2,
+        "CH": 856.4,
+        "LC": 748.9,
+        "MT": 904.5
+      },
+      "area_max": "MT",
+      "nota_max": 904.5,
+      "redacao": 680.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Triunfo"
+    },
+    "PA": {
+      "uf": "PA",
+      "media4": 809.2,
+      "notas": {
+        "CN": 771.3,
+        "CH": 818.2,
+        "LC": 720.7,
+        "MT": 926.7
+      },
+      "area_max": "MT",
+      "nota_max": 926.7,
+      "redacao": 960.0,
+      "co_escola": "15168344",
+      "uf_esc": "PA",
+      "munic_esc": "Belém",
+      "dep": "Privada",
+      "munic_prova": "Castanhal",
+      "escola_nome": "COLEGIO EQUIPE CRISTAL",
+      "escola_municipio": "Belém",
+      "escola_uf": "PA"
+    },
+    "DF": {
+      "uf": "DF",
+      "media4": 816.3,
+      "notas": {
+        "CN": 818.1,
+        "CH": 758.0,
+        "LC": 743.5,
+        "MT": 945.6
+      },
+      "area_max": "MT",
+      "nota_max": 945.6,
+      "redacao": 940.0,
+      "co_escola": "53001320",
+      "uf_esc": "DF",
+      "munic_esc": "Brasília",
+      "dep": "Privada",
+      "munic_prova": "Brasília",
+      "escola_nome": "COL MADRE CARMEN SALLES",
+      "escola_municipio": "Brasília",
+      "escola_uf": "DF"
+    },
+    "RS": {
+      "uf": "RS",
+      "media4": 840.4,
+      "notas": {
+        "CN": 852.4,
+        "CH": 795.5,
+        "LC": 745.9,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 920.0,
+      "co_escola": "43105084",
+      "uf_esc": "RS",
+      "munic_esc": "Porto Alegre",
+      "dep": "Privada",
+      "munic_prova": "Porto Alegre",
+      "escola_nome": "COL LA SALLE SANTO ANTONIO",
+      "escola_municipio": "Porto Alegre",
+      "escola_uf": "RS"
+    },
+    "RN": {
+      "uf": "RN",
+      "media4": 839.3,
+      "notas": {
+        "CN": 858.7,
+        "CH": 778.9,
+        "LC": 752.0,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 860.0,
+      "co_escola": "24097004",
+      "uf_esc": "RN",
+      "munic_esc": "Natal",
+      "dep": "Privada",
+      "munic_prova": "Natal",
+      "escola_nome": "COLEGIO CIENCIAS APLICADAS",
+      "escola_municipio": "Natal",
+      "escola_uf": "RN"
+    },
+    "PR": {
+      "uf": "PR",
+      "media4": 817.2,
+      "notas": {
+        "CN": 826.0,
+        "CH": 738.8,
+        "LC": 736.5,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 960.0,
+      "co_escola": "41355644",
+      "uf_esc": "PR",
+      "munic_esc": "Curitiba",
+      "dep": "Privada",
+      "munic_prova": "Curitiba",
+      "escola_nome": "COLEGIO POSITIVO VICENTE MACHADO - ENSINO MEDIO",
+      "escola_municipio": "Curitiba",
+      "escola_uf": "PR"
+    },
+    "AM": {
+      "uf": "AM",
+      "media4": 823.9,
+      "notas": {
+        "CN": 858.7,
+        "CH": 856.4,
+        "LC": 663.1,
+        "MT": 917.4
+      },
+      "area_max": "MT",
+      "nota_max": 917.4,
+      "redacao": 560.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Manaus"
+    },
+    "MT": {
+      "uf": "MT",
+      "media4": 794.8,
+      "notas": {
+        "CN": 809.8,
+        "CH": 747.4,
+        "LC": 715.1,
+        "MT": 907.1
+      },
+      "area_max": "MT",
+      "nota_max": 907.1,
+      "redacao": 920.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Alta Floresta"
+    },
+    "GO": {
+      "uf": "GO",
+      "media4": 819.9,
+      "notas": {
+        "CN": 826.0,
+        "CH": 787.2,
+        "LC": 736.5,
+        "MT": 929.9
+      },
+      "area_max": "MT",
+      "nota_max": 929.9,
+      "redacao": 900.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Goiânia"
+    },
+    "ES": {
+      "uf": "ES",
+      "media4": 826.0,
+      "notas": {
+        "CN": 858.7,
+        "CH": 813.6,
+        "LC": 685.8,
+        "MT": 945.8
+      },
+      "area_max": "MT",
+      "nota_max": 945.8,
+      "redacao": 960.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Vila Velha"
+    },
+    "CE": {
+      "uf": "CE",
+      "media4": 824.5,
+      "notas": {
+        "CN": 793.5,
+        "CH": 856.4,
+        "LC": 731.4,
+        "MT": 916.8
+      },
+      "area_max": "MT",
+      "nota_max": 916.8,
+      "redacao": 720.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Porteiras"
+    },
+    "SC": {
+      "uf": "SC",
+      "media4": 822.9,
+      "notas": {
+        "CN": 805.3,
+        "CH": 805.0,
+        "LC": 735.8,
+        "MT": 945.6
+      },
+      "area_max": "MT",
+      "nota_max": 945.6,
+      "redacao": 920.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Florianópolis"
+    },
+    "MS": {
+      "uf": "MS",
+      "media4": 803.7,
+      "notas": {
+        "CN": 811.5,
+        "CH": 738.7,
+        "LC": 697.0,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 820.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Campo Grande"
+    },
+    "TO": {
+      "uf": "TO",
+      "media4": 791.5,
+      "notas": {
+        "CN": 802.5,
+        "CH": 735.1,
+        "LC": 711.8,
+        "MT": 916.5
+      },
+      "area_max": "MT",
+      "nota_max": 916.5,
+      "redacao": 620.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Palmas"
+    },
+    "AC": {
+      "uf": "AC",
+      "media4": 790.2,
+      "notas": {
+        "CN": 765.3,
+        "CH": 779.0,
+        "LC": 682.9,
+        "MT": 933.7
+      },
+      "area_max": "MT",
+      "nota_max": 933.7,
+      "redacao": 820.0,
+      "co_escola": "12010936",
+      "uf_esc": "AC",
+      "munic_esc": "Rio Branco",
+      "dep": "Privada",
+      "munic_prova": "Rio Branco",
+      "escola_nome": "ESC CENTRO EDUCACIONAL E CULTURAL - META",
+      "escola_municipio": "Rio Branco",
+      "escola_uf": "AC"
+    },
+    "AL": {
+      "uf": "AL",
+      "media4": 802.3,
+      "notas": {
+        "CN": 758.7,
+        "CH": 805.6,
+        "LC": 714.6,
+        "MT": 930.4
+      },
+      "area_max": "MT",
+      "nota_max": 930.4,
+      "redacao": 640.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Maceió"
+    },
+    "AP": {
+      "uf": "AP",
+      "media4": 779.6,
+      "notas": {
+        "CN": 767.9,
+        "CH": 746.0,
+        "LC": 711.1,
+        "MT": 893.3
+      },
+      "area_max": "MT",
+      "nota_max": 893.3,
+      "redacao": 800.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Santana"
+    },
+    "RO": {
+      "uf": "RO",
+      "media4": 793.3,
+      "notas": {
+        "CN": 820.2,
+        "CH": 731.8,
+        "LC": 684.1,
+        "MT": 937.2
+      },
+      "area_max": "MT",
+      "nota_max": 937.2,
+      "redacao": 980.0,
+      "co_escola": "11000058",
+      "uf_esc": "RO",
+      "munic_esc": "Porto Velho",
+      "dep": "Privada",
+      "munic_prova": "Porto Velho",
+      "escola_nome": "CENTRO DE ENSINO CLASSE A",
+      "escola_municipio": "Porto Velho",
+      "escola_uf": "RO"
+    },
+    "RR": {
+      "uf": "RR",
+      "media4": 758.5,
+      "notas": {
+        "CN": 819.7,
+        "CH": 659.6,
+        "LC": 620.3,
+        "MT": 934.3
+      },
+      "area_max": "MT",
+      "nota_max": 934.3,
+      "redacao": 800.0,
+      "co_escola": "",
+      "uf_esc": "",
+      "munic_esc": "",
+      "dep": "",
+      "munic_prova": "Boa Vista"
+    }
+  },
+  "best_school": {
+    "RJ": {
+      "uf": "RJ",
+      "media4": 820.0,
+      "notas": {
+        "CN": 766.4,
+        "CH": 751.3,
+        "LC": 794.5,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 900.0,
+      "co_escola": "33057109",
+      "uf_esc": "RJ",
+      "munic_esc": "Niterói",
+      "dep": "Privada",
+      "munic_prova": "Niterói",
+      "escola_nome": "COLEGIO LA SALLE ABEL",
+      "escola_municipio": "Niterói",
+      "escola_uf": "RJ"
+    },
+    "SP": {
+      "uf": "SP",
+      "media4": 835.9,
+      "notas": {
+        "CN": 858.7,
+        "CH": 802.3,
+        "LC": 715.0,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 920.0,
+      "co_escola": "35134806",
+      "uf_esc": "SP",
+      "munic_esc": "São Paulo",
+      "dep": "Privada",
+      "munic_prova": "São Paulo",
+      "escola_nome": "ETAPA COLEGIO DE EFM",
+      "escola_municipio": "São Paulo",
+      "escola_uf": "SP"
+    },
+    "PB": {
+      "uf": "PB",
+      "media4": 819.2,
+      "notas": {
+        "CN": 819.3,
+        "CH": 748.4,
+        "LC": 741.5,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 960.0,
+      "co_escola": "25120298",
+      "uf_esc": "PB",
+      "munic_esc": "João Pessoa",
+      "dep": "Privada",
+      "munic_prova": "João Pessoa",
+      "escola_nome": "CENTRO PESSOENSE DE EDUCACAO - COLEGIO MOTIVA",
+      "escola_municipio": "João Pessoa",
+      "escola_uf": "PB"
+    },
+    "MG": {
+      "uf": "MG",
+      "media4": 829.0,
+      "notas": {
+        "CN": 797.8,
+        "CH": 769.9,
+        "LC": 794.5,
+        "MT": 953.8
+      },
+      "area_max": "MT",
+      "nota_max": 953.8,
+      "redacao": 940.0,
+      "co_escola": "31166332",
+      "uf_esc": "MG",
+      "munic_esc": "Uberaba",
+      "dep": "Privada",
+      "munic_prova": "Uberaba",
+      "escola_nome": "COLEGIO MARISTA DIOCESANO",
+      "escola_municipio": "Uberaba",
+      "escola_uf": "MG"
+    },
+    "PA": {
+      "uf": "PA",
+      "media4": 809.2,
+      "notas": {
+        "CN": 771.3,
+        "CH": 818.2,
+        "LC": 720.7,
+        "MT": 926.7
+      },
+      "area_max": "MT",
+      "nota_max": 926.7,
+      "redacao": 960.0,
+      "co_escola": "15168344",
+      "uf_esc": "PA",
+      "munic_esc": "Belém",
+      "dep": "Privada",
+      "munic_prova": "Castanhal",
+      "escola_nome": "COLEGIO EQUIPE CRISTAL",
+      "escola_municipio": "Belém",
+      "escola_uf": "PA"
+    },
+    "RN": {
+      "uf": "RN",
+      "media4": 839.3,
+      "notas": {
+        "CN": 858.7,
+        "CH": 778.9,
+        "LC": 752.0,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 860.0,
+      "co_escola": "24097004",
+      "uf_esc": "RN",
+      "munic_esc": "Natal",
+      "dep": "Privada",
+      "munic_prova": "Natal",
+      "escola_nome": "COLEGIO CIENCIAS APLICADAS",
+      "escola_municipio": "Natal",
+      "escola_uf": "RN"
+    },
+    "PR": {
+      "uf": "PR",
+      "media4": 817.2,
+      "notas": {
+        "CN": 826.0,
+        "CH": 738.8,
+        "LC": 736.5,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 960.0,
+      "co_escola": "41355644",
+      "uf_esc": "PR",
+      "munic_esc": "Curitiba",
+      "dep": "Privada",
+      "munic_prova": "Curitiba",
+      "escola_nome": "COLEGIO POSITIVO VICENTE MACHADO - ENSINO MEDIO",
+      "escola_municipio": "Curitiba",
+      "escola_uf": "PR"
+    },
+    "AM": {
+      "uf": "AM",
+      "media4": 799.7,
+      "notas": {
+        "CN": 779.9,
+        "CH": 732.1,
+        "LC": 727.5,
+        "MT": 959.3
+      },
+      "area_max": "MT",
+      "nota_max": 959.3,
+      "redacao": 900.0,
+      "co_escola": "13099981",
+      "uf_esc": "AM",
+      "munic_esc": "Manaus",
+      "dep": "Privada",
+      "munic_prova": "Manaus",
+      "escola_nome": "CENTRO EDUCACIONAL LATO SENSU III",
+      "escola_municipio": "Manaus",
+      "escola_uf": "AM"
+    },
+    "MT": {
+      "uf": "MT",
+      "media4": 783.1,
+      "notas": {
+        "CN": 802.5,
+        "CH": 681.3,
+        "LC": 705.1,
+        "MT": 943.6
+      },
+      "area_max": "MT",
+      "nota_max": 943.6,
+      "redacao": 960.0,
+      "co_escola": "51036185",
+      "uf_esc": "MT",
+      "munic_esc": "Cuiabá",
+      "dep": "Privada",
+      "munic_prova": "Cuiabá",
+      "escola_nome": "COLEGIO ISAAC NEWTON - CIN - MATUTINO E VESPERTINO",
+      "escola_municipio": "Cuiabá",
+      "escola_uf": "MT"
+    },
+    "MA": {
+      "uf": "MA",
+      "media4": 793.8,
+      "notas": {
+        "CN": 809.8,
+        "CH": 746.5,
+        "LC": 697.8,
+        "MT": 921.1
+      },
+      "area_max": "MT",
+      "nota_max": 921.1,
+      "redacao": 900.0,
+      "co_escola": "21279446",
+      "uf_esc": "MA",
+      "munic_esc": "São Luís",
+      "dep": "Privada",
+      "munic_prova": "São Luís",
+      "escola_nome": "ESCOLA CRESCIMENTO",
+      "escola_municipio": "São Luís",
+      "escola_uf": "MA"
+    },
+    "ES": {
+      "uf": "ES",
+      "media4": 824.0,
+      "notas": {
+        "CN": 858.7,
+        "CH": 740.4,
+        "LC": 729.4,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 740.0,
+      "co_escola": "32083882",
+      "uf_esc": "ES",
+      "munic_esc": "Vitória",
+      "dep": "Privada",
+      "munic_prova": "Linhares",
+      "escola_nome": "ESCOLA MADAN",
+      "escola_municipio": "Vitória",
+      "escola_uf": "ES"
+    },
+    "CE": {
+      "uf": "CE",
+      "media4": 813.3,
+      "notas": {
+        "CN": 793.9,
+        "CH": 773.0,
+        "LC": 718.5,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 940.0,
+      "co_escola": "23246880",
+      "uf_esc": "CE",
+      "munic_esc": "Fortaleza",
+      "dep": "Privada",
+      "munic_prova": "Fortaleza",
+      "escola_nome": "CHRISTUS COLEGIO PRE UNIVERSITARIO",
+      "escola_municipio": "Fortaleza",
+      "escola_uf": "CE"
+    },
+    "SC": {
+      "uf": "SC",
+      "media4": 822.0,
+      "notas": {
+        "CN": 801.4,
+        "CH": 787.7,
+        "LC": 731.3,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 900.0,
+      "co_escola": "42053480",
+      "uf_esc": "SC",
+      "munic_esc": "Chapecó",
+      "dep": "Privada",
+      "munic_prova": "Chapecó",
+      "escola_nome": "COLEGIO MARISTA SAO FRANCISCO EI EF EM",
+      "escola_municipio": "Chapecó",
+      "escola_uf": "SC"
+    },
+    "GO": {
+      "uf": "GO",
+      "media4": 818.9,
+      "notas": {
+        "CN": 811.5,
+        "CH": 754.6,
+        "LC": 729.2,
+        "MT": 980.3
+      },
+      "area_max": "MT",
+      "nota_max": 980.3,
+      "redacao": 660.0,
+      "co_escola": "52103137",
+      "uf_esc": "GO",
+      "munic_esc": "Goiânia",
+      "dep": "Privada",
+      "munic_prova": "Goiânia",
+      "escola_nome": "COLEGIO ARENA",
+      "escola_municipio": "Goiânia",
+      "escola_uf": "GO"
+    },
+    "PE": {
+      "uf": "PE",
+      "media4": 829.6,
+      "notas": {
+        "CN": 800.0,
+        "CH": 791.6,
+        "LC": 759.2,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 880.0,
+      "co_escola": "26122081",
+      "uf_esc": "PE",
+      "munic_esc": "Recife",
+      "dep": "Privada",
+      "munic_prova": "Recife",
+      "escola_nome": "COLEGIO DAS DAMAS DA INSTRUCAO CRISTA",
+      "escola_municipio": "Recife",
+      "escola_uf": "PE"
+    },
+    "PI": {
+      "uf": "PI",
+      "media4": 843.0,
+      "notas": {
+        "CN": 824.8,
+        "CH": 835.4,
+        "LC": 744.0,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 920.0,
+      "co_escola": "22025740",
+      "uf_esc": "PI",
+      "munic_esc": "Teresina",
+      "dep": "Privada",
+      "munic_prova": "Teresina",
+      "escola_nome": "INSTITUTO DOM BARRETO CENTRO",
+      "escola_municipio": "Teresina",
+      "escola_uf": "PI"
+    },
+    "BA": {
+      "uf": "BA",
+      "media4": 838.7,
+      "notas": {
+        "CN": 758.0,
+        "CH": 856.4,
+        "LC": 772.7,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 960.0,
+      "co_escola": "29485541",
+      "uf_esc": "BA",
+      "munic_esc": "Salvador",
+      "dep": "Privada",
+      "munic_prova": "Salvador",
+      "escola_nome": "COLEGIO BERNOULLI",
+      "escola_municipio": "Salvador",
+      "escola_uf": "BA"
+    },
+    "MS": {
+      "uf": "MS",
+      "media4": 797.8,
+      "notas": {
+        "CN": 755.3,
+        "CH": 755.4,
+        "LC": 712.8,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 840.0,
+      "co_escola": "50032100",
+      "uf_esc": "MS",
+      "munic_esc": "Campo Grande",
+      "dep": "Privada",
+      "munic_prova": "Campo Grande",
+      "escola_nome": "COLEGIO BIONATUS II",
+      "escola_municipio": "Campo Grande",
+      "escola_uf": "MS"
+    },
+    "AC": {
+      "uf": "AC",
+      "media4": 790.2,
+      "notas": {
+        "CN": 765.3,
+        "CH": 779.0,
+        "LC": 682.9,
+        "MT": 933.7
+      },
+      "area_max": "MT",
+      "nota_max": 933.7,
+      "redacao": 820.0,
+      "co_escola": "12010936",
+      "uf_esc": "AC",
+      "munic_esc": "Rio Branco",
+      "dep": "Privada",
+      "munic_prova": "Rio Branco",
+      "escola_nome": "ESC CENTRO EDUCACIONAL E CULTURAL - META",
+      "escola_municipio": "Rio Branco",
+      "escola_uf": "AC"
+    },
+    "RS": {
+      "uf": "RS",
+      "media4": 840.4,
+      "notas": {
+        "CN": 852.4,
+        "CH": 795.5,
+        "LC": 745.9,
+        "MT": 967.7
+      },
+      "area_max": "MT",
+      "nota_max": 967.7,
+      "redacao": 920.0,
+      "co_escola": "43105084",
+      "uf_esc": "RS",
+      "munic_esc": "Porto Alegre",
+      "dep": "Privada",
+      "munic_prova": "Porto Alegre",
+      "escola_nome": "COL LA SALLE SANTO ANTONIO",
+      "escola_municipio": "Porto Alegre",
+      "escola_uf": "RS"
+    },
+    "AP": {
+      "uf": "AP",
+      "media4": 767.9,
+      "notas": {
+        "CN": 738.6,
+        "CH": 708.9,
+        "LC": 690.2,
+        "MT": 934.1
+      },
+      "area_max": "MT",
+      "nota_max": 934.1,
+      "redacao": 840.0,
+      "co_escola": "16003128",
+      "uf_esc": "AP",
+      "munic_esc": "Macapá",
+      "dep": "Privada",
+      "munic_prova": "Macapá",
+      "escola_nome": "ESCOLA CONEXAO AQUARELA",
+      "escola_municipio": "Macapá",
+      "escola_uf": "AP"
+    },
+    "DF": {
+      "uf": "DF",
+      "media4": 816.3,
+      "notas": {
+        "CN": 818.1,
+        "CH": 758.0,
+        "LC": 743.5,
+        "MT": 945.6
+      },
+      "area_max": "MT",
+      "nota_max": 945.6,
+      "redacao": 940.0,
+      "co_escola": "53001320",
+      "uf_esc": "DF",
+      "munic_esc": "Brasília",
+      "dep": "Privada",
+      "munic_prova": "Brasília",
+      "escola_nome": "COL MADRE CARMEN SALLES",
+      "escola_municipio": "Brasília",
+      "escola_uf": "DF"
+    },
+    "RO": {
+      "uf": "RO",
+      "media4": 793.3,
+      "notas": {
+        "CN": 820.2,
+        "CH": 731.8,
+        "LC": 684.1,
+        "MT": 937.2
+      },
+      "area_max": "MT",
+      "nota_max": 937.2,
+      "redacao": 980.0,
+      "co_escola": "11000058",
+      "uf_esc": "RO",
+      "munic_esc": "Porto Velho",
+      "dep": "Privada",
+      "munic_prova": "Porto Velho",
+      "escola_nome": "CENTRO DE ENSINO CLASSE A",
+      "escola_municipio": "Porto Velho",
+      "escola_uf": "RO"
+    },
+    "AL": {
+      "uf": "AL",
+      "media4": 794.0,
+      "notas": {
+        "CN": 762.3,
+        "CH": 747.2,
+        "LC": 744.0,
+        "MT": 922.3
+      },
+      "area_max": "MT",
+      "nota_max": 922.3,
+      "redacao": 900.0,
+      "co_escola": "27218244",
+      "uf_esc": "AL",
+      "munic_esc": "Maceió",
+      "dep": "Privada",
+      "munic_prova": "Maceió",
+      "escola_nome": "COLEGIO SANTA URSULA LTDA",
+      "escola_municipio": "Maceió",
+      "escola_uf": "AL"
+    },
+    "SE": {
+      "uf": "SE",
+      "media4": 813.9,
+      "notas": {
+        "CN": 840.4,
+        "CH": 791.6,
+        "LC": 681.4,
+        "MT": 942.1
+      },
+      "area_max": "MT",
+      "nota_max": 942.1,
+      "redacao": 900.0,
+      "co_escola": "28032322",
+      "uf_esc": "SE",
+      "munic_esc": "Aracaju",
+      "dep": "Privada",
+      "munic_prova": "Aracaju",
+      "escola_nome": "CENTRO DE EXCELENCIA MASTER",
+      "escola_municipio": "Aracaju",
+      "escola_uf": "SE"
+    },
+    "TO": {
+      "uf": "TO",
+      "media4": 771.6,
+      "notas": {
+        "CN": 752.4,
+        "CH": 743.0,
+        "LC": 700.8,
+        "MT": 890.4
+      },
+      "area_max": "MT",
+      "nota_max": 890.4,
+      "redacao": 840.0,
+      "co_escola": "17056446",
+      "uf_esc": "TO",
+      "munic_esc": "Palmas",
+      "dep": "Privada",
+      "munic_prova": "Palmas",
+      "escola_nome": "COLEGIO OLIMPO PALMAS INTEGRAL",
+      "escola_municipio": "Palmas",
+      "escola_uf": "TO"
+    },
+    "RR": {
+      "uf": "RR",
+      "media4": 752.1,
+      "notas": {
+        "CN": 768.3,
+        "CH": 723.6,
+        "LC": 653.4,
+        "MT": 863.2
+      },
+      "area_max": "MT",
+      "nota_max": 863.2,
+      "redacao": 920.0,
+      "co_escola": "14006111",
+      "uf_esc": "RR",
+      "munic_esc": "Boa Vista",
+      "dep": "Federal",
+      "munic_prova": "Boa Vista",
+      "escola_nome": "COLEGIO DE APLICACAO DA UFRR",
+      "escola_municipio": "Boa Vista",
+      "escola_uf": "RR"
+    }
+  }
+}

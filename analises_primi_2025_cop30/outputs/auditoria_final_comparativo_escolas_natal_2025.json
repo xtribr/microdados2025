@@ -1,0 +1,112 @@
+{
+  "generated_at": "2026-06-25T14:22:55-03:00",
+  "verdict": "APROVADO",
+  "sources": {
+    "enem_zip_url": "https://download.inep.gov.br/microdados/microdados_enem_2025.zip",
+    "resultados_local": "/Volumes/KINGSTON/apps/microdados_enem_2025/DADOS/RESULTADOS_2025.csv",
+    "censo_zip_url": "https://download.inep.gov.br/dados_abertos/microdados_censo_escolar_2025_.zip",
+    "censo_zip_local": "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/cache/microdados_censo_escolar_2025.zip"
+  },
+  "source_checks": {
+    "enem_crc32_and_size_match_official_zip": true,
+    "target_codes_present_in_censo_2025": true
+  },
+  "counts": [
+    {
+      "codigo_inep": 24097004,
+      "escola": "Ciências Aplicadas",
+      "criterio": "todos_5_notas",
+      "raw_resultados_natal": 56,
+      "excluidos_total": 2,
+      "excluidos_alguma_nota_ausente": 2,
+      "excluidos_alguma_area_ausente": 2,
+      "excluidos_redacao_invalida": 0,
+      "pool_5_notas_validas": 54,
+      "amostra_n": 54,
+      "menor_media_5_amostra": 613.5,
+      "maior_media_5_fora_top54": NaN,
+      "top54_respeitado": true
+    },
+    {
+      "codigo_inep": 24088846,
+      "escola": "Colégio Porto",
+      "criterio": "top_54_media_5",
+      "raw_resultados_natal": 100,
+      "excluidos_total": 4,
+      "excluidos_alguma_nota_ausente": 4,
+      "excluidos_alguma_area_ausente": 4,
+      "excluidos_redacao_invalida": 0,
+      "pool_5_notas_validas": 96,
+      "amostra_n": 54,
+      "menor_media_5_amostra": 700.3,
+      "maior_media_5_fora_top54": 697.74,
+      "top54_respeitado": true
+    },
+    {
+      "codigo_inep": 24069191,
+      "escola": "CEI S/A Romualdo",
+      "criterio": "top_54_media_5",
+      "raw_resultados_natal": 141,
+      "excluidos_total": 2,
+      "excluidos_alguma_nota_ausente": 2,
+      "excluidos_alguma_area_ausente": 2,
+      "excluidos_redacao_invalida": 0,
+      "pool_5_notas_validas": 139,
+      "amostra_n": 54,
+      "menor_media_5_amostra": 722.4200000000001,
+      "maior_media_5_fora_top54": 721.8,
+      "top54_respeitado": true
+    },
+    {
+      "codigo_inep": 24057134,
+      "escola": "Marista de Natal",
+      "criterio": "top_54_media_5",
+      "raw_resultados_natal": 171,
+      "excluidos_total": 0,
+      "excluidos_alguma_nota_ausente": 0,
+      "excluidos_alguma_area_ausente": 0,
+      "excluidos_redacao_invalida": 0,
+      "pool_5_notas_validas": 171,
+      "amostra_n": 54,
+      "menor_media_5_amostra": 716.0200000000001,
+      "maior_media_5_fora_top54": 715.4200000000001,
+      "top54_respeitado": true
+    }
+  ],
+  "cei_mais_nao_usado": {
+    "codigo": 24350303,
+    "raw_resultados_natal": 88,
+    "pool_5_notas_validas": 86,
+    "motivo_nao_uso": "Censo Escolar identifica como CENTRO DE EDUCACAO INTEGRADA MAIS LTDA, diferente do CEI S/A Romualdo pedido"
+  },
+  "checks": {
+    "selected_rows": 216,
+    "selected_counts_match": true,
+    "selected_counts": {
+      "CEI S/A Romualdo": 54,
+      "Ciências Aplicadas": 54,
+      "Colégio Porto": 54,
+      "Marista de Natal": 54
+    },
+    "pool_counts": {
+      "CEI S/A Romualdo": 139,
+      "Ciências Aplicadas": 54,
+      "Colégio Porto": 96,
+      "Marista de Natal": 171
+    },
+    "summary_max_abs_diff": {
+      "media_5": 0.0,
+      "media_4_tri": 0.0,
+      "media_redacao": 1.1368683772161603e-13
+    },
+    "summary_values_match_recalculation": true,
+    "forbidden_identifier_columns_in_selected_csv": [],
+    "selected_public_has_no_original_identifier": true
+  },
+  "sha256": {
+    "RESULTADOS_2025.csv": "5df5ebed6395a3e69e3dc3b3c9731930312597318ff4dfc178b136514796803d",
+    "microdados_censo_escolar_2025.zip": "4dd0c065492ec379c217457188932742748f3734c24d6ca27a2aea44aa010a5a",
+    "comparativo_escolas_natal_2025_resumo.csv": "3d604953fcfefe15a64ae8901f9f00070441eec87327ceca31c7d59cc52d313f",
+    "comparativo_escolas_natal_2025_amostra_54x54.csv": "6c4e5642a060c60d3890bddd26e26c8176edef1f3d1f8b709f071e4b590a76c6"
+  }
+}

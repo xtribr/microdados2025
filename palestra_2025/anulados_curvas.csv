@@ -1,0 +1,529 @@
+co_item,area,tipo,motivo,gab,banda_ini,banda_meio,n_banda,alt,pct
+96748,CN,tri,Problema de convergência,B,300,325,38032,A,20.33
+96748,CN,tri,Problema de convergência,B,300,325,38032,B,25.75
+96748,CN,tri,Problema de convergência,B,300,325,38032,C,22.3
+96748,CN,tri,Problema de convergência,B,300,325,38032,D,18.1
+96748,CN,tri,Problema de convergência,B,300,325,38032,E,12.56
+96748,CN,tri,Problema de convergência,B,300,325,38032,outros,0.97
+96748,CN,tri,Problema de convergência,B,350,375,285814,A,20.04
+96748,CN,tri,Problema de convergência,B,350,375,285814,B,26.28
+96748,CN,tri,Problema de convergência,B,350,375,285814,C,22.88
+96748,CN,tri,Problema de convergência,B,350,375,285814,D,18.48
+96748,CN,tri,Problema de convergência,B,350,375,285814,E,11.95
+96748,CN,tri,Problema de convergência,B,350,375,285814,outros,0.37
+96748,CN,tri,Problema de convergência,B,400,425,545453,A,18.77
+96748,CN,tri,Problema de convergência,B,400,425,545453,B,27.41
+96748,CN,tri,Problema de convergência,B,400,425,545453,C,23.67
+96748,CN,tri,Problema de convergência,B,400,425,545453,D,19.0
+96748,CN,tri,Problema de convergência,B,400,425,545453,E,10.83
+96748,CN,tri,Problema de convergência,B,400,425,545453,outros,0.32
+96748,CN,tri,Problema de convergência,B,450,475,738975,A,17.47
+96748,CN,tri,Problema de convergência,B,450,475,738975,B,28.22
+96748,CN,tri,Problema de convergência,B,450,475,738975,C,24.5
+96748,CN,tri,Problema de convergência,B,450,475,738975,D,19.56
+96748,CN,tri,Problema de convergência,B,450,475,738975,E,9.88
+96748,CN,tri,Problema de convergência,B,450,475,738975,outros,0.37
+96748,CN,tri,Problema de convergência,B,500,525,756189,A,16.02
+96748,CN,tri,Problema de convergência,B,500,525,756189,B,28.61
+96748,CN,tri,Problema de convergência,B,500,525,756189,C,25.12
+96748,CN,tri,Problema de convergência,B,500,525,756189,D,20.69
+96748,CN,tri,Problema de convergência,B,500,525,756189,E,9.17
+96748,CN,tri,Problema de convergência,B,500,525,756189,outros,0.39
+96748,CN,tri,Problema de convergência,B,550,575,486969,A,14.42
+96748,CN,tri,Problema de convergência,B,550,575,486969,B,27.52
+96748,CN,tri,Problema de convergência,B,550,575,486969,C,25.89
+96748,CN,tri,Problema de convergência,B,550,575,486969,D,22.6
+96748,CN,tri,Problema de convergência,B,550,575,486969,E,9.08
+96748,CN,tri,Problema de convergência,B,550,575,486969,outros,0.5
+96748,CN,tri,Problema de convergência,B,600,625,211385,A,12.67
+96748,CN,tri,Problema de convergência,B,600,625,211385,B,23.38
+96748,CN,tri,Problema de convergência,B,600,625,211385,C,25.81
+96748,CN,tri,Problema de convergência,B,600,625,211385,D,25.65
+96748,CN,tri,Problema de convergência,B,600,625,211385,E,11.89
+96748,CN,tri,Problema de convergência,B,600,625,211385,outros,0.59
+96748,CN,tri,Problema de convergência,B,650,675,78709,A,11.48
+96748,CN,tri,Problema de convergência,B,650,675,78709,B,17.48
+96748,CN,tri,Problema de convergência,B,650,675,78709,C,22.11
+96748,CN,tri,Problema de convergência,B,650,675,78709,D,28.38
+96748,CN,tri,Problema de convergência,B,650,675,78709,E,20.01
+96748,CN,tri,Problema de convergência,B,650,675,78709,outros,0.53
+96748,CN,tri,Problema de convergência,B,700,725,27060,A,11.42
+96748,CN,tri,Problema de convergência,B,700,725,27060,B,23.6
+96748,CN,tri,Problema de convergência,B,700,725,27060,C,15.46
+96748,CN,tri,Problema de convergência,B,700,725,27060,D,23.22
+96748,CN,tri,Problema de convergência,B,700,725,27060,E,26.0
+96748,CN,tri,Problema de convergência,B,700,725,27060,outros,0.31
+96748,CN,tri,Problema de convergência,B,750,775,6571,A,10.42
+96748,CN,tri,Problema de convergência,B,750,775,6571,B,47.57
+96748,CN,tri,Problema de convergência,B,750,775,6571,C,9.44
+96748,CN,tri,Problema de convergência,B,750,775,6571,D,13.12
+96748,CN,tri,Problema de convergência,B,750,775,6571,E,19.22
+96748,CN,tri,Problema de convergência,B,750,775,6571,outros,0.23
+96748,CN,tri,Problema de convergência,B,800,825,1024,A,7.42
+96748,CN,tri,Problema de convergência,B,800,825,1024,B,69.14
+96748,CN,tri,Problema de convergência,B,800,825,1024,C,5.76
+96748,CN,tri,Problema de convergência,B,800,825,1024,D,7.32
+96748,CN,tri,Problema de convergência,B,800,825,1024,E,10.35
+96748,CN,tri,Problema de convergência,B,800,825,1024,outros,0.0
+97593,MT,tri,Problema de convergência,A,300,325,161095,A,14.85
+97593,MT,tri,Problema de convergência,A,300,325,161095,B,21.21
+97593,MT,tri,Problema de convergência,A,300,325,161095,C,25.5
+97593,MT,tri,Problema de convergência,A,300,325,161095,D,20.23
+97593,MT,tri,Problema de convergência,A,300,325,161095,E,17.25
+97593,MT,tri,Problema de convergência,A,300,325,161095,outros,0.96
+97593,MT,tri,Problema de convergência,A,350,375,457100,A,14.14
+97593,MT,tri,Problema de convergência,A,350,375,457100,B,22.18
+97593,MT,tri,Problema de convergência,A,350,375,457100,C,26.71
+97593,MT,tri,Problema de convergência,A,350,375,457100,D,20.09
+97593,MT,tri,Problema de convergência,A,350,375,457100,E,16.35
+97593,MT,tri,Problema de convergência,A,350,375,457100,outros,0.54
+97593,MT,tri,Problema de convergência,A,400,425,498813,A,13.19
+97593,MT,tri,Problema de convergência,A,400,425,498813,B,23.36
+97593,MT,tri,Problema de convergência,A,400,425,498813,C,27.05
+97593,MT,tri,Problema de convergência,A,400,425,498813,D,20.02
+97593,MT,tri,Problema de convergência,A,400,425,498813,E,15.88
+97593,MT,tri,Problema de convergência,A,400,425,498813,outros,0.49
+97593,MT,tri,Problema de convergência,A,450,475,457452,A,12.23
+97593,MT,tri,Problema de convergência,A,450,475,457452,B,25.15
+97593,MT,tri,Problema de convergência,A,450,475,457452,C,27.5
+97593,MT,tri,Problema de convergência,A,450,475,457452,D,19.48
+97593,MT,tri,Problema de convergência,A,450,475,457452,E,15.15
+97593,MT,tri,Problema de convergência,A,450,475,457452,outros,0.48
+97593,MT,tri,Problema de convergência,A,500,525,407132,A,11.4
+97593,MT,tri,Problema de convergência,A,500,525,407132,B,26.84
+97593,MT,tri,Problema de convergência,A,500,525,407132,C,28.01
+97593,MT,tri,Problema de convergência,A,500,525,407132,D,19.09
+97593,MT,tri,Problema de convergência,A,500,525,407132,E,14.14
+97593,MT,tri,Problema de convergência,A,500,525,407132,outros,0.51
+97593,MT,tri,Problema de convergência,A,550,575,347580,A,10.85
+97593,MT,tri,Problema de convergência,A,550,575,347580,B,27.84
+97593,MT,tri,Problema de convergência,A,550,575,347580,C,28.25
+97593,MT,tri,Problema de convergência,A,550,575,347580,D,19.21
+97593,MT,tri,Problema de convergência,A,550,575,347580,E,13.28
+97593,MT,tri,Problema de convergência,A,550,575,347580,outros,0.57
+97593,MT,tri,Problema de convergência,A,600,625,288482,A,10.5
+97593,MT,tri,Problema de convergência,A,600,625,288482,B,27.08
+97593,MT,tri,Problema de convergência,A,600,625,288482,C,28.25
+97593,MT,tri,Problema de convergência,A,600,625,288482,D,21.19
+97593,MT,tri,Problema de convergência,A,600,625,288482,E,12.3
+97593,MT,tri,Problema de convergência,A,600,625,288482,outros,0.68
+97593,MT,tri,Problema de convergência,A,650,675,226815,A,10.58
+97593,MT,tri,Problema de convergência,A,650,675,226815,B,24.67
+97593,MT,tri,Problema de convergência,A,650,675,226815,C,27.72
+97593,MT,tri,Problema de convergência,A,650,675,226815,D,25.07
+97593,MT,tri,Problema de convergência,A,650,675,226815,E,11.15
+97593,MT,tri,Problema de convergência,A,650,675,226815,outros,0.81
+97593,MT,tri,Problema de convergência,A,700,725,157590,A,10.47
+97593,MT,tri,Problema de convergência,A,700,725,157590,B,20.08
+97593,MT,tri,Problema de convergência,A,700,725,157590,C,26.04
+97593,MT,tri,Problema de convergência,A,700,725,157590,D,32.94
+97593,MT,tri,Problema de convergência,A,700,725,157590,E,9.63
+97593,MT,tri,Problema de convergência,A,700,725,157590,outros,0.83
+97593,MT,tri,Problema de convergência,A,750,775,93828,A,9.51
+97593,MT,tri,Problema de convergência,A,750,775,93828,B,13.65
+97593,MT,tri,Problema de convergência,A,750,775,93828,C,21.52
+97593,MT,tri,Problema de convergência,A,750,775,93828,D,47.06
+97593,MT,tri,Problema de convergência,A,750,775,93828,E,7.53
+97593,MT,tri,Problema de convergência,A,750,775,93828,outros,0.73
+97593,MT,tri,Problema de convergência,A,800,825,80215,A,7.6
+97593,MT,tri,Problema de convergência,A,800,825,80215,B,5.07
+97593,MT,tri,Problema de convergência,A,800,825,80215,C,10.56
+97593,MT,tri,Problema de convergência,A,800,825,80215,D,72.94
+97593,MT,tri,Problema de convergência,A,800,825,80215,E,3.48
+97593,MT,tri,Problema de convergência,A,800,825,80215,outros,0.35
+141557,CN,exposto,Previamente exposto,X,300,325,38032,A,17.47
+141557,CN,exposto,Previamente exposto,X,300,325,38032,B,20.87
+141557,CN,exposto,Previamente exposto,X,300,325,38032,C,24.85
+141557,CN,exposto,Previamente exposto,X,300,325,38032,D,20.18
+141557,CN,exposto,Previamente exposto,X,300,325,38032,E,15.73
+141557,CN,exposto,Previamente exposto,X,300,325,38032,outros,0.9
+141557,CN,exposto,Previamente exposto,X,350,375,285814,A,16.04
+141557,CN,exposto,Previamente exposto,X,350,375,285814,B,20.98
+141557,CN,exposto,Previamente exposto,X,350,375,285814,C,25.91
+141557,CN,exposto,Previamente exposto,X,350,375,285814,D,21.09
+141557,CN,exposto,Previamente exposto,X,350,375,285814,E,15.62
+141557,CN,exposto,Previamente exposto,X,350,375,285814,outros,0.36
+141557,CN,exposto,Previamente exposto,X,400,425,545453,A,13.43
+141557,CN,exposto,Previamente exposto,X,400,425,545453,B,21.57
+141557,CN,exposto,Previamente exposto,X,400,425,545453,C,27.07
+141557,CN,exposto,Previamente exposto,X,400,425,545453,D,22.3
+141557,CN,exposto,Previamente exposto,X,400,425,545453,E,15.33
+141557,CN,exposto,Previamente exposto,X,400,425,545453,outros,0.31
+141557,CN,exposto,Previamente exposto,X,450,475,738975,A,11.04
+141557,CN,exposto,Previamente exposto,X,450,475,738975,B,22.34
+141557,CN,exposto,Previamente exposto,X,450,475,738975,C,28.14
+141557,CN,exposto,Previamente exposto,X,450,475,738975,D,23.39
+141557,CN,exposto,Previamente exposto,X,450,475,738975,E,14.75
+141557,CN,exposto,Previamente exposto,X,450,475,738975,outros,0.33
+141557,CN,exposto,Previamente exposto,X,500,525,756189,A,8.96
+141557,CN,exposto,Previamente exposto,X,500,525,756189,B,23.4
+141557,CN,exposto,Previamente exposto,X,500,525,756189,C,29.27
+141557,CN,exposto,Previamente exposto,X,500,525,756189,D,24.57
+141557,CN,exposto,Previamente exposto,X,500,525,756189,E,13.45
+141557,CN,exposto,Previamente exposto,X,500,525,756189,outros,0.35
+141557,CN,exposto,Previamente exposto,X,550,575,486969,A,7.27
+141557,CN,exposto,Previamente exposto,X,550,575,486969,B,25.18
+141557,CN,exposto,Previamente exposto,X,550,575,486969,C,31.11
+141557,CN,exposto,Previamente exposto,X,550,575,486969,D,25.12
+141557,CN,exposto,Previamente exposto,X,550,575,486969,E,10.89
+141557,CN,exposto,Previamente exposto,X,550,575,486969,outros,0.43
+141557,CN,exposto,Previamente exposto,X,600,625,211385,A,7.14
+141557,CN,exposto,Previamente exposto,X,600,625,211385,B,25.45
+141557,CN,exposto,Previamente exposto,X,600,625,211385,C,33.58
+141557,CN,exposto,Previamente exposto,X,600,625,211385,D,25.3
+141557,CN,exposto,Previamente exposto,X,600,625,211385,E,7.99
+141557,CN,exposto,Previamente exposto,X,600,625,211385,outros,0.54
+141557,CN,exposto,Previamente exposto,X,650,675,78709,A,7.7
+141557,CN,exposto,Previamente exposto,X,650,675,78709,B,22.27
+141557,CN,exposto,Previamente exposto,X,650,675,78709,C,36.02
+141557,CN,exposto,Previamente exposto,X,650,675,78709,D,27.54
+141557,CN,exposto,Previamente exposto,X,650,675,78709,E,5.93
+141557,CN,exposto,Previamente exposto,X,650,675,78709,outros,0.53
+141557,CN,exposto,Previamente exposto,X,700,725,27060,A,6.53
+141557,CN,exposto,Previamente exposto,X,700,725,27060,B,17.85
+141557,CN,exposto,Previamente exposto,X,700,725,27060,C,43.4
+141557,CN,exposto,Previamente exposto,X,700,725,27060,D,27.54
+141557,CN,exposto,Previamente exposto,X,700,725,27060,E,4.31
+141557,CN,exposto,Previamente exposto,X,700,725,27060,outros,0.37
+141557,CN,exposto,Previamente exposto,X,750,775,6571,A,4.82
+141557,CN,exposto,Previamente exposto,X,750,775,6571,B,11.96
+141557,CN,exposto,Previamente exposto,X,750,775,6571,C,60.33
+141557,CN,exposto,Previamente exposto,X,750,775,6571,D,20.67
+141557,CN,exposto,Previamente exposto,X,750,775,6571,E,2.08
+141557,CN,exposto,Previamente exposto,X,750,775,6571,outros,0.14
+141557,CN,exposto,Previamente exposto,X,800,825,1024,A,2.64
+141557,CN,exposto,Previamente exposto,X,800,825,1024,B,7.52
+141557,CN,exposto,Previamente exposto,X,800,825,1024,C,76.76
+141557,CN,exposto,Previamente exposto,X,800,825,1024,D,12.4
+141557,CN,exposto,Previamente exposto,X,800,825,1024,E,0.68
+141557,CN,exposto,Previamente exposto,X,800,825,1024,outros,0.0
+141774,CN,exposto,Previamente exposto,X,300,325,38032,A,15.22
+141774,CN,exposto,Previamente exposto,X,300,325,38032,B,17.0
+141774,CN,exposto,Previamente exposto,X,300,325,38032,C,31.55
+141774,CN,exposto,Previamente exposto,X,300,325,38032,D,24.78
+141774,CN,exposto,Previamente exposto,X,300,325,38032,E,10.62
+141774,CN,exposto,Previamente exposto,X,300,325,38032,outros,0.83
+141774,CN,exposto,Previamente exposto,X,350,375,285814,A,14.81
+141774,CN,exposto,Previamente exposto,X,350,375,285814,B,16.82
+141774,CN,exposto,Previamente exposto,X,350,375,285814,C,29.87
+141774,CN,exposto,Previamente exposto,X,350,375,285814,D,28.45
+141774,CN,exposto,Previamente exposto,X,350,375,285814,E,9.71
+141774,CN,exposto,Previamente exposto,X,350,375,285814,outros,0.34
+141774,CN,exposto,Previamente exposto,X,400,425,545453,A,14.97
+141774,CN,exposto,Previamente exposto,X,400,425,545453,B,16.72
+141774,CN,exposto,Previamente exposto,X,400,425,545453,C,28.03
+141774,CN,exposto,Previamente exposto,X,400,425,545453,D,30.84
+141774,CN,exposto,Previamente exposto,X,400,425,545453,E,9.17
+141774,CN,exposto,Previamente exposto,X,400,425,545453,outros,0.27
+141774,CN,exposto,Previamente exposto,X,450,475,738975,A,15.35
+141774,CN,exposto,Previamente exposto,X,450,475,738975,B,17.49
+141774,CN,exposto,Previamente exposto,X,450,475,738975,C,27.02
+141774,CN,exposto,Previamente exposto,X,450,475,738975,D,30.74
+141774,CN,exposto,Previamente exposto,X,450,475,738975,E,9.16
+141774,CN,exposto,Previamente exposto,X,450,475,738975,outros,0.24
+141774,CN,exposto,Previamente exposto,X,500,525,756189,A,15.38
+141774,CN,exposto,Previamente exposto,X,500,525,756189,B,20.26
+141774,CN,exposto,Previamente exposto,X,500,525,756189,C,26.63
+141774,CN,exposto,Previamente exposto,X,500,525,756189,D,27.7
+141774,CN,exposto,Previamente exposto,X,500,525,756189,E,9.81
+141774,CN,exposto,Previamente exposto,X,500,525,756189,outros,0.21
+141774,CN,exposto,Previamente exposto,X,550,575,486969,A,13.81
+141774,CN,exposto,Previamente exposto,X,550,575,486969,B,26.47
+141774,CN,exposto,Previamente exposto,X,550,575,486969,C,25.89
+141774,CN,exposto,Previamente exposto,X,550,575,486969,D,21.39
+141774,CN,exposto,Previamente exposto,X,550,575,486969,E,12.24
+141774,CN,exposto,Previamente exposto,X,550,575,486969,outros,0.2
+141774,CN,exposto,Previamente exposto,X,600,625,211385,A,9.73
+141774,CN,exposto,Previamente exposto,X,600,625,211385,B,30.36
+141774,CN,exposto,Previamente exposto,X,600,625,211385,C,23.17
+141774,CN,exposto,Previamente exposto,X,600,625,211385,D,13.07
+141774,CN,exposto,Previamente exposto,X,600,625,211385,E,23.49
+141774,CN,exposto,Previamente exposto,X,600,625,211385,outros,0.17
+141774,CN,exposto,Previamente exposto,X,650,675,78709,A,5.52
+141774,CN,exposto,Previamente exposto,X,650,675,78709,B,23.56
+141774,CN,exposto,Previamente exposto,X,650,675,78709,C,19.06
+141774,CN,exposto,Previamente exposto,X,650,675,78709,D,5.64
+141774,CN,exposto,Previamente exposto,X,650,675,78709,E,46.09
+141774,CN,exposto,Previamente exposto,X,650,675,78709,outros,0.13
+141774,CN,exposto,Previamente exposto,X,700,725,27060,A,2.22
+141774,CN,exposto,Previamente exposto,X,700,725,27060,B,12.7
+141774,CN,exposto,Previamente exposto,X,700,725,27060,C,14.39
+141774,CN,exposto,Previamente exposto,X,700,725,27060,D,1.65
+141774,CN,exposto,Previamente exposto,X,700,725,27060,E,68.95
+141774,CN,exposto,Previamente exposto,X,700,725,27060,outros,0.09
+141774,CN,exposto,Previamente exposto,X,750,775,6571,A,1.23
+141774,CN,exposto,Previamente exposto,X,750,775,6571,B,6.22
+141774,CN,exposto,Previamente exposto,X,750,775,6571,C,10.3
+141774,CN,exposto,Previamente exposto,X,750,775,6571,D,0.55
+141774,CN,exposto,Previamente exposto,X,750,775,6571,E,81.6
+141774,CN,exposto,Previamente exposto,X,750,775,6571,outros,0.09
+141774,CN,exposto,Previamente exposto,X,800,825,1024,A,0.68
+141774,CN,exposto,Previamente exposto,X,800,825,1024,B,3.52
+141774,CN,exposto,Previamente exposto,X,800,825,1024,C,6.64
+141774,CN,exposto,Previamente exposto,X,800,825,1024,D,0.29
+141774,CN,exposto,Previamente exposto,X,800,825,1024,E,88.87
+141774,CN,exposto,Previamente exposto,X,800,825,1024,outros,0.0
+31350,MT,exposto,Previamente exposto,X,300,325,161095,A,20.19
+31350,MT,exposto,Previamente exposto,X,300,325,161095,B,21.78
+31350,MT,exposto,Previamente exposto,X,300,325,161095,C,24.19
+31350,MT,exposto,Previamente exposto,X,300,325,161095,D,16.69
+31350,MT,exposto,Previamente exposto,X,300,325,161095,E,16.2
+31350,MT,exposto,Previamente exposto,X,300,325,161095,outros,0.95
+31350,MT,exposto,Previamente exposto,X,350,375,457100,A,19.79
+31350,MT,exposto,Previamente exposto,X,350,375,457100,B,22.65
+31350,MT,exposto,Previamente exposto,X,350,375,457100,C,24.54
+31350,MT,exposto,Previamente exposto,X,350,375,457100,D,17.28
+31350,MT,exposto,Previamente exposto,X,350,375,457100,E,15.24
+31350,MT,exposto,Previamente exposto,X,350,375,457100,outros,0.5
+31350,MT,exposto,Previamente exposto,X,400,425,498813,A,19.19
+31350,MT,exposto,Previamente exposto,X,400,425,498813,B,23.7
+31350,MT,exposto,Previamente exposto,X,400,425,498813,C,24.53
+31350,MT,exposto,Previamente exposto,X,400,425,498813,D,17.88
+31350,MT,exposto,Previamente exposto,X,400,425,498813,E,14.28
+31350,MT,exposto,Previamente exposto,X,400,425,498813,outros,0.42
+31350,MT,exposto,Previamente exposto,X,450,475,457452,A,18.13
+31350,MT,exposto,Previamente exposto,X,450,475,457452,B,25.39
+31350,MT,exposto,Previamente exposto,X,450,475,457452,C,24.66
+31350,MT,exposto,Previamente exposto,X,450,475,457452,D,18.55
+31350,MT,exposto,Previamente exposto,X,450,475,457452,E,12.88
+31350,MT,exposto,Previamente exposto,X,450,475,457452,outros,0.39
+31350,MT,exposto,Previamente exposto,X,500,525,407132,A,16.5
+31350,MT,exposto,Previamente exposto,X,500,525,407132,B,27.89
+31350,MT,exposto,Previamente exposto,X,500,525,407132,C,24.87
+31350,MT,exposto,Previamente exposto,X,500,525,407132,D,19.22
+31350,MT,exposto,Previamente exposto,X,500,525,407132,E,11.15
+31350,MT,exposto,Previamente exposto,X,500,525,407132,outros,0.38
+31350,MT,exposto,Previamente exposto,X,550,575,347580,A,14.37
+31350,MT,exposto,Previamente exposto,X,550,575,347580,B,31.48
+31350,MT,exposto,Previamente exposto,X,550,575,347580,C,24.72
+31350,MT,exposto,Previamente exposto,X,550,575,347580,D,19.61
+31350,MT,exposto,Previamente exposto,X,550,575,347580,E,9.44
+31350,MT,exposto,Previamente exposto,X,550,575,347580,outros,0.39
+31350,MT,exposto,Previamente exposto,X,600,625,288482,A,12.19
+31350,MT,exposto,Previamente exposto,X,600,625,288482,B,36.87
+31350,MT,exposto,Previamente exposto,X,600,625,288482,C,23.19
+31350,MT,exposto,Previamente exposto,X,600,625,288482,D,19.33
+31350,MT,exposto,Previamente exposto,X,600,625,288482,E,7.93
+31350,MT,exposto,Previamente exposto,X,600,625,288482,outros,0.48
+31350,MT,exposto,Previamente exposto,X,650,675,226815,A,10.5
+31350,MT,exposto,Previamente exposto,X,650,675,226815,B,43.66
+31350,MT,exposto,Previamente exposto,X,650,675,226815,C,20.09
+31350,MT,exposto,Previamente exposto,X,650,675,226815,D,18.25
+31350,MT,exposto,Previamente exposto,X,650,675,226815,E,6.94
+31350,MT,exposto,Previamente exposto,X,650,675,226815,outros,0.56
+31350,MT,exposto,Previamente exposto,X,700,725,157590,A,8.91
+31350,MT,exposto,Previamente exposto,X,700,725,157590,B,52.11
+31350,MT,exposto,Previamente exposto,X,700,725,157590,C,16.23
+31350,MT,exposto,Previamente exposto,X,700,725,157590,D,16.24
+31350,MT,exposto,Previamente exposto,X,700,725,157590,E,5.91
+31350,MT,exposto,Previamente exposto,X,700,725,157590,outros,0.6
+31350,MT,exposto,Previamente exposto,X,750,775,93828,A,7.56
+31350,MT,exposto,Previamente exposto,X,750,775,93828,B,61.15
+31350,MT,exposto,Previamente exposto,X,750,775,93828,C,12.77
+31350,MT,exposto,Previamente exposto,X,750,775,93828,D,13.24
+31350,MT,exposto,Previamente exposto,X,750,775,93828,E,4.71
+31350,MT,exposto,Previamente exposto,X,750,775,93828,outros,0.57
+31350,MT,exposto,Previamente exposto,X,800,825,80215,A,4.76
+31350,MT,exposto,Previamente exposto,X,800,825,80215,B,76.23
+31350,MT,exposto,Previamente exposto,X,800,825,80215,C,9.03
+31350,MT,exposto,Previamente exposto,X,800,825,80215,D,6.78
+31350,MT,exposto,Previamente exposto,X,800,825,80215,E,2.87
+31350,MT,exposto,Previamente exposto,X,800,825,80215,outros,0.32
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,300,325,46601,A,29.72
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,300,325,46601,B,18.65
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,300,325,46601,C,17.62
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,300,325,46601,D,13.59
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,300,325,46601,E,16.76
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,300,325,46601,outros,3.66
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,350,375,282269,A,31.48
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,350,375,282269,B,17.25
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,350,375,282269,C,15.64
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,350,375,282269,D,18.23
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,350,375,282269,E,16.73
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,350,375,282269,outros,0.67
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,400,425,534911,A,32.85
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,400,425,534911,B,15.65
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,400,425,534911,C,12.56
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,400,425,534911,D,21.56
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,400,425,534911,E,17.03
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,400,425,534911,outros,0.35
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,450,475,630661,A,34.43
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,450,475,630661,B,13.47
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,450,475,630661,C,8.36
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,450,475,630661,D,26.59
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,450,475,630661,E,16.89
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,450,475,630661,outros,0.25
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,500,525,689339,A,35.94
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,500,525,689339,B,10.92
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,500,525,689339,C,4.86
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,500,525,689339,D,33.48
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,500,525,689339,E,14.59
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,500,525,689339,outros,0.21
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,550,575,633280,A,35.22
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,550,575,633280,B,8.0
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,550,575,633280,C,3.02
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,550,575,633280,D,43.96
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,550,575,633280,E,9.61
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,550,575,633280,outros,0.18
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,600,625,369421,A,26.02
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,600,625,369421,B,7.57
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,600,625,369421,C,2.06
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,600,625,369421,D,59.26
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,600,625,369421,E,4.97
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,600,625,369421,outros,0.13
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,650,675,137002,A,12.73
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,650,675,137002,B,9.31
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,650,675,137002,C,1.01
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,650,675,137002,D,74.65
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,650,675,137002,E,2.23
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,650,675,137002,outros,0.07
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,700,725,32333,A,4.38
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,700,725,32333,B,7.94
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,700,725,32333,C,0.38
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,700,725,32333,D,86.5
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,700,725,32333,E,0.75
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,700,725,32333,outros,0.05
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,750,775,4174,A,1.84
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,750,775,4174,B,3.74
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,750,775,4174,C,0.14
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,750,775,4174,D,93.99
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,750,775,4174,E,0.26
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,750,775,4174,outros,0.02
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,800,825,294,A,0.0
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,800,825,294,B,1.7
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,800,825,294,C,0.0
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,800,825,294,D,98.3
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,800,825,294,E,0.0
+125735,CH,ref,"item saudável (A=1,93 B=0,98)",D,800,825,294,outros,0.0
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,300,325,38032,A,22.01
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,300,325,38032,B,23.67
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,300,325,38032,C,18.52
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,300,325,38032,D,21.65
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,300,325,38032,E,13.16
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,300,325,38032,outros,0.98
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,350,375,285814,A,20.95
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,350,375,285814,B,24.47
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,350,375,285814,C,17.63
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,350,375,285814,D,21.61
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,350,375,285814,E,14.93
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,350,375,285814,outros,0.39
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,400,425,545453,A,19.83
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,400,425,545453,B,24.11
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,400,425,545453,C,17.18
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,400,425,545453,D,22.35
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,400,425,545453,E,16.23
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,400,425,545453,outros,0.31
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,450,475,738975,A,18.96
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,450,475,738975,B,22.31
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,450,475,738975,C,16.45
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,450,475,738975,D,23.8
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,450,475,738975,E,18.24
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,450,475,738975,outros,0.24
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,500,525,756189,A,18.04
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,500,525,756189,B,17.88
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,500,525,756189,C,13.93
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,500,525,756189,D,25.33
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,500,525,756189,E,24.61
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,500,525,756189,outros,0.21
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,550,575,486969,A,15.96
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,550,575,486969,B,12.39
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,550,575,486969,C,9.33
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,550,575,486969,D,23.42
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,550,575,486969,E,38.74
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,550,575,486969,outros,0.17
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,600,625,211385,A,12.21
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,600,625,211385,B,7.3
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,600,625,211385,C,4.57
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,600,625,211385,D,14.56
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,600,625,211385,E,61.22
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,600,625,211385,outros,0.13
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,650,675,78709,A,8.35
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,650,675,78709,B,2.9
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,650,675,78709,C,1.44
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,650,675,78709,D,5.41
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,650,675,78709,E,81.85
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,650,675,78709,outros,0.06
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,700,725,27060,A,5.04
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,700,725,27060,B,0.68
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,700,725,27060,C,0.27
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,700,725,27060,D,1.23
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,700,725,27060,E,92.73
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,700,725,27060,outros,0.04
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,750,775,6571,A,2.91
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,750,775,6571,B,0.15
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,750,775,6571,C,0.03
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,750,775,6571,D,0.33
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,750,775,6571,E,96.58
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,750,775,6571,outros,0.0
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,800,825,1024,A,1.27
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,800,825,1024,B,0.0
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,800,825,1024,C,0.1
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,800,825,1024,D,0.0
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,800,825,1024,E,98.63
+141577,CN,ref,"item saudável (A=2,33 B=1,10)",E,800,825,1024,outros,0.0
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,300,325,161095,A,20.97
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,300,325,161095,B,21.03
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,300,325,161095,C,21.4
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,300,325,161095,D,19.32
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,300,325,161095,E,16.4
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,300,325,161095,outros,0.87
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,350,375,457100,A,19.8
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,350,375,457100,B,21.23
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,350,375,457100,C,23.15
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,350,375,457100,D,19.62
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,350,375,457100,E,15.75
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,350,375,457100,outros,0.46
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,400,425,498813,A,18.84
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,400,425,498813,B,21.51
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,400,425,498813,C,24.07
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,400,425,498813,D,19.78
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,400,425,498813,E,15.38
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,400,425,498813,outros,0.41
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,450,475,457452,A,18.16
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,450,475,457452,B,21.73
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,450,475,457452,C,25.05
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,450,475,457452,D,19.51
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,450,475,457452,E,15.14
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,450,475,457452,outros,0.41
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,500,525,407132,A,17.46
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,500,525,407132,B,21.73
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,500,525,407132,C,26.49
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,500,525,407132,D,18.95
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,500,525,407132,E,14.9
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,500,525,407132,outros,0.47
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,550,575,347580,A,16.52
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,550,575,347580,B,21.27
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,550,575,347580,C,29.24
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,550,575,347580,D,18.07
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,550,575,347580,E,14.37
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,550,575,347580,outros,0.54
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,600,625,288482,A,14.83
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,600,625,288482,B,20.33
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,600,625,288482,C,34.63
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,600,625,288482,D,16.63
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,600,625,288482,E,12.9
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,600,625,288482,outros,0.68
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,650,675,226815,A,11.58
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,650,675,226815,B,17.86
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,650,675,226815,C,45.44
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,650,675,226815,D,14.17
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,650,675,226815,E,10.16
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,650,675,226815,outros,0.79
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,700,725,157590,A,7.8
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,700,725,157590,B,12.89
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,700,725,157590,C,61.94
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,700,725,157590,D,10.04
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,700,725,157590,E,6.61
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,700,725,157590,outros,0.72
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,750,775,93828,A,4.54
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,750,775,93828,B,7.26
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,750,775,93828,C,77.89
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,750,775,93828,D,6.13
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,750,775,93828,E,3.69
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,750,775,93828,outros,0.49
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,800,825,80215,A,1.6
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,800,825,80215,B,2.36
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,800,825,80215,C,92.24
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,800,825,80215,D,2.19
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,800,825,80215,E,1.39
+117856,MT,ref,"item saudável (A=2,17 B=1,83)",C,800,825,80215,outros,0.22

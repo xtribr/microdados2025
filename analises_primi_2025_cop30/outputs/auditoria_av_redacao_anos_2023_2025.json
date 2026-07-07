@@ -1,0 +1,258 @@
+{
+  "summary": [
+    {
+      "ano": 2023,
+      "tipo": "CSV completo local",
+      "path": "/Users/home/Desktop/testes MIRT/dados 2023/MICRODADOS_ENEM_2023.csv",
+      "colunas_total": 76,
+      "colunas_redacao": [
+        "TP_STATUS_REDACAO",
+        "NU_NOTA_COMP1",
+        "NU_NOTA_COMP2",
+        "NU_NOTA_COMP3",
+        "NU_NOTA_COMP4",
+        "NU_NOTA_COMP5",
+        "NU_NOTA_REDACAO"
+      ],
+      "colunas_av_no_csv": [],
+      "qtd_av_no_csv": 0,
+      "qtd_av_no_dicionario": 0,
+      "linhas_av_no_dicionario": []
+    },
+    {
+      "ano": 2024,
+      "tipo": "CSV completo local + dicionário oficial local",
+      "path": "/Users/home/Desktop/testes MIRT/dados 2024/RESULTADOS_2024.csv",
+      "colunas_total": 42,
+      "colunas_redacao": [
+        "TP_STATUS_REDACAO",
+        "NU_NOTA_COMP1",
+        "NU_NOTA_COMP2",
+        "NU_NOTA_COMP3",
+        "NU_NOTA_COMP4",
+        "NU_NOTA_COMP5",
+        "NU_NOTA_REDACAO"
+      ],
+      "colunas_av_no_csv": [],
+      "qtd_av_no_csv": 0,
+      "qtd_av_no_dicionario": 0,
+      "linhas_av_no_dicionario": []
+    },
+    {
+      "ano": 2025,
+      "tipo": "CSV completo local + dicionário oficial local",
+      "path": "DADOS/RESULTADOS_2025.csv",
+      "colunas_total": 70,
+      "colunas_redacao": [
+        "TP_STATUS_REDACAO",
+        "NU_NOTA_COMP1",
+        "NU_NOTA_COMP2",
+        "NU_NOTA_COMP3",
+        "NU_NOTA_COMP4",
+        "NU_NOTA_COMP5",
+        "NU_NOTA_REDACAO",
+        "TP_STATUS_REDACAO_AV1",
+        "NU_NOTA_COMP1_AV1",
+        "NU_NOTA_COMP2_AV1",
+        "NU_NOTA_COMP3_AV1",
+        "NU_NOTA_COMP4_AV1",
+        "NU_NOTA_COMP5_AV1",
+        "TP_STATUS_REDACAO_AV2",
+        "NU_NOTA_COMP1_AV2",
+        "NU_NOTA_COMP2_AV2",
+        "NU_NOTA_COMP3_AV2",
+        "NU_NOTA_COMP4_AV2",
+        "NU_NOTA_COMP5_AV2",
+        "TP_STATUS_REDACAO_AV3",
+        "NU_NOTA_COMP1_AV3",
+        "NU_NOTA_COMP2_AV3",
+        "NU_NOTA_COMP3_AV3",
+        "NU_NOTA_COMP4_AV3",
+        "NU_NOTA_COMP5_AV3",
+        "TP_STATUS_REDACAO_AV4",
+        "NU_NOTA_COMP1_AV4",
+        "NU_NOTA_COMP2_AV4",
+        "NU_NOTA_COMP3_AV4",
+        "NU_NOTA_COMP4_AV4",
+        "NU_NOTA_COMP5_AV4"
+      ],
+      "colunas_av_no_csv": [
+        "TP_STATUS_REDACAO_AV1",
+        "NU_NOTA_AV1",
+        "NU_NOTA_COMP1_AV1",
+        "NU_NOTA_COMP2_AV1",
+        "NU_NOTA_COMP3_AV1",
+        "NU_NOTA_COMP4_AV1",
+        "NU_NOTA_COMP5_AV1",
+        "TP_STATUS_REDACAO_AV2",
+        "NU_NOTA_AV2",
+        "NU_NOTA_COMP1_AV2",
+        "NU_NOTA_COMP2_AV2",
+        "NU_NOTA_COMP3_AV2",
+        "NU_NOTA_COMP4_AV2",
+        "NU_NOTA_COMP5_AV2",
+        "TP_STATUS_REDACAO_AV3",
+        "NU_NOTA_AV3",
+        "NU_NOTA_COMP1_AV3",
+        "NU_NOTA_COMP2_AV3",
+        "NU_NOTA_COMP3_AV3",
+        "NU_NOTA_COMP4_AV3",
+        "NU_NOTA_COMP5_AV3",
+        "TP_STATUS_REDACAO_AV4",
+        "NU_NOTA_AV4",
+        "NU_NOTA_COMP1_AV4",
+        "NU_NOTA_COMP2_AV4",
+        "NU_NOTA_COMP3_AV4",
+        "NU_NOTA_COMP4_AV4",
+        "NU_NOTA_COMP5_AV4"
+      ],
+      "qtd_av_no_csv": 28,
+      "qtd_av_no_dicionario": 28,
+      "linhas_av_no_dicionario": [
+        [
+          257,
+          "TP_STATUS_REDACAO_AV1"
+        ],
+        [
+          265,
+          "NU_NOTA_AV1"
+        ],
+        [
+          266,
+          "NU_NOTA_COMP1_AV1"
+        ],
+        [
+          267,
+          "NU_NOTA_COMP2_AV1"
+        ],
+        [
+          268,
+          "NU_NOTA_COMP3_AV1"
+        ],
+        [
+          269,
+          "NU_NOTA_COMP4_AV1"
+        ],
+        [
+          270,
+          "NU_NOTA_COMP5_AV1"
+        ],
+        [
+          271,
+          "TP_STATUS_REDACAO_AV2"
+        ],
+        [
+          279,
+          "NU_NOTA_AV2"
+        ],
+        [
+          280,
+          "NU_NOTA_COMP1_AV2"
+        ],
+        [
+          281,
+          "NU_NOTA_COMP2_AV2"
+        ],
+        [
+          282,
+          "NU_NOTA_COMP3_AV2"
+        ],
+        [
+          283,
+          "NU_NOTA_COMP4_AV2"
+        ],
+        [
+          284,
+          "NU_NOTA_COMP5_AV2"
+        ],
+        [
+          285,
+          "TP_STATUS_REDACAO_AV3"
+        ],
+        [
+          293,
+          "NU_NOTA_AV3"
+        ],
+        [
+          294,
+          "NU_NOTA_COMP1_AV3"
+        ],
+        [
+          295,
+          "NU_NOTA_COMP2_AV3"
+        ],
+        [
+          296,
+          "NU_NOTA_COMP3_AV3"
+        ],
+        [
+          297,
+          "NU_NOTA_COMP4_AV3"
+        ],
+        [
+          298,
+          "NU_NOTA_COMP5_AV3"
+        ],
+        [
+          299,
+          "TP_STATUS_REDACAO_AV4"
+        ],
+        [
+          307,
+          "NU_NOTA_AV4"
+        ],
+        [
+          308,
+          "NU_NOTA_COMP1_AV4"
+        ],
+        [
+          309,
+          "NU_NOTA_COMP2_AV4"
+        ],
+        [
+          310,
+          "NU_NOTA_COMP3_AV4"
+        ],
+        [
+          311,
+          "NU_NOTA_COMP4_AV4"
+        ],
+        [
+          312,
+          "NU_NOTA_COMP5_AV4"
+        ]
+      ]
+    }
+  ],
+  "extra_2025_vs_2024": [
+    "TP_STATUS_REDACAO_AV1",
+    "NU_NOTA_AV1",
+    "NU_NOTA_COMP1_AV1",
+    "NU_NOTA_COMP2_AV1",
+    "NU_NOTA_COMP3_AV1",
+    "NU_NOTA_COMP4_AV1",
+    "NU_NOTA_COMP5_AV1",
+    "TP_STATUS_REDACAO_AV2",
+    "NU_NOTA_AV2",
+    "NU_NOTA_COMP1_AV2",
+    "NU_NOTA_COMP2_AV2",
+    "NU_NOTA_COMP3_AV2",
+    "NU_NOTA_COMP4_AV2",
+    "NU_NOTA_COMP5_AV2",
+    "TP_STATUS_REDACAO_AV3",
+    "NU_NOTA_AV3",
+    "NU_NOTA_COMP1_AV3",
+    "NU_NOTA_COMP2_AV3",
+    "NU_NOTA_COMP3_AV3",
+    "NU_NOTA_COMP4_AV3",
+    "NU_NOTA_COMP5_AV3",
+    "TP_STATUS_REDACAO_AV4",
+    "NU_NOTA_AV4",
+    "NU_NOTA_COMP1_AV4",
+    "NU_NOTA_COMP2_AV4",
+    "NU_NOTA_COMP3_AV4",
+    "NU_NOTA_COMP4_AV4",
+    "NU_NOTA_COMP5_AV4"
+  ],
+  "extra_2025_vs_2024_count": 28
+}

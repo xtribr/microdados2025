@@ -1,0 +1,25 @@
+escola,area,faixa_disc,acerto_pct,n_resp,acerto_nacional
+CEI Romualdo,CH,"alta (1,35–1,69)",60.1,695,37.3
+CEI Romualdo,CH,"baixa/moderada (A<1,35)",60.3,973,42.6
+CEI Romualdo,CH,"muito alta (A≥1,70)",63.1,4587,36.4
+CEI Romualdo,CN,"alta (1,35–1,69)",64.6,557,46.2
+CEI Romualdo,CN,"baixa/moderada (A<1,35)",60.3,972,45.1
+CEI Romualdo,CN,"muito alta (A≥1,70)",57.4,4309,29.7
+CEI Romualdo,LC,"alta (1,35–1,69)",57.4,695,37.3
+CEI Romualdo,LC,"baixa/moderada (A<1,35)",61.0,834,48.5
+CEI Romualdo,LC,"muito alta (A≥1,70)",76.6,4726,48.4
+CEI Romualdo,MT,"alta (1,35–1,69)",78.9,1391,46.1
+CEI Romualdo,MT,"baixa/moderada (A<1,35)",55.9,973,34.7
+CEI Romualdo,MT,"muito alta (A≥1,70)",58.5,3613,26.8
+CEI Roberto Freire,CH,"alta (1,35–1,69)",52.0,350,37.3
+CEI Roberto Freire,CH,"baixa/moderada (A<1,35)",57.3,490,42.6
+CEI Roberto Freire,CH,"muito alta (A≥1,70)",59.4,2310,36.4
+CEI Roberto Freire,CN,"alta (1,35–1,69)",63.3,281,46.2
+CEI Roberto Freire,CN,"baixa/moderada (A<1,35)",60.5,489,45.1
+CEI Roberto Freire,CN,"muito alta (A≥1,70)",58.6,2170,29.7
+CEI Roberto Freire,LC,"alta (1,35–1,69)",59.4,350,37.3
+CEI Roberto Freire,LC,"baixa/moderada (A<1,35)",54.7,422,48.5
+CEI Roberto Freire,LC,"muito alta (A≥1,70)",76.0,2378,48.4
+CEI Roberto Freire,MT,"alta (1,35–1,69)",77.0,701,46.1
+CEI Roberto Freire,MT,"baixa/moderada (A<1,35)",52.7,490,34.7
+CEI Roberto Freire,MT,"muito alta (A≥1,70)",55.7,1819,26.8

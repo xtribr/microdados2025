@@ -1,0 +1,149 @@
+{
+  "fonte": "Microdados ENEM 2025 / INEP",
+  "base": "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/equating_cadernos_dificuldade_2025.csv",
+  "tipo_visual": "régua/dot plot de média DIF_XTRI por cor",
+  "leitura": "pontos alinhados dentro do painel indicam mesma dificuldade média por cor",
+  "paineis": {
+    "Linguagens · Inglês": {
+      "media_dif_xtri": 64.43254001244263,
+      "delta_entre_cores": 2.842170943040401e-14,
+      "itens_validos": 45,
+      "anuladas": 0,
+      "cores": [
+        {
+          "cor_label": "Azul",
+          "co_prova": 1459,
+          "media_dif_xtri": 64.43254001244262
+        },
+        {
+          "cor_label": "Amarela",
+          "co_prova": 1460,
+          "media_dif_xtri": 64.43254001244262
+        },
+        {
+          "cor_label": "Verde",
+          "co_prova": 1461,
+          "media_dif_xtri": 64.43254001244264
+        },
+        {
+          "cor_label": "Branca",
+          "co_prova": 1462,
+          "media_dif_xtri": 64.43254001244264
+        }
+      ]
+    },
+    "Linguagens · Espanhol": {
+      "media_dif_xtri": 65.52919106917057,
+      "delta_entre_cores": 1.4210854715202004e-14,
+      "itens_validos": 45,
+      "anuladas": 0,
+      "cores": [
+        {
+          "cor_label": "Azul",
+          "co_prova": 1459,
+          "media_dif_xtri": 65.52919106917055
+        },
+        {
+          "cor_label": "Amarela",
+          "co_prova": 1460,
+          "media_dif_xtri": 65.52919106917055
+        },
+        {
+          "cor_label": "Verde",
+          "co_prova": 1461,
+          "media_dif_xtri": 65.52919106917057
+        },
+        {
+          "cor_label": "Branca",
+          "co_prova": 1462,
+          "media_dif_xtri": 65.52919106917057
+        }
+      ]
+    },
+    "Humanas": {
+      "media_dif_xtri": 71.22002552806794,
+      "delta_entre_cores": 1.4210854715202004e-14,
+      "itens_validos": 45,
+      "anuladas": 0,
+      "cores": [
+        {
+          "cor_label": "Azul",
+          "co_prova": 1447,
+          "media_dif_xtri": 71.22002552806792
+        },
+        {
+          "cor_label": "Amarela",
+          "co_prova": 1448,
+          "media_dif_xtri": 71.22002552806794
+        },
+        {
+          "cor_label": "Branca",
+          "co_prova": 1449,
+          "media_dif_xtri": 71.22002552806794
+        },
+        {
+          "cor_label": "Verde",
+          "co_prova": 1450,
+          "media_dif_xtri": 71.22002552806792
+        }
+      ]
+    },
+    "Natureza": {
+      "media_dif_xtri": 71.02880593048482,
+      "delta_entre_cores": 1.4210854715202004e-14,
+      "itens_validos": 42,
+      "anuladas": 3,
+      "cores": [
+        {
+          "cor_label": "Azul",
+          "co_prova": 1483,
+          "media_dif_xtri": 71.02880593048482
+        },
+        {
+          "cor_label": "Amarela",
+          "co_prova": 1484,
+          "media_dif_xtri": 71.02880593048481
+        },
+        {
+          "cor_label": "Verde",
+          "co_prova": 1485,
+          "media_dif_xtri": 71.02880593048482
+        },
+        {
+          "cor_label": "Cinza",
+          "co_prova": 1486,
+          "media_dif_xtri": 71.02880593048481
+        }
+      ]
+    },
+    "Matemática": {
+      "media_dif_xtri": 74.06516650141288,
+      "delta_entre_cores": 1.4210854715202004e-14,
+      "itens_validos": 43,
+      "anuladas": 2,
+      "cores": [
+        {
+          "cor_label": "Azul",
+          "co_prova": 1471,
+          "media_dif_xtri": 74.06516650141288
+        },
+        {
+          "cor_label": "Amarela",
+          "co_prova": 1472,
+          "media_dif_xtri": 74.06516650141288
+        },
+        {
+          "cor_label": "Verde",
+          "co_prova": 1473,
+          "media_dif_xtri": 74.06516650141289
+        },
+        {
+          "cor_label": "Cinza",
+          "co_prova": 1474,
+          "media_dif_xtri": 74.06516650141288
+        }
+      ]
+    }
+  },
+  "arquivo_png": "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/xtri_enem_2025_equating_cadernos_regua.png"
+}

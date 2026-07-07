@@ -1,0 +1,237 @@
+escola,area,habilidade,erro_pct,n_resp,erro_nacional
+CEI Romualdo,CH,H1,53.2,278,69.8
+CEI Romualdo,CH,H10,84.9,139,73.1
+CEI Romualdo,CH,H11,37.1,278,73.0
+CEI Romualdo,CH,H12,77.0,278,77.3
+CEI Romualdo,CH,H13,75.5,139,80.6
+CEI Romualdo,CH,H14,28.1,139,53.9
+CEI Romualdo,CH,H15,7.2,139,41.6
+CEI Romualdo,CH,H16,31.7,139,67.5
+CEI Romualdo,CH,H17,33.1,139,58.6
+CEI Romualdo,CH,H18,38.1,139,56.7
+CEI Romualdo,CH,H19,23.7,278,56.4
+CEI Romualdo,CH,H2,53.2,139,75.3
+CEI Romualdo,CH,H20,16.5,139,51.0
+CEI Romualdo,CH,H21,51.4,278,73.5
+CEI Romualdo,CH,H22,54.7,278,66.3
+CEI Romualdo,CH,H23,36.2,417,57.1
+CEI Romualdo,CH,H24,51.4,278,63.7
+CEI Romualdo,CH,H25,34.5,278,68.3
+CEI Romualdo,CH,H26,36.7,278,60.5
+CEI Romualdo,CH,H27,27.7,278,60.4
+CEI Romualdo,CH,H28,15.5,278,45.2
+CEI Romualdo,CH,H29,28.8,139,64.3
+CEI Romualdo,CH,H3,23.0,139,51.4
+CEI Romualdo,CH,H30,25.2,139,64.9
+CEI Romualdo,CH,H4,28.4,278,65.1
+CEI Romualdo,CH,H5,17.3,139,42.5
+CEI Romualdo,CH,H6,14.4,139,56.5
+CEI Romualdo,CH,H7,42.8,278,67.6
+CEI Romualdo,CH,H8,16.5,139,49.6
+CEI Romualdo,CH,H9,23.7,139,60.7
+CEI Romualdo,CN,H1,46.0,278,70.4
+CEI Romualdo,CN,H10,11.5,139,28.6
+CEI Romualdo,CN,H11,23.7,139,61.2
+CEI Romualdo,CN,H12,38.6,140,69.1
+CEI Romualdo,CN,H13,26.6,139,56.2
+CEI Romualdo,CN,H14,57.6,139,69.8
+CEI Romualdo,CN,H15,38.8,139,53.4
+CEI Romualdo,CN,H16,14.4,139,32.9
+CEI Romualdo,CN,H17,42.8,278,67.5
+CEI Romualdo,CN,H18,55.4,139,74.9
+CEI Romualdo,CN,H19,19.4,139,80.0
+CEI Romualdo,CN,H2,55.4,139,68.3
+CEI Romualdo,CN,H20,53.6,278,82.9
+CEI Romualdo,CN,H21,42.1,278,60.6
+CEI Romualdo,CN,H22,30.6,278,59.9
+CEI Romualdo,CN,H23,37.1,278,71.8
+CEI Romualdo,CN,H24,54.2,277,73.4
+CEI Romualdo,CN,H25,26.6,139,40.1
+CEI Romualdo,CN,H26,75.5,139,88.2
+CEI Romualdo,CN,H27,30.2,139,65.2
+CEI Romualdo,CN,H28,26.9,417,63.6
+CEI Romualdo,CN,H29,16.5,139,52.7
+CEI Romualdo,CN,H3,50.0,278,75.8
+CEI Romualdo,CN,H30,48.9,139,43.9
+CEI Romualdo,CN,H4,21.6,139,37.4
+CEI Romualdo,CN,H5,54.0,278,79.5
+CEI Romualdo,CN,H6,74.8,139,71.1
+CEI Romualdo,CN,H7,57.9,278,77.3
+CEI Romualdo,CN,H8,30.9,139,73.4
+CEI Romualdo,CN,H9,55.4,139,83.4
+CEI Romualdo,LC,H1,32.4,139,53.5
+CEI Romualdo,LC,H10,2.2,139,21.9
+CEI Romualdo,LC,H11,10.1,139,35.6
+CEI Romualdo,LC,H12,19.8,278,48.5
+CEI Romualdo,LC,H13,18.7,139,51.8
+CEI Romualdo,LC,H14,26.6,139,68.4
+CEI Romualdo,LC,H15,33.1,278,57.5
+CEI Romualdo,LC,H16,46.8,278,57.9
+CEI Romualdo,LC,H17,38.8,278,61.5
+CEI Romualdo,LC,H18,41.0,278,68.0
+CEI Romualdo,LC,H19,43.9,139,63.9
+CEI Romualdo,LC,H2,19.1,278,40.6
+CEI Romualdo,LC,H20,39.9,278,65.8
+CEI Romualdo,LC,H21,38.1,139,45.7
+CEI Romualdo,LC,H22,30.6,278,60.7
+CEI Romualdo,LC,H23,43.2,139,52.8
+CEI Romualdo,LC,H24,25.9,278,53.5
+CEI Romualdo,LC,H25,30.9,139,55.9
+CEI Romualdo,LC,H26,15.5,278,38.3
+CEI Romualdo,LC,H27,20.1,139,66.6
+CEI Romualdo,LC,H28,41.7,139,45.0
+CEI Romualdo,LC,H29,62.6,278,78.3
+CEI Romualdo,LC,H3,33.8,139,56.1
+CEI Romualdo,LC,H30,25.9,278,53.7
+CEI Romualdo,LC,H4,16.2,278,47.2
+CEI Romualdo,LC,H5,8.6,139,48.2
+CEI Romualdo,LC,H6,15.1,278,37.5
+CEI Romualdo,LC,H7,9.4,278,44.5
+CEI Romualdo,LC,H9,6.5,278,26.5
+CEI Romualdo,MT,H1,7.2,139,38.5
+CEI Romualdo,MT,H10,10.1,139,54.7
+CEI Romualdo,MT,H11,21.9,278,68.8
+CEI Romualdo,MT,H12,38.5,278,62.4
+CEI Romualdo,MT,H13,43.6,140,76.8
+CEI Romualdo,MT,H14,40.3,139,66.2
+CEI Romualdo,MT,H15,43.2,139,82.1
+CEI Romualdo,MT,H16,27.7,278,60.1
+CEI Romualdo,MT,H17,22.9,140,50.4
+CEI Romualdo,MT,H18,58.3,278,79.2
+CEI Romualdo,MT,H19,43.9,278,71.6
+CEI Romualdo,MT,H2,54.3,278,78.0
+CEI Romualdo,MT,H20,10.8,139,36.4
+CEI Romualdo,MT,H22,61.9,139,80.6
+CEI Romualdo,MT,H23,51.1,139,74.8
+CEI Romualdo,MT,H24,14.4,139,60.9
+CEI Romualdo,MT,H25,21.6,278,56.0
+CEI Romualdo,MT,H26,19.4,139,65.0
+CEI Romualdo,MT,H27,12.9,139,58.4
+CEI Romualdo,MT,H28,42.8,278,79.9
+CEI Romualdo,MT,H29,52.2,278,78.2
+CEI Romualdo,MT,H3,46.4,278,66.2
+CEI Romualdo,MT,H30,29.5,139,74.7
+CEI Romualdo,MT,H4,13.7,278,52.6
+CEI Romualdo,MT,H5,41.0,139,65.6
+CEI Romualdo,MT,H6,33.9,277,69.2
+CEI Romualdo,MT,H7,74.8,139,80.7
+CEI Romualdo,MT,H8,46.6,277,68.8
+CEI Romualdo,MT,H9,55.4,278,75.0
+CEI Roberto Freire,CH,H1,52.9,140,69.8
+CEI Roberto Freire,CH,H10,75.7,70,73.1
+CEI Roberto Freire,CH,H11,40.0,140,73.0
+CEI Roberto Freire,CH,H12,78.6,140,77.3
+CEI Roberto Freire,CH,H13,80.0,70,80.6
+CEI Roberto Freire,CH,H14,38.6,70,53.9
+CEI Roberto Freire,CH,H15,10.0,70,41.6
+CEI Roberto Freire,CH,H16,27.1,70,67.5
+CEI Roberto Freire,CH,H17,31.4,70,58.6
+CEI Roberto Freire,CH,H18,47.1,70,56.7
+CEI Roberto Freire,CH,H19,29.3,140,56.4
+CEI Roberto Freire,CH,H2,51.4,70,75.3
+CEI Roberto Freire,CH,H20,15.7,70,51.0
+CEI Roberto Freire,CH,H21,55.7,140,73.5
+CEI Roberto Freire,CH,H22,52.9,140,66.3
+CEI Roberto Freire,CH,H23,46.2,210,57.1
+CEI Roberto Freire,CH,H24,53.6,140,63.7
+CEI Roberto Freire,CH,H25,49.3,140,68.3
+CEI Roberto Freire,CH,H26,40.0,140,60.5
+CEI Roberto Freire,CH,H27,27.1,140,60.4
+CEI Roberto Freire,CH,H28,23.6,140,45.2
+CEI Roberto Freire,CH,H29,27.1,70,64.3
+CEI Roberto Freire,CH,H3,25.7,70,51.4
+CEI Roberto Freire,CH,H30,34.3,70,64.9
+CEI Roberto Freire,CH,H4,50.0,140,65.1
+CEI Roberto Freire,CH,H5,11.4,70,42.5
+CEI Roberto Freire,CH,H6,18.6,70,56.5
+CEI Roberto Freire,CH,H7,51.4,140,67.6
+CEI Roberto Freire,CH,H8,17.1,70,49.6
+CEI Roberto Freire,CH,H9,21.4,70,60.7
+CEI Roberto Freire,CN,H1,35.7,140,70.4
+CEI Roberto Freire,CN,H10,2.9,70,28.6
+CEI Roberto Freire,CN,H11,15.7,70,61.2
+CEI Roberto Freire,CN,H12,28.2,71,69.1
+CEI Roberto Freire,CN,H13,24.3,70,56.2
+CEI Roberto Freire,CN,H14,54.3,70,69.8
+CEI Roberto Freire,CN,H15,28.6,70,53.4
+CEI Roberto Freire,CN,H16,22.9,70,32.9
+CEI Roberto Freire,CN,H17,48.6,140,67.5
+CEI Roberto Freire,CN,H18,51.4,70,74.9
+CEI Roberto Freire,CN,H19,15.7,70,80.0
+CEI Roberto Freire,CN,H2,65.7,70,68.3
+CEI Roberto Freire,CN,H20,50.7,140,82.9
+CEI Roberto Freire,CN,H21,45.0,140,60.6
+CEI Roberto Freire,CN,H22,22.9,140,59.9
+CEI Roberto Freire,CN,H23,35.7,140,71.8
+CEI Roberto Freire,CN,H24,59.7,139,73.4
+CEI Roberto Freire,CN,H25,22.9,70,40.1
+CEI Roberto Freire,CN,H26,71.4,70,88.2
+CEI Roberto Freire,CN,H27,27.1,70,65.2
+CEI Roberto Freire,CN,H28,30.5,210,63.6
+CEI Roberto Freire,CN,H29,11.4,70,52.7
+CEI Roberto Freire,CN,H3,56.4,140,75.8
+CEI Roberto Freire,CN,H30,44.3,70,43.9
+CEI Roberto Freire,CN,H4,17.1,70,37.4
+CEI Roberto Freire,CN,H5,62.9,140,79.5
+CEI Roberto Freire,CN,H6,77.1,70,71.1
+CEI Roberto Freire,CN,H7,58.6,140,77.3
+CEI Roberto Freire,CN,H8,17.1,70,73.4
+CEI Roberto Freire,CN,H9,65.7,70,83.4
+CEI Roberto Freire,LC,H1,38.6,70,53.5
+CEI Roberto Freire,LC,H10,5.7,70,21.9
+CEI Roberto Freire,LC,H11,11.4,70,35.6
+CEI Roberto Freire,LC,H12,25.7,140,48.5
+CEI Roberto Freire,LC,H13,17.1,70,51.8
+CEI Roberto Freire,LC,H14,22.9,70,68.4
+CEI Roberto Freire,LC,H15,40.0,140,57.5
+CEI Roberto Freire,LC,H16,52.1,140,57.9
+CEI Roberto Freire,LC,H17,30.0,140,61.5
+CEI Roberto Freire,LC,H18,34.3,140,68.0
+CEI Roberto Freire,LC,H19,41.4,70,63.9
+CEI Roberto Freire,LC,H2,12.9,140,40.6
+CEI Roberto Freire,LC,H20,42.9,140,65.8
+CEI Roberto Freire,LC,H21,37.1,70,45.7
+CEI Roberto Freire,LC,H22,32.1,140,60.7
+CEI Roberto Freire,LC,H23,37.1,70,52.8
+CEI Roberto Freire,LC,H24,30.7,140,53.5
+CEI Roberto Freire,LC,H25,35.7,70,55.9
+CEI Roberto Freire,LC,H26,12.9,140,38.3
+CEI Roberto Freire,LC,H27,34.3,70,66.6
+CEI Roberto Freire,LC,H28,50.0,70,45.0
+CEI Roberto Freire,LC,H29,65.7,140,78.3
+CEI Roberto Freire,LC,H3,40.0,70,56.1
+CEI Roberto Freire,LC,H30,28.6,140,53.7
+CEI Roberto Freire,LC,H4,13.6,140,47.2
+CEI Roberto Freire,LC,H5,14.3,70,48.2
+CEI Roberto Freire,LC,H6,13.0,138,37.5
+CEI Roberto Freire,LC,H7,10.1,138,44.5
+CEI Roberto Freire,LC,H9,6.4,140,26.5
+CEI Roberto Freire,MT,H1,7.1,70,38.5
+CEI Roberto Freire,MT,H10,7.1,70,54.7
+CEI Roberto Freire,MT,H11,26.4,140,68.8
+CEI Roberto Freire,MT,H12,45.7,140,62.4
+CEI Roberto Freire,MT,H13,50.7,71,76.8
+CEI Roberto Freire,MT,H14,37.1,70,66.2
+CEI Roberto Freire,MT,H15,52.9,70,82.1
+CEI Roberto Freire,MT,H16,28.6,140,60.1
+CEI Roberto Freire,MT,H17,25.4,71,50.4
+CEI Roberto Freire,MT,H18,59.3,140,79.2
+CEI Roberto Freire,MT,H19,42.9,140,71.6
+CEI Roberto Freire,MT,H2,59.3,140,78.0
+CEI Roberto Freire,MT,H20,8.6,70,36.4
+CEI Roberto Freire,MT,H22,68.6,70,80.6
+CEI Roberto Freire,MT,H23,60.0,70,74.8
+CEI Roberto Freire,MT,H24,18.6,70,60.9
+CEI Roberto Freire,MT,H25,23.6,140,56.0
+CEI Roberto Freire,MT,H26,24.3,70,65.0
+CEI Roberto Freire,MT,H27,15.7,70,58.4
+CEI Roberto Freire,MT,H28,42.9,140,79.9
+CEI Roberto Freire,MT,H29,55.7,140,78.2
+CEI Roberto Freire,MT,H3,50.0,140,66.2
+CEI Roberto Freire,MT,H30,31.4,70,74.7
+CEI Roberto Freire,MT,H4,12.9,140,52.6
+CEI Roberto Freire,MT,H5,37.1,70,65.6
+CEI Roberto Freire,MT,H6,37.4,139,69.2
+CEI Roberto Freire,MT,H7,72.9,70,80.7
+CEI Roberto Freire,MT,H8,51.8,139,68.8
+CEI Roberto Freire,MT,H9,60.7,140,75.0

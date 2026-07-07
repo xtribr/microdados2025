@@ -1,0 +1,331 @@
+{
+  "fonte": "Microdados ENEM 2025 / INEP",
+  "populacao": "ENEM Regular P1 nacional; presentes na área analisada",
+  "cadernos_calculo_acerto": {
+    "CN": [
+      "1483",
+      "1484",
+      "1485",
+      "1486"
+    ],
+    "CH": [
+      "1447",
+      "1448",
+      "1449",
+      "1450"
+    ],
+    "LC": [
+      "1459",
+      "1460",
+      "1461",
+      "1462"
+    ],
+    "MT": [
+      "1471",
+      "1472",
+      "1473",
+      "1474"
+    ]
+  },
+  "sequencia_visual": "gerada separadamente por cor de caderno; P01-P45 são posições, não identificadores universais de item",
+  "criterio_presenca": "TP_PRESENCA da área == 1; não exige presença/notas válidas nas 4 áreas",
+  "metrica": "DIF_XTRI = 65% erro previsto pela CCI 3PL no theta=0 (A, B, C oficiais) + 35% erro real observado",
+  "categorias": "quartis de DIF_XTRI dentro de cada área; anuladas sem categoria",
+  "discriminacao": "A+ se A>=2.5; A se 1.35<=A<2.5; A- se A<1.35",
+  "areas": {
+    "LC": {
+      "label": "Linguagens, Códigos e suas Tecnologias",
+      "cadernos": {
+        "AZUL": "1459",
+        "AMARELA": "1460",
+        "VERDE": "1461",
+        "BRANCA": "1462"
+      },
+      "presentes": 3368961,
+      "itens_validos": 50,
+      "anuladas": 0,
+      "distribuicao": {
+        "Fácil": 13,
+        "Médio": 12,
+        "Difícil": 12,
+        "Muito difícil": 13
+      },
+      "media_A": 2.4413,
+      "media_B": 0.7406,
+      "media_pct_acerto": 47.0858,
+      "top_A": [
+        {
+          "pos_area": 4,
+          "habilidade": "H5",
+          "co_item": 112036,
+          "A": 4.90205,
+          "B": 0.71195,
+          "pct_acerto": 51.62,
+          "dif_xtri": 70.42
+        },
+        {
+          "pos_area": 38,
+          "habilidade": "H18",
+          "co_item": 43532,
+          "A": 4.75417,
+          "B": 0.97598,
+          "pct_acerto": 34.34,
+          "dif_xtri": 76.01
+        },
+        {
+          "pos_area": 13,
+          "habilidade": "H27",
+          "co_item": 153400,
+          "A": 4.6087,
+          "B": 0.80546,
+          "pct_acerto": 33.4,
+          "dif_xtri": 81.33
+        },
+        {
+          "pos_area": 32,
+          "habilidade": "H29",
+          "co_item": 140908,
+          "A": 4.01735,
+          "B": 1.50486,
+          "pct_acerto": 11.76,
+          "dif_xtri": 91.78
+        },
+        {
+          "pos_area": 1,
+          "habilidade": "H7",
+          "co_item": 153875,
+          "A": 3.7284,
+          "B": 0.3723,
+          "pct_acerto": 61.79,
+          "dif_xtri": 62.64
+        }
+      ]
+    },
+    "CH": {
+      "label": "Ciências Humanas e suas Tecnologias",
+      "cadernos": {
+        "AZUL": "1447",
+        "AMARELA": "1448",
+        "BRANCA": "1449",
+        "VERDE": "1450"
+      },
+      "presentes": 3368961,
+      "itens_validos": 45,
+      "anuladas": 0,
+      "distribuicao": {
+        "Fácil": 12,
+        "Médio": 11,
+        "Difícil": 11,
+        "Muito difícil": 11
+      },
+      "media_A": 2.2768,
+      "media_B": 1.0702,
+      "media_pct_acerto": 37.4733,
+      "top_A": [
+        {
+          "pos_area": 5,
+          "habilidade": "H12",
+          "co_item": 111883,
+          "A": 4.66484,
+          "B": 2.18392,
+          "pct_acerto": 25.46,
+          "dif_xtri": 74.88
+        },
+        {
+          "pos_area": 22,
+          "habilidade": "H10",
+          "co_item": 84849,
+          "A": 4.59882,
+          "B": 2.67933,
+          "pct_acerto": 26.89,
+          "dif_xtri": 72.95
+        },
+        {
+          "pos_area": 3,
+          "habilidade": "H2",
+          "co_item": 87509,
+          "A": 3.63787,
+          "B": 1.15279,
+          "pct_acerto": 24.67,
+          "dif_xtri": 81.8
+        },
+        {
+          "pos_area": 11,
+          "habilidade": "H27",
+          "co_item": 149784,
+          "A": 3.39468,
+          "B": 0.43866,
+          "pct_acerto": 56.36,
+          "dif_xtri": 62.4
+        },
+        {
+          "pos_area": 28,
+          "habilidade": "H15",
+          "co_item": 96978,
+          "A": 3.38036,
+          "B": 0.39077,
+          "pct_acerto": 58.44,
+          "dif_xtri": 55.98
+        }
+      ]
+    },
+    "CN": {
+      "label": "Ciências da Natureza e suas Tecnologias",
+      "cadernos": {
+        "AZUL": "1483",
+        "AMARELA": "1484",
+        "VERDE": "1485",
+        "CINZA": "1486"
+      },
+      "presentes": 3176917,
+      "itens_validos": 42,
+      "anuladas": 3,
+      "distribuicao": {
+        "Fácil": 11,
+        "Médio": 10,
+        "Difícil": 10,
+        "Muito difícil": 11
+      },
+      "media_A": 2.3846,
+      "media_B": 1.1856,
+      "media_pct_acerto": 33.8445,
+      "top_A": [
+        {
+          "pos_area": 30,
+          "habilidade": "H6",
+          "co_item": 141642,
+          "A": 6.00319,
+          "B": 2.4444,
+          "pct_acerto": 28.92,
+          "dif_xtri": 71.3
+        },
+        {
+          "pos_area": 37,
+          "habilidade": "H8",
+          "co_item": 95445,
+          "A": 4.85792,
+          "B": 1.12172,
+          "pct_acerto": 26.64,
+          "dif_xtri": 78.04
+        },
+        {
+          "pos_area": 44,
+          "habilidade": "H12",
+          "co_item": 141671,
+          "A": 3.50039,
+          "B": 1.25217,
+          "pct_acerto": 30.89,
+          "dif_xtri": 72.56
+        },
+        {
+          "pos_area": 41,
+          "habilidade": "H26",
+          "co_item": 96328,
+          "A": 3.42124,
+          "B": 1.93027,
+          "pct_acerto": 11.83,
+          "dif_xtri": 91.36
+        },
+        {
+          "pos_area": 5,
+          "habilidade": "H21",
+          "co_item": 76022,
+          "A": 3.42122,
+          "B": 0.81157,
+          "pct_acerto": 53.83,
+          "dif_xtri": 54.86
+        }
+      ]
+    },
+    "MT": {
+      "label": "Matemática e suas Tecnologias",
+      "cadernos": {
+        "AZUL": "1471",
+        "AMARELA": "1472",
+        "VERDE": "1473",
+        "CINZA": "1474"
+      },
+      "presentes": 3176917,
+      "itens_validos": 43,
+      "anuladas": 2,
+      "distribuicao": {
+        "Fácil": 11,
+        "Médio": 11,
+        "Difícil": 10,
+        "Muito difícil": 11
+      },
+      "media_A": 1.9631,
+      "media_B": 1.7432,
+      "media_pct_acerto": 32.6074,
+      "top_A": [
+        {
+          "pos_area": 32,
+          "habilidade": "H25",
+          "co_item": 44306,
+          "A": 3.86308,
+          "B": 1.72136,
+          "pct_acerto": 28.46,
+          "dif_xtri": 75.99
+        },
+        {
+          "pos_area": 5,
+          "habilidade": "H18",
+          "co_item": 141568,
+          "A": 3.46557,
+          "B": 2.92476,
+          "pct_acerto": 9.12,
+          "dif_xtri": 91.64
+        },
+        {
+          "pos_area": 2,
+          "habilidade": "H28",
+          "co_item": 96778,
+          "A": 3.12993,
+          "B": 1.8995,
+          "pct_acerto": 16.62,
+          "dif_xtri": 88.79
+        },
+        {
+          "pos_area": 42,
+          "habilidade": "H12",
+          "co_item": 44510,
+          "A": 3.04149,
+          "B": 2.37391,
+          "pct_acerto": 30.32,
+          "dif_xtri": 69.85
+        },
+        {
+          "pos_area": 22,
+          "habilidade": "H19",
+          "co_item": 117625,
+          "A": 2.7122,
+          "B": 1.24373,
+          "pct_acerto": 41.71,
+          "dif_xtri": 67.52
+        }
+      ]
+    }
+  },
+  "arquivos": [
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_LC_ingles_azul.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_LC_espanhol_azul.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_LC_ingles_amarela.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_LC_espanhol_amarela.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_LC_ingles_verde.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_LC_espanhol_verde.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_LC_ingles_branca.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_LC_espanhol_branca.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_CH_azul.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_CH_amarela.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_CH_branca.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_CH_verde.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_CN_azul.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_CN_amarela.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_CN_verde.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_CN_cinza.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_MT_azul.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_MT_amarela.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_MT_verde.png",
+    "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/dificuldade_sequencia_por_caderno/xtri_enem_2025_dificuldade_sequencia_MT_cinza.png"
+  ]
+}

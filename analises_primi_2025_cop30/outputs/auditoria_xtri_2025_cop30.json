@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "seed": 20250624,
+    "amostra_regular_por_area": 100000,
+    "criterios": {
+      "ano": 2025,
+      "presenca": "TP_PRESENCA_LC/CH/CN/MT == 1",
+      "regular": "cadernos padrao da primeira aplicacao nacional",
+      "cop30_bam": "codigos BAM oficiais no PA, municipios Belem/Ananindeua/Marituba",
+      "itens_anulados": "IN_ITEM_ABAN=1 removidos do calculo de acertos",
+      "tri": "NU_NOTA_* oficial do INEP no microdado 2025",
+      "sem_exportar_identificador": true
+    },
+    "validacao_bam": {
+      "CH:1583->1520": true,
+      "LC:1595->1529": true,
+      "CN:1622->1513": true,
+      "LC:1596->1530": true,
+      "MT:1610->1505": true,
+      "CH:1584->1521": true,
+      "CN:1621->1514": true,
+      "MT:1609->1504": true,
+      "LC:1597->1531": true,
+      "CH:1586->1523": true,
+      "CH:1585->1522": true,
+      "LC:1598->1532": true,
+      "MT:1607->1502": true,
+      "CN:1619->1511": true,
+      "MT:1608->1503": true,
+      "CN:1620->1512": true,
+      "CH:1631->1522": true,
+      "LC:1632->1532": true,
+      "MT:1633->1505": true,
+      "CN:1634->1513": true,
+      "MT:1611->1505": true,
+      "CH:1587->1522": true,
+      "LC:1599->1532": true,
+      "CN:1623->1513": true
+    },
+    "candidatos_elegiveis": {
+      "CH|COP30/BAM": 61944,
+      "CH|Regular P1": 3161742,
+      "CN|COP30/BAM": 61943,
+      "CN|Regular P1": 3161382,
+      "LC|COP30/BAM": 61944,
+      "LC|Regular P1": 3161742,
+      "MT|COP30/BAM": 61943,
+      "MT|Regular P1": 3161382
+    },
+    "regulares_vistos_antes_da_amostra": {
+      "LC": 3161742,
+      "CH": 3161742,
+      "CN": 3161382,
+      "MT": 3161382
+    },
+    "descartes": {},
+    "codigos_usados": {
+      "CH|COP30/BAM": {
+        "1584->1521": 15547,
+        "1586->1523": 15249,
+        "1585->1522": 15207,
+        "1583->1520": 15377,
+        "1631->1522": 486,
+        "1587->1522": 78
+      },
+      "CH|Regular P1": {
+        "1447->1447": 790662,
+        "1450->1450": 789797,
+        "1448->1448": 791451,
+        "1449->1449": 789832
+      },
+      "CN|COP30/BAM": {
+        "1622->1513": 15546,
+        "1621->1514": 15246,
+        "1619->1511": 15207,
+        "1620->1512": 15379,
+        "1634->1513": 487,
+        "1623->1513": 78
+      },
+      "CN|Regular P1": {
+        "1484->1484": 790564,
+        "1485->1485": 789706,
+        "1486->1486": 791354,
+        "1483->1483": 789758
+      },
+      "LC|COP30/BAM": {
+        "1596->1530": 15547,
+        "1597->1531": 15249,
+        "1598->1532": 15207,
+        "1595->1529": 15377,
+        "1632->1532": 486,
+        "1599->1532": 78
+      },
+      "LC|Regular P1": {
+        "1459->1459": 790662,
+        "1461->1461": 789797,
+        "1460->1460": 791451,
+        "1462->1462": 789832
+      },
+      "MT|COP30/BAM": {
+        "1610->1505": 15546,
+        "1609->1504": 15246,
+        "1607->1502": 15207,
+        "1608->1503": 15379,
+        "1633->1505": 487,
+        "1611->1505": 78
+      },
+      "MT|Regular P1": {
+        "1472->1472": 790564,
+        "1473->1473": 789706,
+        "1474->1474": 791354,
+        "1471->1471": 789758
+      }
+    },
+    "itens_anulados_por_codigo_itens": {
+      "CH|1539": 1,
+      "CH|1540": 1,
+      "CH|1541": 1,
+      "CH|1542": 1,
+      "CH|1543": 1,
+      "CH|1544": 1,
+      "CH|1545": 1,
+      "CH|1546": 1,
+      "CH|1548": 1,
+      "CH|1579": 1,
+      "CN|1483": 3,
+      "CN|1484": 3,
+      "CN|1485": 3,
+      "CN|1486": 3,
+      "CN|1487": 3,
+      "CN|1488": 3,
+      "CN|1489": 3,
+      "CN|1490": 3,
+      "CN|1491": 3,
+      "CN|1492": 3,
+      "CN|1493": 3,
+      "CN|1494": 3,
+      "CN|1498": 3,
+      "MT|1471": 2,
+      "MT|1472": 2,
+      "MT|1473": 2,
+      "MT|1474": 2,
+      "MT|1475": 2,
+      "MT|1476": 2,
+      "MT|1477": 2,
+      "MT|1478": 2,
+      "MT|1479": 2,
+      "MT|1480": 2,
+      "MT|1481": 2,
+      "MT|1482": 2,
+      "MT|1497": 2
+    }
+  },
+  "areas": {
+    "LC": {
+      "label": "Linguagens",
+      "stats": {
+        "Regular P1": {
+          "n": 100000,
+          "media_acertos": 21.45794,
+          "media_nota": 535.265263,
+          "mediana_nota": 541.1,
+          "corr_acertos_nota": 0.9557003345236653,
+          "itens_validos_dist": {
+            "45": 100000
+          },
+          "acert_dif_medio": 0.2387205
+        },
+        "COP30/BAM": {
+          "n": 61944,
+          "media_acertos": 19.085577295621853,
+          "media_nota": 499.24905559860514,
+          "mediana_nota": 504.1,
+          "corr_acertos_nota": 0.9616702932336535,
+          "itens_validos_dist": {
+            "45": 61944
+          },
+          "acert_dif_medio": 0.2829349896680873
+        }
+      },
+      "anuladas_por_aplicacao": {
+        "Regular P1": 0,
+        "COP30/BAM": 0
+      }
+    },
+    "CH": {
+      "label": "Ciências Humanas",
+      "stats": {
+        "Regular P1": {
+          "n": 100000,
+          "media_acertos": 17.08497,
+          "media_nota": 514.6243749999999,
+          "mediana_nota": 516.5,
+          "corr_acertos_nota": 0.949351220909838,
+          "itens_validos_dist": {
+            "45": 100000
+          },
+          "acert_dif_medio": 0.23995818181818176
+        },
+        "COP30/BAM": {
+          "n": 61944,
+          "media_acertos": 16.57269469197985,
+          "media_nota": 494.06818578070516,
+          "mediana_nota": 493.8,
+          "corr_acertos_nota": 0.9487327138295337,
+          "itens_validos_dist": {
+            "45": 61944
+          },
+          "acert_dif_medio": 0.21085711825735073
+        }
+      },
+      "anuladas_por_aplicacao": {
+        "Regular P1": 0,
+        "COP30/BAM": 0
+      }
+    },
+    "CN": {
+      "label": "Ciências da Natureza",
+      "stats": {
+        "Regular P1": {
+          "n": 100000,
+          "media_acertos": 14.20782,
+          "media_nota": 500.29206700000003,
+          "mediana_nota": 498.5,
+          "corr_acertos_nota": 0.9291261564532841,
+          "itens_validos_dist": {
+            "42": 100000
+          },
+          "acert_dif_medio": 0.2117706666666667
+        },
+        "COP30/BAM": {
+          "n": 61943,
+          "media_acertos": 14.51613580226983,
+          "media_nota": 486.0696575884281,
+          "mediana_nota": 487.2,
+          "corr_acertos_nota": 0.8858049328326734,
+          "itens_validos_dist": {
+            "45": 61943
+          },
+          "acert_dif_medio": 0.2230545286257796
+        }
+      },
+      "anuladas_por_aplicacao": {
+        "Regular P1": 3,
+        "COP30/BAM": 0
+      }
+    },
+    "MT": {
+      "label": "Matemática",
+      "stats": {
+        "Regular P1": {
+          "n": 100000,
+          "media_acertos": 14.04286,
+          "media_nota": 521.5317550000001,
+          "mediana_nota": 502.3,
+          "corr_acertos_nota": 0.9447666818452253,
+          "itens_validos_dist": {
+            "43": 100000
+          },
+          "acert_dif_medio": 0.24539076923076925
+        },
+        "COP30/BAM": {
+          "n": 61943,
+          "media_acertos": 12.10598453416851,
+          "media_nota": 483.9001307653811,
+          "mediana_nota": 459.0,
+          "corr_acertos_nota": 0.9000400581991589,
+          "itens_validos_dist": {
+            "45": 61943
+          },
+          "acert_dif_medio": 0.22158829488400628
+        }
+      },
+      "anuladas_por_aplicacao": {
+        "Regular P1": 2,
+        "COP30/BAM": 0
+      }
+    }
+  },
+  "arquivos": {
+    "graficos": [
+      "/Volumes/Kingston 1/microdados_enem_2025/analises_primi_2025_cop30/outputs/xtri_enem_2025_cop30_vs_regular_LC.png",
+      "/Volumes/Kingston 1/microdados_enem_2025/analises_primi_2025_cop30/outputs/xtri_enem_2025_cop30_vs_regular_CH.png",
+      "/Volumes/Kingston 1/microdados_enem_2025/analises_primi_2025_cop30/outputs/xtri_enem_2025_cop30_vs_regular_CN.png",
+      "/Volumes/Kingston 1/microdados_enem_2025/analises_primi_2025_cop30/outputs/xtri_enem_2025_cop30_vs_regular_MT.png"
+    ],
+    "csvs": [
+      "/Volumes/Kingston 1/microdados_enem_2025/analises_primi_2025_cop30/outputs/amostra_xtri_2025_LC.csv",
+      "/Volumes/Kingston 1/microdados_enem_2025/analises_primi_2025_cop30/outputs/amostra_xtri_2025_CH.csv",
+      "/Volumes/Kingston 1/microdados_enem_2025/analises_primi_2025_cop30/outputs/amostra_xtri_2025_CN.csv",
+      "/Volumes/Kingston 1/microdados_enem_2025/analises_primi_2025_cop30/outputs/amostra_xtri_2025_MT.csv"
+    ],
+    "legenda_feed": "/Volumes/Kingston 1/microdados_enem_2025/analises_primi_2025_cop30/outputs/legendas_feed_xtri_2025_cop30.md"
+  }
+}

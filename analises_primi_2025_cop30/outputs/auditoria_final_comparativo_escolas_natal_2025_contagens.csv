@@ -1,0 +1,5 @@
+codigo_inep,escola,criterio,raw_resultados_natal,excluidos_total,excluidos_alguma_nota_ausente,excluidos_alguma_area_ausente,excluidos_redacao_invalida,pool_5_notas_validas,amostra_n,menor_media_5_amostra,maior_media_5_fora_top54,top54_respeitado
+24097004,Ciências Aplicadas,todos_5_notas,56,2,2,2,0,54,54,613.5,,True
+24088846,Colégio Porto,top_54_media_5,100,4,4,4,0,96,54,700.3,697.74,True
+24069191,CEI S/A Romualdo,top_54_media_5,141,2,2,2,0,139,54,722.4200000000001,721.8,True
+24057134,Marista de Natal,top_54_media_5,171,0,0,0,0,171,54,716.0200000000001,715.4200000000001,True

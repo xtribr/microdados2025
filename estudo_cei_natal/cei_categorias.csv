@@ -1,0 +1,33 @@
+escola,area,categoria,acerto_pct,n_resp,acerto_nacional
+CEI Romualdo,CH,Difícil,65.5,1529,33.1
+CEI Romualdo,CH,Fácil,77.0,1668,53.3
+CEI Romualdo,CH,Muito difícil,42.1,1529,22.1
+CEI Romualdo,CH,Médio,63.6,1529,40.0
+CEI Romualdo,CN,Difícil,55.7,1390,26.1
+CEI Romualdo,CN,Fácil,75.3,1529,56.4
+CEI Romualdo,CN,Muito difícil,42.1,1529,16.9
+CEI Romualdo,CN,Médio,61.3,1389,35.4
+CEI Romualdo,LC,Difícil,67.1,1529,41.9
+CEI Romualdo,LC,Fácil,86.9,1668,66.8
+CEI Romualdo,LC,Muito difícil,57.5,1529,29.9
+CEI Romualdo,LC,Médio,76.8,1529,50.5
+CEI Romualdo,MT,Difícil,60.9,1389,28.2
+CEI Romualdo,MT,Fácil,82.5,1529,49.7
+CEI Romualdo,MT,Muito difícil,44.0,1529,17.3
+CEI Romualdo,MT,Médio,63.8,1528,34.9
+CEI Roberto Freire,CH,Difícil,55.5,770,33.1
+CEI Roberto Freire,CH,Fácil,74.3,840,53.3
+CEI Roberto Freire,CH,Muito difícil,40.8,770,22.1
+CEI Roberto Freire,CH,Médio,60.9,770,40.0
+CEI Roberto Freire,CN,Difícil,56.4,700,26.1
+CEI Roberto Freire,CN,Fácil,78.7,770,56.4
+CEI Roberto Freire,CN,Muito difícil,40.4,770,16.9
+CEI Roberto Freire,CN,Médio,61.9,699,35.4
+CEI Roberto Freire,LC,Difícil,68.3,770,41.9
+CEI Roberto Freire,LC,Fácil,86.3,838,66.8
+CEI Roberto Freire,LC,Muito difícil,54.3,774,29.9
+CEI Roberto Freire,LC,Médio,75.3,768,50.5
+CEI Roberto Freire,MT,Difícil,56.2,699,28.2
+CEI Roberto Freire,MT,Fácil,80.1,770,49.7
+CEI Roberto Freire,MT,Muito difícil,40.8,770,17.3
+CEI Roberto Freire,MT,Médio,63.3,769,34.9

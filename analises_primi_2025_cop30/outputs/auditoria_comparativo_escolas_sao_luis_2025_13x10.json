@@ -1,0 +1,72 @@
+{
+  "gerado_em": "2026-06-25T14:49:24-03:00",
+  "fonte_enem": "/Volumes/KINGSTON/apps/microdados_enem_2025/DADOS/RESULTADOS_2025.csv",
+  "fonte_censo_escolar_2025": "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/cache/microdados_censo_escolar_2025.zip",
+  "fonte_censo_url": "https://download.inep.gov.br/dados_abertos/microdados_censo_escolar_2025_.zip",
+  "recorte": "São Luís/MA; escolas privadas com Ensino Médio no Censo 2025; ENEM 2025",
+  "criterio_5_notas": {
+    "presenca": "TP_PRESENCA_CN/CH/LC/MT == 1",
+    "redacao": "TP_STATUS_REDACAO == 1",
+    "notas_obrigatorias": [
+      "NU_NOTA_CN",
+      "NU_NOTA_CH",
+      "NU_NOTA_LC",
+      "NU_NOTA_MT",
+      "NU_NOTA_REDACAO"
+    ]
+  },
+  "selecao_top10": "10 primeiras escolas por média da coorte completa com 5 notas válidas",
+  "lider_codigo_inep": 21273456,
+  "n_equalizado": 13,
+  "criterio_amostra": "lider entra inteiro; demais escolas entram com top N por MEDIA_5",
+  "ranking_publicado": "ordenado pela média do grupo equalizado (media_amostra_5)",
+  "termos_pedidos_encontrados": {
+    "RF": [
+      {
+        "codigo_inep": 21290229,
+        "escola": "RF Ensino Médio",
+        "nome_oficial_censo": "RF ENSINO MEDIO LTDA",
+        "n_pool_5_notas": 178,
+        "media_pool_5": 687.8131460674158,
+        "media_amostra_5": 794.0830769230769
+      }
+    ],
+    "LITERATO": [
+      {
+        "codigo_inep": 21199809,
+        "escola": "Literato",
+        "nome_oficial_censo": "COLEGIO LITERATO",
+        "n_pool_5_notas": 135,
+        "media_pool_5": 685.1477037037038,
+        "media_amostra_5": 782.1846153846155
+      }
+    ],
+    "DOM BOSCO": [
+      {
+        "codigo_inep": 21010331,
+        "escola": "Dom Bosco",
+        "nome_oficial_censo": "COLEGIO DOM BOSCO LTDA",
+        "n_pool_5_notas": 50,
+        "media_pool_5": 670.1696,
+        "media_amostra_5": 738.1307692307693
+      }
+    ],
+    "EDUCALLIS": [
+      {
+        "codigo_inep": 21199090,
+        "escola": "Educallis",
+        "nome_oficial_censo": "COLEGIO EDUCALLIS",
+        "n_pool_5_notas": 118,
+        "media_pool_5": 668.2266101694916,
+        "media_amostra_5": 770.7353846153848
+      }
+    ]
+  },
+  "n_amostra_total": 130,
+  "arquivos": {
+    "censo_privadas_em": "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/escolas_sao_luis_censo_2025_privadas_em.csv",
+    "top10_pool": "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/comparativo_escolas_sao_luis_2025_top10_pool.csv",
+    "amostra": "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/comparativo_escolas_sao_luis_2025_amostra_13x10.csv",
+    "resumo": "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/comparativo_escolas_sao_luis_2025_resumo_13x10.csv"
+  }
+}

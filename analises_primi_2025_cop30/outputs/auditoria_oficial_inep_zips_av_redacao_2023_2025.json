@@ -1,0 +1,585 @@
+{
+  "verificado_em": "2026-06-25T08:56:58-0300",
+  "fonte_pagina_oficial": "https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem",
+  "anos": {
+    "2023": {
+      "url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "zip_size_bytes": 520568121,
+      "range_probe": {
+        "status": 206,
+        "content_range": "bytes 0-0/520568121",
+        "first_byte_hex": "50"
+      },
+      "central_dir": {
+        "entries_total": 88,
+        "central_dir_offset": 520555298,
+        "central_dir_size": 12801
+      },
+      "entries_count": 88,
+      "relevant_entries": [
+        "DADOS/MICRODADOS_ENEM_2023.csv",
+        "DICION╡RIO/",
+        "DICION╡RIO/Dicionário_Microdados_Enem_2023.ods",
+        "DICION╡RIO/Dicionário_Microdados_Enem_2023.xlsx",
+        "INPUTS/",
+        "INPUTS/INPUT_R_ITENS_PROVA_2023.R",
+        "INPUTS/INPUT_R_MICRODADOS_ENEM_2023.R",
+        "INPUTS/INPUT_SAS_ITENS_PROVA_2023.sas",
+        "INPUTS/INPUT_SAS_MICRODADOS_ENEM_2023.sas",
+        "INPUTS/INPUT_SPSS_ITENS_PROVA_2023.sps",
+        "INPUTS/INPUT_SPSS_MICRODADOS_ENEM_2023.sps"
+      ],
+      "result_entry": {
+        "name": "DADOS/MICRODADOS_ENEM_2023.csv",
+        "compressed_size": 405669971,
+        "uncompressed_size": 1777162429,
+        "crc32": "74a04e06",
+        "method": 8
+      },
+      "result_header_column_count": 76,
+      "result_av_columns": [],
+      "result_redacao_columns": [
+        "TP_STATUS_REDACAO",
+        "NU_NOTA_REDACAO"
+      ],
+      "dictionary_entries": [
+        "DICION╡RIO/Dicionário_Microdados_Enem_2023.ods",
+        "DICION╡RIO/Dicionário_Microdados_Enem_2023.xlsx"
+      ],
+      "dictionary_checked": [
+        "DICION╡RIO/Dicionário_Microdados_Enem_2023.xlsx"
+      ],
+      "dictionary_av_fields": [],
+      "dictionary_av_rows_sample": []
+    },
+    "2024": {
+      "url": "https://download.inep.gov.br/microdados/microdados_enem_2024.zip",
+      "zip_size_bytes": 744684881,
+      "range_probe": {
+        "status": 206,
+        "content_range": "bytes 0-0/744684881",
+        "first_byte_hex": "50"
+      },
+      "central_dir": {
+        "entries_total": 89,
+        "central_dir_offset": 744672115,
+        "central_dir_size": 12744
+      },
+      "entries_count": 89,
+      "relevant_entries": [
+        "INPUTS/",
+        "INPUTS/INPUT_R_ITENS_PROVA_2024.R",
+        "INPUTS/INPUT_R_PARTICIPANTES_2024.R",
+        "INPUTS/INPUT_R_RESULTADOS_2024.R",
+        "INPUTS/INPUT_SAS_ITENS_PROVA_2024.sas",
+        "INPUTS/INPUT_SAS_PARTICIPANTES_2024.sas",
+        "INPUTS/INPUT_SAS_RESULTADOS_2024.sas",
+        "INPUTS/INPUT_SPSS_ITENS_PROVA_2024.sps",
+        "INPUTS/INPUT_SPSS_PARTICIPANTES_2024.sps",
+        "INPUTS/INPUT_SPSS_RESULTADOS_2024.sps",
+        "DADOS/RESULTADOS_2024.csv",
+        "DICION╡RIO/",
+        "DICION╡RIO/Dicionário_Microdados_Enem_2024.ods",
+        "DICION╡RIO/Dicionário_Microdados_Enem_2024.xlsx"
+      ],
+      "result_entry": {
+        "name": "DADOS/RESULTADOS_2024.csv",
+        "compressed_size": 397709949,
+        "uncompressed_size": 1683449589,
+        "crc32": "29c26305",
+        "method": 8
+      },
+      "result_header_column_count": 42,
+      "result_av_columns": [],
+      "result_redacao_columns": [
+        "TP_STATUS_REDACAO",
+        "NU_NOTA_REDACAO"
+      ],
+      "dictionary_entries": [
+        "DICION╡RIO/Dicionário_Microdados_Enem_2024.ods",
+        "DICION╡RIO/Dicionário_Microdados_Enem_2024.xlsx"
+      ],
+      "dictionary_checked": [
+        "DICION╡RIO/Dicionário_Microdados_Enem_2024.xlsx"
+      ],
+      "dictionary_av_fields": [],
+      "dictionary_av_rows_sample": []
+    },
+    "2025": {
+      "url": "https://download.inep.gov.br/microdados/microdados_enem_2025.zip",
+      "zip_size_bytes": 842459254,
+      "range_probe": {
+        "status": 206,
+        "content_range": "bytes 0-0/842459254",
+        "first_byte_hex": "50"
+      },
+      "central_dir": {
+        "entries_total": 150,
+        "central_dir_offset": 842439596,
+        "central_dir_size": 19636
+      },
+      "entries_count": 150,
+      "relevant_entries": [
+        "DADOS/RESULTADOS_2025.csv",
+        "INPUTS/",
+        "INPUTS/INPUT_R_ITENS_PROVA_2025.R",
+        "INPUTS/INPUT_R_PARTICIPANTES_2025.R",
+        "INPUTS/INPUT_R_RESULTADOS_2025.R",
+        "INPUTS/INPUT_SAS_ITENS_PROVA_2025.sas",
+        "INPUTS/INPUT_SAS_PARTICIPANTES_2025.sas",
+        "INPUTS/INPUT_SAS_RESULTADOS_2025.sas",
+        "INPUTS/INPUT_SPSS_ITENS_PROVA_2025.sps",
+        "INPUTS/INPUT_SPSS_PARTICIPANTES_2025.sps",
+        "INPUTS/INPUT_SPSS_RESULTADOS_2025.sps",
+        "DICIONÁRIO/",
+        "DICIONÁRIO/Dicionário_Microdados_Enem_2025.ods",
+        "DICIONÁRIO/Dicionário_Microdados_Enem_2025.xlsx"
+      ],
+      "result_entry": {
+        "name": "DADOS/RESULTADOS_2025.csv",
+        "compressed_size": 489440767,
+        "uncompressed_size": 2115499721,
+        "crc32": "56714a94",
+        "method": 8
+      },
+      "result_header_column_count": 70,
+      "result_av_columns": [
+        "TP_STATUS_REDACAO_AV1",
+        "NU_NOTA_AV1",
+        "NU_NOTA_COMP1_AV1",
+        "NU_NOTA_COMP2_AV1",
+        "NU_NOTA_COMP3_AV1",
+        "NU_NOTA_COMP4_AV1",
+        "NU_NOTA_COMP5_AV1",
+        "TP_STATUS_REDACAO_AV2",
+        "NU_NOTA_AV2",
+        "NU_NOTA_COMP1_AV2",
+        "NU_NOTA_COMP2_AV2",
+        "NU_NOTA_COMP3_AV2",
+        "NU_NOTA_COMP4_AV2",
+        "NU_NOTA_COMP5_AV2",
+        "TP_STATUS_REDACAO_AV3",
+        "NU_NOTA_AV3",
+        "NU_NOTA_COMP1_AV3",
+        "NU_NOTA_COMP2_AV3",
+        "NU_NOTA_COMP3_AV3",
+        "NU_NOTA_COMP4_AV3",
+        "NU_NOTA_COMP5_AV3",
+        "TP_STATUS_REDACAO_AV4",
+        "NU_NOTA_AV4",
+        "NU_NOTA_COMP1_AV4",
+        "NU_NOTA_COMP2_AV4",
+        "NU_NOTA_COMP3_AV4",
+        "NU_NOTA_COMP4_AV4",
+        "NU_NOTA_COMP5_AV4"
+      ],
+      "result_redacao_columns": [
+        "TP_STATUS_REDACAO",
+        "NU_NOTA_REDACAO",
+        "TP_STATUS_REDACAO_AV1",
+        "NU_NOTA_AV1",
+        "NU_NOTA_COMP1_AV1",
+        "NU_NOTA_COMP2_AV1",
+        "NU_NOTA_COMP3_AV1",
+        "NU_NOTA_COMP4_AV1",
+        "NU_NOTA_COMP5_AV1",
+        "TP_STATUS_REDACAO_AV2",
+        "NU_NOTA_AV2",
+        "NU_NOTA_COMP1_AV2",
+        "NU_NOTA_COMP2_AV2",
+        "NU_NOTA_COMP3_AV2",
+        "NU_NOTA_COMP4_AV2",
+        "NU_NOTA_COMP5_AV2",
+        "TP_STATUS_REDACAO_AV3",
+        "NU_NOTA_AV3",
+        "NU_NOTA_COMP1_AV3",
+        "NU_NOTA_COMP2_AV3",
+        "NU_NOTA_COMP3_AV3",
+        "NU_NOTA_COMP4_AV3",
+        "NU_NOTA_COMP5_AV3",
+        "TP_STATUS_REDACAO_AV4",
+        "NU_NOTA_AV4",
+        "NU_NOTA_COMP1_AV4",
+        "NU_NOTA_COMP2_AV4",
+        "NU_NOTA_COMP3_AV4",
+        "NU_NOTA_COMP4_AV4",
+        "NU_NOTA_COMP5_AV4"
+      ],
+      "dictionary_entries": [
+        "DICIONÁRIO/Dicionário_Microdados_Enem_2025.ods",
+        "DICIONÁRIO/Dicionário_Microdados_Enem_2025.xlsx"
+      ],
+      "dictionary_checked": [
+        "DICIONÁRIO/Dicionário_Microdados_Enem_2025.xlsx"
+      ],
+      "dictionary_av_fields": [
+        "NU_NOTA_AV1",
+        "NU_NOTA_AV2",
+        "NU_NOTA_AV3",
+        "NU_NOTA_AV4",
+        "NU_NOTA_COMP1_AV1",
+        "NU_NOTA_COMP1_AV2",
+        "NU_NOTA_COMP1_AV3",
+        "NU_NOTA_COMP1_AV4",
+        "NU_NOTA_COMP2_AV1",
+        "NU_NOTA_COMP2_AV2",
+        "NU_NOTA_COMP2_AV3",
+        "NU_NOTA_COMP2_AV4",
+        "NU_NOTA_COMP3_AV1",
+        "NU_NOTA_COMP3_AV2",
+        "NU_NOTA_COMP3_AV3",
+        "NU_NOTA_COMP3_AV4",
+        "NU_NOTA_COMP4_AV1",
+        "NU_NOTA_COMP4_AV2",
+        "NU_NOTA_COMP4_AV3",
+        "NU_NOTA_COMP4_AV4",
+        "NU_NOTA_COMP5_AV1",
+        "NU_NOTA_COMP5_AV2",
+        "NU_NOTA_COMP5_AV3",
+        "NU_NOTA_COMP5_AV4",
+        "TP_STATUS_REDACAO_AV1",
+        "TP_STATUS_REDACAO_AV2",
+        "TP_STATUS_REDACAO_AV3",
+        "TP_STATUS_REDACAO_AV4"
+      ],
+      "dictionary_av_rows_sample": [
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 257,
+          "values": [
+            "TP_STATUS_REDACAO_AV1",
+            "Situação da redação do participante atribuída pelo avaliador 1",
+            "1",
+            "Sem problemas",
+            "1",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 265,
+          "values": [
+            "NU_NOTA_AV1",
+            "Nota da prova de redação atribuída pelo avaliador 1",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 266,
+          "values": [
+            "NU_NOTA_COMP1_AV1",
+            "Nota da competência 1 atribuída pelo avaliador 1 - Demonstrar domínio da modalidade escrita formal da Língua Portuguesa",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 267,
+          "values": [
+            "NU_NOTA_COMP2_AV1",
+            "Nota da competência 2 atribuída pelo avaliador 1 - Compreender a proposta de redação e aplicar conceitos das várias áreas de conhecimento para desenvolver o tema, dentro dos limites estruturais do texto dissertativo-argumentativo em prosa",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 268,
+          "values": [
+            "NU_NOTA_COMP3_AV1",
+            "Nota da competência 3 atribuída pelo avaliador 1 - Selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 269,
+          "values": [
+            "NU_NOTA_COMP4_AV1",
+            "Nota da competência 4 atribuída pelo avaliador 1 - Demonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 270,
+          "values": [
+            "NU_NOTA_COMP5_AV1",
+            "Nota da competência 5 atribuída pelo avaliador 1 - Elaborar proposta de intervenção para o problema abordado, respeitando os direitos humanos",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 271,
+          "values": [
+            "TP_STATUS_REDACAO_AV2",
+            "Situação da redação do participante atribuída pelo avaliador 2",
+            "1",
+            "Sem problemas",
+            "1",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 279,
+          "values": [
+            "NU_NOTA_AV2",
+            "Nota da prova de redação atribuída pelo avaliador 2",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 280,
+          "values": [
+            "NU_NOTA_COMP1_AV2",
+            "Nota da competência 1 atribuída pelo avaliador 2 - Demonstrar domínio da modalidade escrita formal da Língua Portuguesa",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 281,
+          "values": [
+            "NU_NOTA_COMP2_AV2",
+            "Nota da competência 2 atribuída pelo avaliador 2 - Compreender a proposta de redação e aplicar conceitos das várias áreas de conhecimento para desenvolver o tema, dentro dos limites estruturais do texto dissertativo-argumentativo em prosa",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 282,
+          "values": [
+            "NU_NOTA_COMP3_AV2",
+            "Nota da competência 3 atribuída pelo avaliador 2 - Selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 283,
+          "values": [
+            "NU_NOTA_COMP4_AV2",
+            "Nota da competência 4 atribuída pelo avaliador 2 - Demonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 284,
+          "values": [
+            "NU_NOTA_COMP5_AV2",
+            "Nota da competência 5 atribuída pelo avaliador 2 - Elaborar proposta de intervenção para o problema abordado, respeitando os direitos humanos",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 285,
+          "values": [
+            "TP_STATUS_REDACAO_AV3",
+            "Situação da redação do participante atribuída pelo avaliador 3 (se convocado)",
+            "1",
+            "Sem problemas",
+            "1",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 293,
+          "values": [
+            "NU_NOTA_AV3",
+            "Nota da prova de redação atribuída pelo avaliador 3 (se convocado)",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 294,
+          "values": [
+            "NU_NOTA_COMP1_AV3",
+            "Nota da competência 1 atribuída pelo avaliador 3 (se convocado) - Demonstrar domínio da modalidade escrita formal da Língua Portuguesa",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 295,
+          "values": [
+            "NU_NOTA_COMP2_AV3",
+            "Nota da competência 2 atribuída pelo avaliador 3 (se convocado) - Compreender a proposta de redação e aplicar conceitos das várias áreas de conhecimento para desenvolver o tema, dentro dos limites estruturais do texto dissertativo-argumentativo em prosa",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 296,
+          "values": [
+            "NU_NOTA_COMP3_AV3",
+            "Nota da competência 3 atribuída pelo avaliador 3 (se convocado) - Selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 297,
+          "values": [
+            "NU_NOTA_COMP4_AV3",
+            "Nota da competência 4 atribuída pelo avaliador 3 (se convocado) - Demonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 298,
+          "values": [
+            "NU_NOTA_COMP5_AV3",
+            "Nota da competência 5 atribuída pelo avaliador 3 (se convocado) - Elaborar proposta de intervenção para o problema abordado, respeitando os direitos humanos",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 299,
+          "values": [
+            "TP_STATUS_REDACAO_AV4",
+            "Situação da redação do participante atribuída por banca composta por 3 avaliadores (se convocada)",
+            "1",
+            "Sem problemas",
+            "1",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 307,
+          "values": [
+            "NU_NOTA_AV4",
+            "Nota da prova de redação atribuída por banca composta por 3 avaliadores (se convocada)",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 308,
+          "values": [
+            "NU_NOTA_COMP1_AV4",
+            "Nota da competência 1 atribuída por banca composta por 3 avaliadores (se convocada) - Demonstrar domínio da modalidade escrita formal da Língua Portuguesa.",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 309,
+          "values": [
+            "NU_NOTA_COMP2_AV4",
+            "Nota da competência 2 por banca composta por 3 avaliadores (se convocada) - Compreender a proposta de redação e aplicar conceitos das várias áreas de conhecimento para desenvolver o tema, dentro dos limites estruturais do texto dissertativo-argumentativo em prosa.",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 310,
+          "values": [
+            "NU_NOTA_COMP3_AV4",
+            "Nota da competência 3 por banca composta por 3 avaliadores (se convocada) - Selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista.",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 311,
+          "values": [
+            "NU_NOTA_COMP4_AV4",
+            "Nota da competência 4 por banca composta por 3 avaliadores (se convocada) - Demonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação.",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        },
+        {
+          "sheet": "RESULTADOS_2025",
+          "row": 312,
+          "values": [
+            "NU_NOTA_COMP5_AV4",
+            "Nota da competência 5 por banca composta por 3 avaliadores (se convocada) - Elaborar proposta de intervenção para o problema abordado, respeitando os direitos humanos.",
+            "",
+            "",
+            "9",
+            "Numérica"
+          ]
+        }
+      ]
+    }
+  }
+}

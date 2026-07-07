@@ -1,0 +1,47 @@
+# ============================================================================
+# XTRI · Backup de estudos ENEM 2025
+# REGRA DE OURO: nunca versionar microdados do INEP nem dado em grão individual.
+# Só sobem: scripts, artes/posts, textos, e tabelas AGREGADAS (item/escola).
+# ============================================================================
+
+# --- Microdados brutos e materiais oficiais do INEP (nunca) ---
+DADOS/
+PROVAS E GABARITOS/
+LEIA-ME E DOCUMENTOS TÉCNICOS/
+DICIONÁRIO/
+INPUTS/
+MICRODADOS_ENEM2025_PE.xlsx
+
+# --- Dado em GRÃO INDIVIDUAL (subconjuntos de microdado / nível de aluno) ---
+# uma linha por candidato: notas, string de respostas, redação por competência
+**/alunos.csv
+**/alunos_*.csv
+**/*_alunos.csv
+**/*_alunos_*.csv
+NOTAS_*alunos*.xlsx
+RANKING_RN_ESCOLA_BASE_CienciasAplicadas_ENEM2025.xlsx
+**/chutes_scatter.csv
+**/plot_data/
+**/amostra_xtri_*.csv
+**/amostra_*.csv
+# comparação aluno a aluno (amostra/pool = uma linha por estudante) — resumo/top10/contagens são agregados e FICAM
+**/comparativo_escolas_*_amostra_*.csv
+**/comparativo_escolas_*_pool_*.csv
+**/comparativo_escolas_*_54x54.csv
+**/comparativo_escolas_*_13x10.csv
+**/escolas_*_censo_*.csv
+
+# --- Scratch, caches, logs e binários grandes ---
+**/_tmp/
+**/cache/
+analises_primi_2025_cop30/cache/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.log
+Rplots.pdf
+
+# --- Lixo de SO ---
+.DS_Store
+**/.DS_Store
+Thumbs.db

@@ -1,0 +1,39 @@
+{
+  "url": "https://download.inep.gov.br/microdados/microdados_enem_2025.zip",
+  "verificado_em": "2026-06-25T08:58:15-0300",
+  "comparacoes": [
+    {
+      "alvo": "DADOS/RESULTADOS_2025.csv",
+      "local_path": "/Volumes/KINGSTON/apps/microdados_enem_2025/DADOS/RESULTADOS_2025.csv",
+      "official_name": "DADOS/RESULTADOS_2025.csv",
+      "official_crc32": "56714a94",
+      "local_crc32": "56714a94",
+      "official_uncompressed_size": 2115499721,
+      "local_size": 2115499721,
+      "match_crc32": true,
+      "match_size": true
+    },
+    {
+      "alvo": "DADOS/ITENS_PROVA_2025.csv",
+      "local_path": "/Volumes/KINGSTON/apps/microdados_enem_2025/DADOS/ITENS_PROVA_2025.csv",
+      "official_name": "DADOS/ITENS_PROVA_2025.csv",
+      "official_crc32": "165e42d0",
+      "local_crc32": "165e42d0",
+      "official_uncompressed_size": 365768,
+      "local_size": 365768,
+      "match_crc32": true,
+      "match_size": true
+    },
+    {
+      "alvo": "Dicionário_Microdados_Enem_2025.xlsx",
+      "local_path": "/Volumes/KINGSTON/apps/microdados_enem_2025/DICIONÁRIO/Dicionário_Microdados_Enem_2025.xlsx",
+      "official_name": "DICIONÁRIO/Dicionário_Microdados_Enem_2025.xlsx",
+      "official_crc32": "46bcc53c",
+      "local_crc32": "46bcc53c",
+      "official_uncompressed_size": 45516,
+      "local_size": 45516,
+      "match_crc32": true,
+      "match_size": true
+    }
+  ]
+}

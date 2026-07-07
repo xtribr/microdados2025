@@ -1,0 +1,78 @@
+{
+  "LC": {
+    "n_itens": 50,
+    "A_media": 2.441,
+    "A_mediana": 2.296,
+    "A_dp": 0.96,
+    "A_min": 0.671,
+    "A_max": 4.902,
+    "pct_muito_alta": 76.0,
+    "pct_alta_ou_mais": 86.0,
+    "pct_moderada_ou_menos": 14.0,
+    "n_navalha_A3mais": 10,
+    "dist_baker": {
+      "muito baixa": 0,
+      "baixa": 0,
+      "moderada": 7,
+      "alta": 5,
+      "muito alta": 38
+    }
+  },
+  "CH": {
+    "n_itens": 45,
+    "A_media": 2.277,
+    "A_mediana": 2.244,
+    "A_dp": 0.866,
+    "A_min": 0.88,
+    "A_max": 4.665,
+    "pct_muito_alta": 73.3,
+    "pct_alta_ou_mais": 84.4,
+    "pct_moderada_ou_menos": 15.6,
+    "n_navalha_A3mais": 9,
+    "dist_baker": {
+      "muito baixa": 0,
+      "baixa": 0,
+      "moderada": 7,
+      "alta": 5,
+      "muito alta": 33
+    }
+  },
+  "CN": {
+    "n_itens": 42,
+    "A_media": 2.385,
+    "A_mediana": 2.317,
+    "A_dp": 1.023,
+    "A_min": 0.668,
+    "A_max": 6.003,
+    "pct_muito_alta": 73.8,
+    "pct_alta_ou_mais": 83.3,
+    "pct_moderada_ou_menos": 16.7,
+    "n_navalha_A3mais": 9,
+    "dist_baker": {
+      "muito baixa": 0,
+      "baixa": 0,
+      "moderada": 7,
+      "alta": 4,
+      "muito alta": 31
+    }
+  },
+  "MT": {
+    "n_itens": 43,
+    "A_media": 1.963,
+    "A_mediana": 1.89,
+    "A_dp": 0.654,
+    "A_min": 0.925,
+    "A_max": 3.863,
+    "pct_muito_alta": 60.5,
+    "pct_alta_ou_mais": 83.7,
+    "pct_moderada_ou_menos": 16.3,
+    "n_navalha_A3mais": 4,
+    "dist_baker": {
+      "muito baixa": 0,
+      "baixa": 0,
+      "moderada": 7,
+      "alta": 10,
+      "muito alta": 26
+    }
+  }
+}

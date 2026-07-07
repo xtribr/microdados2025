@@ -1,0 +1,32 @@
+{
+  "nome": "Colégio Dom Bosco (São Luís)",
+  "co_escola": "21010331",
+  "extraidos": 56,
+  "processados": 51,
+  "presentes_4": 50,
+  "medias": {
+    "LC": 602.3,
+    "CH": 592.5,
+    "CN": 578.5,
+    "MT": 720.3
+  },
+  "redacao_media": 845.5,
+  "redacoes_validas": 51,
+  "incoer": {
+    "media": 4.3,
+    "mediana": 4.0,
+    "max": 10,
+    "zero_pct": 4.0
+  },
+  "lingua": {
+    "ingles": 48,
+    "espanhol": 8
+  },
+  "nacional_regular_p1": {
+    "LC": 533.4,
+    "CH": 513.1,
+    "CN": 500.6,
+    "MT": 521.2
+  },
+  "sem_categoria": 0
+}

@@ -1,0 +1,46 @@
+{
+  "year": 2024,
+  "nrows": 4332944,
+  "notas": {
+    "NU_NOTA_CN": {
+      "max": 867.2,
+      "min_all": 0.0,
+      "min_pos": 330.2,
+      "n": 3004981,
+      "n_pos": 3004312,
+      "mean_pos": 494.0
+    },
+    "NU_NOTA_CH": {
+      "max": 819.7,
+      "min_all": 0.0,
+      "min_pos": 283.8,
+      "n": 3167955,
+      "n_pos": 3161605,
+      "mean_pos": 512.0
+    },
+    "NU_NOTA_LC": {
+      "max": 795.8,
+      "min_all": 0.0,
+      "min_pos": 298.8,
+      "n": 3167955,
+      "n_pos": 3165988,
+      "mean_pos": 524.8
+    },
+    "NU_NOTA_MT": {
+      "max": 961.9,
+      "min_all": 0.0,
+      "min_pos": 342.8,
+      "n": 3004981,
+      "n_pos": 3004169,
+      "mean_pos": 527.1
+    },
+    "NU_NOTA_REDACAO": {
+      "max": 1000.0,
+      "min_all": 0.0,
+      "min_pos": 40.0,
+      "n": 3167955,
+      "n_pos": 3002710,
+      "mean_pos": 659.0
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "fonte_enem": "/Volumes/KINGSTON/apps/microdados_enem_2025/DADOS/RESULTADOS_2025.csv",
+  "fonte_censo_escolar_2025": "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/cache/microdados_censo_escolar_2025.zip",
+  "fonte_censo_url": "https://download.inep.gov.br/dados_abertos/microdados_censo_escolar_2025_.zip",
+  "recorte": "Natal/RN; escolas privadas com Ensino Medio no Censo 2025; ENEM 2025",
+  "criterio_5_notas": {
+    "presenca": "TP_PRESENCA_CN/CH/LC/MT == 1",
+    "redacao": "TP_STATUS_REDACAO == 1",
+    "notas_obrigatorias": [
+      "NU_NOTA_CN",
+      "NU_NOTA_CH",
+      "NU_NOTA_LC",
+      "NU_NOTA_MT",
+      "NU_NOTA_REDACAO"
+    ]
+  },
+  "criterio_ranking": "media simples das 5 notas; desempate por MEDIA_4_TRI, Redacao e Matematica",
+  "criterio_amostra": {
+    "COLEGIO CIENCIAS APLICADAS": "todos os 54 alunos com 5 notas",
+    "demais_escolas": "54 melhores por MEDIA_5"
+  },
+  "codigos_usados": {
+    "24097004": "Ciências Aplicadas",
+    "24088846": "Colégio Porto",
+    "24069191": "CEI S/A Romualdo",
+    "24057134": "Marista de Natal"
+  },
+  "codigo_cei_mais_nao_usado": {
+    "codigo": 24350303,
+    "motivo": "usuario pediu Centro de Educacao Integrada S A; codigo 24350303 e CEI Mais Ltda"
+  },
+  "n_pool_5_notas_por_escola": {
+    "CEI S/A Romualdo": 139,
+    "Marista de Natal": 171,
+    "Colégio Porto": 96,
+    "Ciências Aplicadas": 54
+  },
+  "n_amostra_por_escola": {
+    "CEI S/A Romualdo": 54,
+    "Marista de Natal": 54,
+    "Colégio Porto": 54,
+    "Ciências Aplicadas": 54
+  },
+  "arquivos": {
+    "censo_escolas": "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/escolas_natal_censo_2025_codigos.csv",
+    "pool_5_notas": "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/comparativo_escolas_natal_2025_pool_5notas.csv",
+    "amostra_54x54": "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/comparativo_escolas_natal_2025_amostra_54x54.csv",
+    "resumo": "/Volumes/KINGSTON/apps/microdados_enem_2025/analises_primi_2025_cop30/outputs/comparativo_escolas_natal_2025_resumo.csv"
+  }
+}

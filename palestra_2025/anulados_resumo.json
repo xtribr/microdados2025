@@ -1,0 +1,166 @@
+{
+  "152715": {
+    "area": "CH",
+    "tipo": "tri",
+    "motivo": "Bis<0,01",
+    "gab": "D",
+    "n_total": 0,
+    "consenso_fortes": null,
+    "pct_consenso_fortes": null,
+    "pct_consenso_geral": null,
+    "pct_consenso_fracos_350_449": null,
+    "dist_geral": {}
+  },
+  "96748": {
+    "area": "CN",
+    "tipo": "tri",
+    "motivo": "Problema de convergência",
+    "gab": "B",
+    "n_total": 3176181,
+    "consenso_fortes": "B",
+    "pct_consenso_fortes": 50.5,
+    "pct_consenso_geral": 27.3,
+    "pct_consenso_fracos_350_449": 27.0,
+    "dist_geral": {
+      "A": 16.6,
+      "B": 27.3,
+      "C": 24.5,
+      "D": 20.7,
+      "E": 10.5,
+      "outros": 0.4
+    }
+  },
+  "97593": {
+    "area": "MT",
+    "tipo": "tri",
+    "motivo": "Problema de convergência",
+    "gab": "A",
+    "n_total": 3176102,
+    "consenso_fortes": "D",
+    "pct_consenso_fortes": 59.0,
+    "pct_consenso_geral": 23.0,
+    "pct_consenso_fracos_350_449": 20.1,
+    "dist_geral": {
+      "A": 12.0,
+      "B": 23.8,
+      "C": 26.8,
+      "D": 23.0,
+      "E": 13.9,
+      "outros": 0.6
+    }
+  },
+  "141557": {
+    "area": "CN",
+    "tipo": "exposto",
+    "motivo": "Previamente exposto",
+    "gab": null,
+    "n_total": 3176181,
+    "consenso_fortes": "C",
+    "pct_consenso_fortes": 62.5,
+    "pct_consenso_geral": 29.2,
+    "pct_consenso_fracos_350_449": 26.7,
+    "dist_geral": {
+      "A": 10.5,
+      "B": 22.9,
+      "C": 29.2,
+      "D": 23.8,
+      "E": 13.3,
+      "outros": 0.4
+    }
+  },
+  "141774": {
+    "area": "CN",
+    "tipo": "exposto",
+    "motivo": "Previamente exposto",
+    "gab": null,
+    "n_total": 3176181,
+    "consenso_fortes": "E",
+    "pct_consenso_fortes": 82.6,
+    "pct_consenso_geral": 12.4,
+    "pct_consenso_fracos_350_449": 9.4,
+    "dist_geral": {
+      "A": 14.2,
+      "B": 20.3,
+      "C": 26.6,
+      "D": 26.2,
+      "E": 12.4,
+      "outros": 0.2
+    }
+  },
+  "31350": {
+    "area": "MT",
+    "tipo": "exposto",
+    "motivo": "Previamente exposto",
+    "gab": null,
+    "n_total": 3176102,
+    "consenso_fortes": "B",
+    "pct_consenso_fortes": 68.1,
+    "pct_consenso_geral": 31.5,
+    "pct_consenso_fracos_350_449": 23.2,
+    "dist_geral": {
+      "A": 15.8,
+      "B": 31.5,
+      "C": 23.0,
+      "D": 17.9,
+      "E": 11.3,
+      "outros": 0.5
+    }
+  },
+  "125735": {
+    "area": "CH",
+    "tipo": "ref",
+    "motivo": "item saudável (A=1,93 B=0,98)",
+    "gab": "D",
+    "n_total": 3360285,
+    "consenso_fortes": "D",
+    "pct_consenso_fortes": 94.3,
+    "pct_consenso_geral": 35.8,
+    "pct_consenso_fracos_350_449": 20.4,
+    "dist_geral": {
+      "A": 32.2,
+      "B": 11.8,
+      "C": 7.0,
+      "D": 35.8,
+      "E": 13.0,
+      "outros": 0.3
+    }
+  },
+  "141577": {
+    "area": "CN",
+    "tipo": "ref",
+    "motivo": "item saudável (A=2,33 B=1,10)",
+    "gab": "E",
+    "n_total": 3176181,
+    "consenso_fortes": "E",
+    "pct_consenso_fortes": 96.9,
+    "pct_consenso_geral": 27.5,
+    "pct_consenso_fracos_350_449": 15.8,
+    "dist_geral": {
+      "A": 17.8,
+      "B": 18.5,
+      "C": 13.7,
+      "D": 22.3,
+      "E": 27.5,
+      "outros": 0.2
+    }
+  },
+  "117856": {
+    "area": "MT",
+    "tipo": "ref",
+    "motivo": "item saudável (A=2,17 B=1,83)",
+    "gab": "C",
+    "n_total": 3176102,
+    "consenso_fortes": "C",
+    "pct_consenso_fortes": 84.5,
+    "pct_consenso_geral": 32.5,
+    "pct_consenso_fracos_350_449": 23.6,
+    "dist_geral": {
+      "A": 16.3,
+      "B": 19.8,
+      "C": 32.5,
+      "D": 17.4,
+      "E": 13.5,
+      "outros": 0.5
+    }
+  }
+}

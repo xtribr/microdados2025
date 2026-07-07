@@ -1,0 +1,209 @@
+[
+  {
+    "acertos_total": 20,
+    "acertos_lingua": 0,
+    "ingles_nota": 526.5,
+    "espanhol_nota": 539.1,
+    "dif": 12.6,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 20,
+    "acertos_lingua": 1,
+    "ingles_nota": 529.8,
+    "espanhol_nota": 539.1,
+    "dif": 9.3,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 20,
+    "acertos_lingua": 2,
+    "ingles_nota": 531.9,
+    "espanhol_nota": 537.3,
+    "dif": 5.4,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 20,
+    "acertos_lingua": 3,
+    "ingles_nota": 534.3,
+    "espanhol_nota": 537.3,
+    "dif": 3.0,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 20,
+    "acertos_lingua": 4,
+    "ingles_nota": 539.5,
+    "espanhol_nota": 534.2,
+    "dif": -5.3,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 20,
+    "acertos_lingua": 5,
+    "ingles_nota": 541.2,
+    "espanhol_nota": 528.5,
+    "dif": -12.8,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 25,
+    "acertos_lingua": 0,
+    "ingles_nota": 558.6,
+    "espanhol_nota": 574.5,
+    "dif": 15.9,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 25,
+    "acertos_lingua": 1,
+    "ingles_nota": 560.8,
+    "espanhol_nota": 573.7,
+    "dif": 12.9,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 25,
+    "acertos_lingua": 2,
+    "ingles_nota": 562.2,
+    "espanhol_nota": 573.5,
+    "dif": 11.3,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 25,
+    "acertos_lingua": 3,
+    "ingles_nota": 566.9,
+    "espanhol_nota": 572.3,
+    "dif": 5.4,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 25,
+    "acertos_lingua": 4,
+    "ingles_nota": 569.6,
+    "espanhol_nota": 571.0,
+    "dif": 1.4,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 25,
+    "acertos_lingua": 5,
+    "ingles_nota": 573.3,
+    "espanhol_nota": 568.5,
+    "dif": -4.9,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 30,
+    "acertos_lingua": 0,
+    "ingles_nota": 588.6,
+    "espanhol_nota": 609.7,
+    "dif": 21.1,
+    "n_ing": 78,
+    "n_esp": 93
+  },
+  {
+    "acertos_total": 30,
+    "acertos_lingua": 1,
+    "ingles_nota": 589.8,
+    "espanhol_nota": 605.1,
+    "dif": 15.3,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 30,
+    "acertos_lingua": 2,
+    "ingles_nota": 591.6,
+    "espanhol_nota": 605.0,
+    "dif": 13.4,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 30,
+    "acertos_lingua": 3,
+    "ingles_nota": 596.4,
+    "espanhol_nota": 604.7,
+    "dif": 8.3,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 30,
+    "acertos_lingua": 4,
+    "ingles_nota": 601.6,
+    "espanhol_nota": 605.3,
+    "dif": 3.7,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 30,
+    "acertos_lingua": 5,
+    "ingles_nota": 602.2,
+    "espanhol_nota": 602.8,
+    "dif": 0.6,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 35,
+    "acertos_lingua": 1,
+    "ingles_nota": 618.2,
+    "espanhol_nota": 640.2,
+    "dif": 22.0,
+    "n_ing": 20,
+    "n_esp": 48
+  },
+  {
+    "acertos_total": 35,
+    "acertos_lingua": 2,
+    "ingles_nota": 623.7,
+    "espanhol_nota": 642.4,
+    "dif": 18.7,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 35,
+    "acertos_lingua": 3,
+    "ingles_nota": 628.7,
+    "espanhol_nota": 641.0,
+    "dif": 12.3,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 35,
+    "acertos_lingua": 4,
+    "ingles_nota": 633.7,
+    "espanhol_nota": 641.0,
+    "dif": 7.4,
+    "n_ing": 200,
+    "n_esp": 200
+  },
+  {
+    "acertos_total": 35,
+    "acertos_lingua": 5,
+    "ingles_nota": 635.0,
+    "espanhol_nota": 641.2,
+    "dif": 6.2,
+    "n_ing": 200,
+    "n_esp": 200
+  }
+]

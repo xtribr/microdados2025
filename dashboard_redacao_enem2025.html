@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Redação ENEM 2025 — Correção & Divergência AV1×AV2</title>
+<style>
+  :root{
+    --bg:#f5f5f7;
+    --card:#ffffff;
+    --ink:#1d1d1f;
+    --ink2:#6e6e73;
+    --line:#e8e8ed;
+    --blue:#0071e3;
+    --blue-soft:#e8f2ff;
+    --green:#34c759;
+    --orange:#ff9f0a;
+    --red:#ff3b30;
+    --purple:#5e5ce6;
+    --teal:#30b0c7;
+    --radius:22px;
+    --shadow:0 1px 2px rgba(0,0,0,.04), 0 8px 30px rgba(0,0,0,.06);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;
+    background:var(--bg);
+    color:var(--ink);
+    line-height:1.5;
+    padding:48px 24px 80px;
+  }
+  .wrap{max-width:1180px;margin:0 auto}
+
+  /* HERO */
+  .hero{margin-bottom:40px}
+  .eyebrow{
+    font-size:13px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;
+    color:var(--blue);margin-bottom:12px;display:flex;align-items:center;gap:10px;
+  }
+  .eyebrow .dot{width:7px;height:7px;border-radius:50%;background:var(--blue)}
+  h1{font-size:46px;font-weight:700;letter-spacing:-.02em;line-height:1.07;margin-bottom:14px}
+  h1 .grad{background:linear-gradient(90deg,#0071e3,#5e5ce6);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+  .sub{font-size:19px;color:var(--ink2);max-width:720px;font-weight:400}
+  .sub b{color:var(--ink);font-weight:600}
+
+  /* KPI */
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin:36px 0}
+  .kpi{
+    background:var(--card);border-radius:var(--radius);padding:26px 24px;box-shadow:var(--shadow);
+    position:relative;overflow:hidden;
+  }
+  .kpi .ic{
+    width:40px;height:40px;border-radius:12px;display:flex;align-items:center;justify-content:center;
+    font-size:20px;margin-bottom:16px;
+  }
+  .kpi .val{font-size:38px;font-weight:700;letter-spacing:-.02em;line-height:1}
+  .kpi .val span{font-size:22px;font-weight:600;color:var(--ink2)}
+  .kpi .lab{font-size:14px;color:var(--ink2);margin-top:8px;font-weight:500}
+  .kpi .foot{font-size:12.5px;color:var(--ink2);margin-top:10px;opacity:.8}
+
+  /* GRID */
+  .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
+  .card{background:var(--card);border-radius:var(--radius);padding:28px;box-shadow:var(--shadow)}
+  .card.full{grid-column:1/-1}
+  .card h3{font-size:20px;font-weight:600;letter-spacing:-.01em;margin-bottom:4px}
+  .card .desc{font-size:14px;color:var(--ink2);margin-bottom:22px}
+  .chart-box{position:relative;height:300px}
+  .chart-box.tall{height:340px}
+
+  /* FUNNEL */
+  .funnel{display:flex;flex-direction:column;gap:14px;margin-top:6px}
+  .frow{display:flex;align-items:center;gap:16px}
+  .frow .name{width:200px;flex-shrink:0;font-size:14.5px;font-weight:500}
+  .frow .name small{display:block;color:var(--ink2);font-weight:400;font-size:12.5px}
+  .bar-track{flex:1;background:#f0f0f3;border-radius:11px;height:46px;position:relative;overflow:hidden}
+  .bar-fill{height:100%;border-radius:11px;display:flex;align-items:center;padding:0 16px;color:#fff;font-weight:600;font-size:15px;white-space:nowrap;transition:width .8s cubic-bezier(.2,.8,.2,1)}
+  .frow .pct{width:74px;text-align:right;font-weight:700;font-size:16px}
+
+  /* EXAMPLE */
+  .example{background:linear-gradient(135deg,#f0f6ff 0%,#eef0ff 100%);border:1px solid #e3ecff}
+  .flow{display:flex;align-items:stretch;gap:0;margin-top:18px;flex-wrap:wrap}
+  .step{flex:1;min-width:120px;text-align:center;padding:18px 10px;position:relative}
+  .step .who{font-size:12px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--ink2);margin-bottom:8px}
+  .step .score{font-size:34px;font-weight:700;letter-spacing:-.02em}
+  .step.final .score{color:var(--green)}
+  .step .note{font-size:12px;color:var(--ink2);margin-top:4px}
+  .arrow{display:flex;align-items:center;color:#c4c4cc;font-size:22px;padding:0 4px}
+  .badge-div{display:inline-block;background:var(--red);color:#fff;font-size:12px;font-weight:600;padding:3px 10px;border-radius:20px;margin-top:8px}
+
+  /* COMP */
+  .comp{display:flex;flex-direction:column;gap:13px;margin-top:6px}
+  .crow{display:flex;align-items:center;gap:14px}
+  .crow .cn{width:230px;flex-shrink:0;font-size:13.5px}
+  .crow .cn b{font-weight:600}
+  .crow .cn small{color:var(--ink2)}
+  .ctrack{flex:1;background:#f0f0f3;border-radius:8px;height:30px;overflow:hidden}
+  .cfill{height:100%;border-radius:8px;transition:width .8s cubic-bezier(.2,.8,.2,1)}
+  .crow .cv{width:96px;text-align:right;font-weight:700;font-size:15px}
+  .crow .cv small{font-weight:500;color:var(--ink2);font-size:12px}
+
+  /* DISTRIBUTION BARS (sem dependência externa) */
+  .dist{display:flex;flex-direction:column;gap:11px;margin-top:6px}
+  .drow{display:flex;align-items:center;gap:13px}
+  .drow .dn{width:96px;flex-shrink:0;font-size:13px;font-weight:500;text-align:right;color:var(--ink2)}
+  .dtrack{flex:1;background:#f0f0f3;border-radius:8px;height:30px;overflow:hidden}
+  .dfill{height:100%;border-radius:8px;transition:width .8s cubic-bezier(.2,.8,.2,1);min-width:3px}
+  .drow .dv{width:120px;text-align:right;font-weight:700;font-size:14px}
+  .drow .dv small{font-weight:500;color:var(--ink2);font-size:12px}
+
+  /* EVOLUÇÃO 2024 -> 2025 */
+  .evo{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:8px}
+  .evocard{background:#fafafc;border:1px solid var(--line);border-radius:18px;padding:20px}
+  .evocard .et{font-size:14px;font-weight:600;margin-bottom:2px}
+  .evocard .es{font-size:12px;color:var(--ink2);margin-bottom:16px}
+  .ebar{display:flex;align-items:center;gap:10px;margin-bottom:9px}
+  .ebar .ey{width:34px;font-size:11px;font-weight:600;color:var(--ink2)}
+  .etrack{flex:1;background:#ececf1;border-radius:6px;height:22px;overflow:hidden}
+  .efill{height:100%;border-radius:6px}
+  .ebar .eval{width:46px;text-align:right;font-size:13px;font-weight:700}
+  .edelta{display:inline-block;margin-top:6px;font-size:12px;font-weight:600;padding:3px 9px;border-radius:14px}
+  .edelta.down{background:#ffe5e3;color:#d70015}
+  .edelta.up{background:#e3f9e8;color:#248a3d}
+
+  .foot-note{margin-top:36px;font-size:13px;color:var(--ink2);text-align:center;line-height:1.7}
+  .foot-note b{color:var(--ink)}
+  .pill{display:inline-flex;gap:7px;align-items:center;background:#fff;border:1px solid var(--line);padding:7px 14px;border-radius:20px;font-size:13px;font-weight:500;margin:4px}
+  .pill .pdot{width:8px;height:8px;border-radius:50%}
+
+  @media(max-width:920px){
+    .kpis{grid-template-columns:repeat(2,1fr)}
+    .grid{grid-template-columns:1fr}
+    h1{font-size:34px}
+    .frow .name{width:130px}
+    .crow .cn{width:150px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- HERO -->
+  <div class="hero">
+    <div class="eyebrow"><span class="dot"></span>Microdados oficiais INEP · ENEM 2025 · XTRI EdTECH</div>
+    <h1>A redação corrigida <span class="grad">duas, três e quatro vezes</span></h1>
+    <p class="sub">Toda redação do ENEM passa por <b>dois corretores independentes</b>. Quando AV1 e AV2 discordam demais, entra um <b>terceiro</b> — e, em casos extremos, um <b>quarto</b>. Esta análise usa as <b>3.457.555 redações efetivamente corrigidas</b> em 2025.</p>
+  </div>
+
+  <!-- KPIs -->
+  <div class="kpis">
+    <div class="kpi">
+      <div class="ic" style="background:var(--blue-soft);color:var(--blue)">📝</div>
+      <div class="val">3,46<span> mi</span></div>
+      <div class="lab">Redações corrigidas (AV1 + AV2)</div>
+      <div class="foot">Base com dupla correção independente</div>
+    </div>
+    <div class="kpi">
+      <div class="ic" style="background:#fff0e0;color:var(--orange)">⚖️</div>
+      <div class="val">33,1<span>%</span></div>
+      <div class="lab">Foram ao 3º corretor (AV3)</div>
+      <div class="foot">1.144.614 redações com divergência</div>
+    </div>
+    <div class="kpi">
+      <div class="ic" style="background:#ffe5e3;color:var(--red)">🔬</div>
+      <div class="val">5,38<span>%</span></div>
+      <div class="lab">Foram ao 4º corretor / banca (AV4)</div>
+      <div class="foot">185.926 redações sem consenso no AV3</div>
+    </div>
+    <div class="kpi">
+      <div class="ic" style="background:#eceaff;color:var(--purple)">📏</div>
+      <div class="val">84,9<span> pts</span></div>
+      <div class="lab">Divergência média AV1 × AV2</div>
+      <div class="foot">Diferença absoluta entre os 2 corretores</div>
+    </div>
+  </div>
+
+  <!-- FUNNEL + DIVERGENCE -->
+  <div class="grid">
+    <div class="card">
+      <h3>Funil da correção</h3>
+      <p class="desc">De cada redação até o veredito final, quantos avaliadores foram acionados.</p>
+      <div class="funnel">
+        <div class="frow">
+          <div class="name">AV1 + AV2<small>Dupla correção (todas)</small></div>
+          <div class="bar-track"><div class="bar-fill" style="width:100%;background:linear-gradient(90deg,#0071e3,#3a93ff)">3.457.555</div></div>
+          <div class="pct">100%</div>
+        </div>
+        <div class="frow">
+          <div class="name">→ AV3<small>3º corretor (divergência)</small></div>
+          <div class="bar-track"><div class="bar-fill" style="width:33.1%;background:linear-gradient(90deg,#ff9f0a,#ffb84d)">1.144.614</div></div>
+          <div class="pct">33,1%</div>
+        </div>
+        <div class="frow">
+          <div class="name">→ AV4<small>4º corretor / banca</small></div>
+          <div class="bar-track"><div class="bar-fill" style="width:5.38%;background:linear-gradient(90deg,#ff3b30,#ff6b63);font-size:13px;padding:0 10px">185.926</div></div>
+          <div class="pct">5,4%</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Quão diferente foi AV1 de AV2?</h3>
+      <p class="desc">Distribuição da diferença absoluta de nota entre os dois primeiros corretores.</p>
+      <div class="dist">
+        <div class="drow"><div class="dn">Idênticas (0)</div><div class="dtrack"><div class="dfill" style="width:43.2%;background:linear-gradient(90deg,#34c759,#5dd87e)"></div></div><div class="dv">704.335<small> · 20,4%</small></div></div>
+        <div class="drow"><div class="dn">1–80</div><div class="dtrack"><div class="dfill" style="width:100%;background:linear-gradient(90deg,#0071e3,#3a93ff)"></div></div><div class="dv">1.631.256<small> · 47,2%</small></div></div>
+        <div class="drow"><div class="dn">81–160</div><div class="dtrack"><div class="dfill" style="width:45.9%;background:linear-gradient(90deg,#ff9f0a,#ffb84d)"></div></div><div class="dv">749.328<small> · 21,7%</small></div></div>
+        <div class="drow"><div class="dn">161–240</div><div class="dtrack"><div class="dfill" style="width:14.8%;background:linear-gradient(90deg,#ff6b35,#ff8a5c)"></div></div><div class="dv">241.724<small> · 7,0%</small></div></div>
+        <div class="drow"><div class="dn">241–320</div><div class="dtrack"><div class="dfill" style="width:4.4%;background:linear-gradient(90deg,#ff3b30,#ff6b63)"></div></div><div class="dv">71.682<small> · 2,1%</small></div></div>
+        <div class="drow"><div class="dn">320+</div><div class="dtrack"><div class="dfill" style="width:3.6%;background:linear-gradient(90deg,#c1121f,#e23b48)"></div></div><div class="dv">59.230<small> · 1,7%</small></div></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- REAL EXAMPLE -->
+  <div class="card full example" style="margin-top:18px">
+    <h3>Um caso real do banco de dados</h3>
+    <p class="desc">Redação em que AV1 e AV2 discordaram em 320 pontos — exatamente o exemplo de divergência que motivou esta análise. Registro extraído diretamente dos microdados.</p>
+    <div class="flow">
+      <div class="step"><div class="who">AV1</div><div class="score">480</div><div class="note">1º corretor</div></div>
+      <div class="arrow">→</div>
+      <div class="step"><div class="who">AV2</div><div class="score">800</div><div class="note">2º corretor</div></div>
+      <div class="arrow">→</div>
+      <div class="step"><div class="who">AV3</div><div class="score">640</div><div class="note">3º corretor</div></div>
+      <div class="arrow">→</div>
+      <div class="step"><div class="who">AV4</div><div class="score">680</div><div class="note">banca</div></div>
+      <div class="arrow">→</div>
+      <div class="step final"><div class="who">Nota final</div><div class="score">680</div><div class="note">homologada</div></div>
+    </div>
+    <div style="text-align:center"><span class="badge-div">|AV1 − AV2| = 320 pontos de divergência</span></div>
+  </div>
+
+  <!-- FINAL DIST -->
+  <div class="grid" style="margin-top:18px">
+    <div class="card">
+      <h3>Distribuição das notas finais</h3>
+      <p class="desc">Onde ficaram as 3,46 mi de notas homologadas, em faixas de 100 pontos.</p>
+      <div class="dist">
+        <div class="drow"><div class="dn">0–99</div><div class="dtrack"><div class="dfill" style="width:27.5%;background:linear-gradient(90deg,#5e5ce6,#0071e3)"></div></div><div class="dv">212.820<small> · 6,2%</small></div></div>
+        <div class="drow"><div class="dn">100–199</div><div class="dtrack"><div class="dfill" style="width:0.3%;background:linear-gradient(90deg,#5e5ce6,#0071e3)"></div></div><div class="dv">2.114<small> · 0,1%</small></div></div>
+        <div class="drow"><div class="dn">200–299</div><div class="dtrack"><div class="dfill" style="width:3.8%;background:linear-gradient(90deg,#5e5ce6,#0071e3)"></div></div><div class="dv">29.561<small> · 0,9%</small></div></div>
+        <div class="drow"><div class="dn">300–399</div><div class="dtrack"><div class="dfill" style="width:24.5%;background:linear-gradient(90deg,#5e5ce6,#0071e3)"></div></div><div class="dv">189.272<small> · 5,5%</small></div></div>
+        <div class="drow"><div class="dn">400–499</div><div class="dtrack"><div class="dfill" style="width:63.7%;background:linear-gradient(90deg,#5e5ce6,#0071e3)"></div></div><div class="dv">492.267<small> · 14,2%</small></div></div>
+        <div class="drow"><div class="dn">500–599</div><div class="dtrack"><div class="dfill" style="width:96.1%;background:linear-gradient(90deg,#5e5ce6,#0071e3)"></div></div><div class="dv">743.325<small> · 21,5%</small></div></div>
+        <div class="drow"><div class="dn">600–699</div><div class="dtrack"><div class="dfill" style="width:100%;background:linear-gradient(90deg,#5e5ce6,#0071e3)"></div></div><div class="dv">773.212<small> · 22,4%</small></div></div>
+        <div class="drow"><div class="dn">700–799</div><div class="dtrack"><div class="dfill" style="width:59.9%;background:linear-gradient(90deg,#5e5ce6,#0071e3)"></div></div><div class="dv">463.062<small> · 13,4%</small></div></div>
+        <div class="drow"><div class="dn">800–899</div><div class="dtrack"><div class="dfill" style="width:48.9%;background:linear-gradient(90deg,#5e5ce6,#0071e3)"></div></div><div class="dv">378.379<small> · 10,9%</small></div></div>
+        <div class="drow"><div class="dn">900–1000</div><div class="dtrack"><div class="dfill" style="width:22.4%;background:linear-gradient(90deg,#5e5ce6,#0071e3)"></div></div><div class="dv">173.543<small> · 5,0%</small></div></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Médias por competência</h3>
+      <p class="desc">Cada competência vale até 200 pontos. A C5 (proposta de intervenção) é historicamente a mais difícil — e os dados de 2025 confirmam.</p>
+      <div class="comp">
+        <div class="crow"><div class="cn"><b>C1</b> · <small>Norma culta</small></div><div class="ctrack"><div class="cfill" style="width:60.3%;background:linear-gradient(90deg,#0071e3,#3a93ff)"></div></div><div class="cv">120,6<small>/200</small></div></div>
+        <div class="crow"><div class="cn"><b>C2</b> · <small>Tema e estrutura</small></div><div class="ctrack"><div class="cfill" style="width:68.5%;background:linear-gradient(90deg,#34c759,#5dd87e)"></div></div><div class="cv">137,0<small>/200</small></div></div>
+        <div class="crow"><div class="cn"><b>C3</b> · <small>Argumentação</small></div><div class="ctrack"><div class="cfill" style="width:59.8%;background:linear-gradient(90deg,#30b0c7,#5ac6da)"></div></div><div class="cv">119,6<small>/200</small></div></div>
+        <div class="crow"><div class="cn"><b>C4</b> · <small>Coesão</small></div><div class="ctrack"><div class="cfill" style="width:63.7%;background:linear-gradient(90deg,#5e5ce6,#8482f0)"></div></div><div class="cv">127,3<small>/200</small></div></div>
+        <div class="crow"><div class="cn"><b>C5</b> · <small>Proposta de intervenção</small></div><div class="ctrack"><div class="cfill" style="width:57.1%;background:linear-gradient(90deg,#ff9f0a,#ffb84d)"></div></div><div class="cv">114,1<small>/200</small></div></div>
+      </div>
+      <div style="margin-top:24px;display:flex;gap:10px;flex-wrap:wrap">
+        <span class="pill"><span class="pdot" style="background:var(--green)"></span>Média final: <b>&nbsp;618,7</b>&nbsp;(s/ zeros)</span>
+        <span class="pill"><span class="pdot" style="background:var(--red)"></span>Notas zero: <b>&nbsp;211.859</b></span>
+        <span class="pill"><span class="pdot" style="background:var(--blue)"></span>Notas 1000: <b>&nbsp;apenas 10</b></span>
+      </div>
+    </div>
+  </div>
+
+  <!-- EVOLUÇÃO 2024 x 2025 -->
+  <div class="card full" style="margin-top:18px">
+    <h3>Evolução 2024 → 2025: a banca apertou em todas as competências</h3>
+    <p class="desc">Média de cada competência (escala 0–200), comparando os dois anos com método idêntico — médias incluindo as redações zeradas, para serem comparáveis. <b>Todas caíram</b>, e a C2 foi a que mais recuou.</p>
+    <div class="evo">
+      <div class="evocard">
+        <div class="et">C1 · Norma culta</div><div class="es">Domínio da escrita formal</div>
+        <div class="ebar"><span class="ey">2024</span><div class="etrack"><div class="efill" style="width:59.8%;background:#c7c7cc"></div></div><span class="eval">119,6</span></div>
+        <div class="ebar"><span class="ey">2025</span><div class="etrack"><div class="efill" style="width:56.6%;background:linear-gradient(90deg,#0071e3,#3a93ff)"></div></div><span class="eval">113,2</span></div>
+        <span class="edelta down">▼ −6,4 pts</span>
+      </div>
+      <div class="evocard">
+        <div class="et">C2 · Tema e estrutura</div><div class="es">Maior queda do ano</div>
+        <div class="ebar"><span class="ey">2024</span><div class="etrack"><div class="efill" style="width:72.3%;background:#c7c7cc"></div></div><span class="eval">144,6</span></div>
+        <div class="ebar"><span class="ey">2025</span><div class="etrack"><div class="efill" style="width:64.3%;background:linear-gradient(90deg,#34c759,#5dd87e)"></div></div><span class="eval">128,6</span></div>
+        <span class="edelta down">▼ −16,0 pts</span>
+      </div>
+      <div class="evocard">
+        <div class="et">C3 · Argumentação</div><div class="es">Seleção e organização</div>
+        <div class="ebar"><span class="ey">2024</span><div class="etrack"><div class="efill" style="width:59.0%;background:#c7c7cc"></div></div><span class="eval">118,0</span></div>
+        <div class="ebar"><span class="ey">2025</span><div class="etrack"><div class="efill" style="width:56.2%;background:linear-gradient(90deg,#30b0c7,#5ac6da)"></div></div><span class="eval">112,3</span></div>
+        <span class="edelta down">▼ −5,7 pts</span>
+      </div>
+      <div class="evocard">
+        <div class="et">C4 · Coesão</div><div class="es">Mecanismos linguísticos</div>
+        <div class="ebar"><span class="ey">2024</span><div class="etrack"><div class="efill" style="width:64.5%;background:#c7c7cc"></div></div><span class="eval">128,9</span></div>
+        <div class="ebar"><span class="ey">2025</span><div class="etrack"><div class="efill" style="width:59.8%;background:linear-gradient(90deg,#5e5ce6,#8482f0)"></div></div><span class="eval">119,5</span></div>
+        <span class="edelta down">▼ −9,4 pts</span>
+      </div>
+      <div class="evocard">
+        <div class="et">C5 · Proposta de intervenção</div><div class="es">A mais difícil nos 2 anos</div>
+        <div class="ebar"><span class="ey">2024</span><div class="etrack"><div class="efill" style="width:56.8%;background:#c7c7cc"></div></div><span class="eval">113,5</span></div>
+        <div class="ebar"><span class="ey">2025</span><div class="etrack"><div class="efill" style="width:53.6%;background:linear-gradient(90deg,#ff9f0a,#ffb84d)"></div></div><span class="eval">107,2</span></div>
+        <span class="edelta down">▼ −6,3 pts</span>
+      </div>
+      <div class="evocard" style="background:linear-gradient(135deg,#fff0f0,#ffe9e9);border-color:#ffd4d4">
+        <div class="et">Redação (soma das 5)</div><div class="es">Nota total da redação</div>
+        <div class="ebar"><span class="ey">2024</span><div class="etrack" style="background:#f3d4d4"><div class="efill" style="width:62.5%;background:#ff9f9a"></div></div><span class="eval">624,6</span></div>
+        <div class="ebar"><span class="ey">2025</span><div class="etrack" style="background:#f3d4d4"><div class="efill" style="width:58.1%;background:linear-gradient(90deg,#ff3b30,#ff6b63)"></div></div><span class="eval">580,8</span></div>
+        <span class="edelta down">▼ −43,8 pts</span>
+      </div>
+    </div>
+    <div style="margin-top:20px;display:flex;gap:10px;flex-wrap:wrap">
+      <span class="pill"><span class="pdot" style="background:#c7c7cc"></span>2024 — base 3.167.955</span>
+      <span class="pill"><span class="pdot" style="background:var(--blue)"></span>2025 — base 3.457.555</span>
+      <span class="pill"><span class="pdot" style="background:var(--green)"></span>C2: nota 200 caiu de <b>&nbsp;17,58% → 6,48%</b></span>
+    </div>
+  </div>
+
+  <div class="foot-note">
+    <b>Fonte:</b> Microdados oficiais INEP — <b>RESULTADOS_2025.csv</b> (3.457.555 redações) e <b>MICRODADOS_ENEM_2024.csv</b> (3.167.955 redações), ambos processados integralmente.<br>
+    Colunas <b>NU_NOTA_AV1–AV4</b> e <b>NU_NOTA_COMP1–5</b>. Nenhum dado simulado: todos os números vêm da contagem direta da base. · Análise <b>XTRI EdTECH</b>
+  </div>
+
+</div>
+
+</body>
+</html>

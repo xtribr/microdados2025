@@ -1,0 +1,32 @@
+{
+  "nome": "Colégio Marista de Natal",
+  "co_escola": "24057134",
+  "extraidos": 171,
+  "processados": 171,
+  "presentes_4": 171,
+  "medias": {
+    "LC": 623.0,
+    "CH": 629.7,
+    "CN": 619.7,
+    "MT": 745.3
+  },
+  "redacao_media": 867.3,
+  "redacoes_validas": 171,
+  "incoer": {
+    "media": 4.01,
+    "mediana": 4,
+    "max": 9,
+    "zero_pct": 1.8
+  },
+  "lingua": {
+    "ingles": 167,
+    "espanhol": 4
+  },
+  "nacional_regular_p1": {
+    "LC": 533.4,
+    "CH": 513.1,
+    "CN": 500.6,
+    "MT": 521.2
+  },
+  "sem_categoria": 0
+}

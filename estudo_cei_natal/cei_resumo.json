@@ -1,0 +1,74 @@
+{
+  "n_alunos": {
+    "CEI Romualdo": 139,
+    "CEI Roberto Freire": 70
+  },
+  "medias": {
+    "CEI Romualdo": {
+      "LC": 624.6,
+      "CH": 629.8,
+      "CN": 629.1,
+      "MT": 734.9
+    },
+    "CEI Roberto Freire": {
+      "LC": 618.7,
+      "CH": 613.4,
+      "CN": 639.2,
+      "MT": 719.4
+    }
+  },
+  "redacao": {
+    "CEI Romualdo": 873.1,
+    "CEI Roberto Freire": 862.9
+  },
+  "incoer": {
+    "CEI Romualdo": {
+      "media": 4.55,
+      "mediana": 4,
+      "max": 9,
+      "zero_pct": 0.7,
+      "n": 139
+    },
+    "CEI Roberto Freire": {
+      "media": 4.63,
+      "mediana": 5.0,
+      "max": 9,
+      "zero_pct": 2.9,
+      "n": 70
+    }
+  },
+  "lingua": {
+    "CEI Romualdo": {
+      "ingles": 141,
+      "espanhol": 0
+    },
+    "CEI Roberto Freire": {
+      "ingles": 69,
+      "espanhol": 2
+    }
+  },
+  "nacional_regular_p1": {
+    "LC": 533.4,
+    "CH": 513.1,
+    "CN": 500.6,
+    "MT": 521.2
+  },
+  "chutes_nacional": {
+    "Algumas incoerências (4–7)": {
+      "n": 1768112,
+      "pct": 56.04
+    },
+    "Muitas incoerências (8+)": {
+      "n": 996124,
+      "pct": 31.57
+    },
+    "Poucas incoerências (1–3)": {
+      "n": 383436,
+      "pct": 12.15
+    },
+    "Coerente (0)": {
+      "n": 7535,
+      "pct": 0.24
+    }
+  }
+}

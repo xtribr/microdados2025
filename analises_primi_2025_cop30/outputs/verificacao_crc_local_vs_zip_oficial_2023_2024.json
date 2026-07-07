@@ -1,0 +1,29 @@
+{
+  "verificado_em": "2026-06-25T08:58:34-0300",
+  "comparacoes": [
+    {
+      "ano": "2023",
+      "local_path": "/Users/home/Desktop/testes MIRT/dados 2023/MICRODADOS_ENEM_2023.csv",
+      "official_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "official_name": "DADOS/MICRODADOS_ENEM_2023.csv",
+      "official_crc32": "74a04e06",
+      "local_crc32": "74a04e06",
+      "official_uncompressed_size": 1777162429,
+      "local_size": 1777162429,
+      "match_crc32": true,
+      "match_size": true
+    },
+    {
+      "ano": "2024",
+      "local_path": "/Users/home/Desktop/testes MIRT/dados 2024/RESULTADOS_2024.csv",
+      "official_url": "https://download.inep.gov.br/microdados/microdados_enem_2024.zip",
+      "official_name": "DADOS/RESULTADOS_2024.csv",
+      "official_crc32": "29c26305",
+      "local_crc32": "29c26305",
+      "official_uncompressed_size": 1683449589,
+      "local_size": 1683449589,
+      "match_crc32": true,
+      "match_size": true
+    }
+  ]
+}

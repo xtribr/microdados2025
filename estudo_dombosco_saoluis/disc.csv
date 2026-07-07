@@ -1,0 +1,13 @@
+escola,area,faixa_disc,acerto_pct,n_resp,acerto_nacional
+Dom Bosco,CH,"alta (1,35–1,69)",48.2,255,37.3
+Dom Bosco,CH,"baixa/moderada (A<1,35)",59.9,357,42.6
+Dom Bosco,CH,"muito alta (A≥1,70)",55.1,1683,36.4
+Dom Bosco,CN,"alta (1,35–1,69)",54.0,200,46.2
+Dom Bosco,CN,"baixa/moderada (A<1,35)",53.1,350,45.1
+Dom Bosco,CN,"muito alta (A≥1,70)",44.6,1550,29.7
+Dom Bosco,LC,"alta (1,35–1,69)",51.4,255,37.3
+Dom Bosco,LC,"baixa/moderada (A<1,35)",55.4,314,48.5
+Dom Bosco,LC,"muito alta (A≥1,70)",69.8,1726,48.4
+Dom Bosco,MT,"alta (1,35–1,69)",80.6,500,46.1
+Dom Bosco,MT,"baixa/moderada (A<1,35)",51.4,350,34.7
+Dom Bosco,MT,"muito alta (A≥1,70)",55.0,1300,26.8
