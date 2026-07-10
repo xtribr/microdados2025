@@ -56,12 +56,12 @@ txt(W - M, 104, "PSICOMETRIA · ENEM 2025", outfitB, 17, INK, ha="right")
 txt(W - M, 134, "Microdados / INEP · aplicação regular", mono, 13, GRAY, ha="right")
 
 # chamada
-txt(M, 266, "Uma questão ANULADA", outfitB, 56, CORAL)
-txt(M, 344, "decidiu as maiores notas", outfitB, 56, INK)
-txt(M, 422, "de Matemática.", outfitB, 56, INK)
+txt(M, 266, "SUA VAGA DE MEDICINA", outfitB, 52, INK)
+txt(M, 340, "FOI DECIDIDA POR UMA", outfitB, 52, INK)
+txt(M, 414, "QUESTÃO ANULADA.", outfitB, 52, CORAL)
 sub1 = "Gêmeos de prova: "
-txt(M, 492, sub1, outfitB, 21, INK)
-txt(M + tw(sub1, outfitB, 21), 492, "desempenho válido idêntico, 12,6 pontos de diferença.",
+txt(M, 488, sub1, outfitB, 21, INK)
+txt(M + tw(sub1, outfitB, 21), 488, "desempenho válido idêntico, 12,6 pontos de diferença.",
     outfit, 21, GRAY)
 
 # hero

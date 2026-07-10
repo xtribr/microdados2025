@@ -32,7 +32,8 @@ xtri.online
 ---
 
 ## Notas (documentação interna)
-- Chamada da capa: "Uma questão ANULADA decidiu as maiores notas de Matemática." + sub "Gêmeos de prova: desempenho válido idêntico, 12,6 pontos de diferença."
+- Chamada da capa (alterada a pedido em 10/jul): "SUA VAGA DE MEDICINA FOI DECIDIDA POR UMA QUESTÃO ANULADA." + sub "Gêmeos de prova: desempenho válido idêntico, 12,6 pontos de diferença." (Chamada anterior: "Uma questão ANULADA decidiu as maiores notas de Matemática.")
+- Precisão do claim: o efeito comprovado atinge quem acertou todos os itens válidos (686 candidatos MT+CN) — o corpo do post carrega essa nuance; a chamada usa "sua vaga de Medicina" como hipérbole de capa, decisão editorial do professor.
 - Números dos scripts R 06-08 (projeto "microdados no R Studio"), mesmos do carrossel IG (ver ../TEXTO_legenda.md).
 - Referência ao post anterior de LinkedIn (post_anulados/linkedin/): lá as curvas empíricas já mostravam os melhores convergindo em D no item de convergência — este post fecha aquele ciclo.
 - CTA: xtri.online (padrão vigente desde 10/jul; o post antigo usava app.rankingenem.com).
