@@ -1,3 +1,4 @@
+<!-- PUBLICADO em 10/07/2026: https://xtri.online/2026/07/10/nota-maxima-do-enem-2025/ (verificado no ar: H1, foco, alts, link INEP, FAQ ok) -->
 <!-- ===================== SEO / RankMath ===================== -->
 **Focus keyphrase:** nota máxima do ENEM 2025
 
