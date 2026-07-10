@@ -28,5 +28,5 @@ Fonte: Microdados ENEM 2025 / INEP — gov.br/inep
 - Gêmeos (script 08): CN 112 grupos/432 candidatos, MT 210/1.868; 314 grupos ganho 0; 8 com ganho = padrões válidos perfeitos (4 por cor de caderno em cada área); determinismo 644 subgrupos sem exceção.
 - LC/CH (sem anulados): gabaritadores com nota única (794,5 / 856,4) — controle negativo.
 - Itens "previamente exposto" (CN Q123/Q132, MT Q174): efeito zero comprovado; gabarito mascarado como 'X' na string do aluno.
-- Slides: c1 capa (feed+story), c2 gabaritadores, c3 gêmeos na escala, c4 distribuição de respostas dos melhores, c5 síntese conta/não-conta, c6 método (créditos R: data.table + ggplot2).
+- Slides (v2, 10/jul): c1 capa "SUA VAGA DE MEDICINA..." (feed+story), c2 gabaritadores, c3 gêmeos na escala, c4 PROVA: console R de Matemática (saída real do script 08 — 0 de 420, ganho >0 só em 4 grupos, máx 12.6), c5 síntese conta/não-conta, c6 PROVA: console R de Ciências da Natureza (0 de 224, máx 6.3) + CTA. Os slides antigos de "gabarito minoritário" e "método" foram substituídos a pedido pelos consoles com a base empírica; o dado do gabarito minoritário (86×512) segue na legenda e no post WP.
 - Registro técnico completo: NOTAS_investigacao_convergencia.md no projeto R.

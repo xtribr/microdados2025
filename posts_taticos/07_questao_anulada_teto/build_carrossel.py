@@ -200,36 +200,59 @@ def slide3():
     s.save("c3_escala_feed.png")
 
 
-# ============ SLIDE 4 — GABARITO MINORITÁRIO ============
+# ============ CONSOLE CARD (prova bruta do R) ============
+def console_card(s, x, y, w, arquivo, linhas, fsz=12, lh=27):
+    """desenha uma 'janela de console' clara com a saida real do script R"""
+    n_linhas = sum(1 for _, e in linhas if e != "blank")
+    n_blank = sum(1 for _, e in linhas if e == "blank")
+    h = 90 + n_linhas * lh + n_blank * 13 + 24
+    s.shadow(x, y, w, h, 22); s.rrect(x, y, w, h, 22, CARD, z=2)
+    s.rrect(x, y, w, 56, 22, "#EBEDEF", z=2.5)
+    for i, cor in enumerate(["#FF5F57", "#FEBC2E", "#28C840"]):
+        s.ax.add_line(Line2D([x + 38 + i * 28], [y + 28], marker="o", markersize=6.5,
+                              color=cor, lw=0, zorder=4))
+    s.txt(x + w / 2, y + 34, arquivo, mono, 12, GRAY, ha="center", z=4)
+    yy = y + 96
+    for texto, estilo in linhas:
+        if estilo == "blank":
+            yy += 13; continue
+        fp = monoB if estilo in ("bold", "coral") else mono
+        cor = {"coral": CORALd, "bold": INK, "dim": GRAY}.get(estilo, INK)
+        s.txt(x + 36, yy, texto, fp, fsz, cor, z=4)
+        yy += lh
+    return y + h
+
+
+# ============ SLIDE 4 — A PROVA (MATEMÁTICA) ============
 def slide4():
     s = Slide(); s.header("4/6")
-    s.txt(M, 246, "O gabarito oficial era a resposta", outfitB, 36, INK)
-    s.mix(M, 306, [("MINORITÁRIA", CORAL), (" entre os melhores.", INK)], 36)
-    s.txt(M, 366, "O que os 601 melhores de Matemática marcaram na questão anulada:", outfit, 17, GRAY)
-
-    cy, ch = 412, 470
-    s.shadow(M, cy, W - 2 * M, ch, 24); s.rrect(M, cy, W - 2 * M, ch, 24, CARD, z=2)
-    barras = [("D", 512, False), ("A", 86, True), ("C", 2, False), ("E", 1, False)]
-    bx0, bx1 = M + 130, W - M - 200
-    escala = (bx1 - bx0) / 512.0
-    for i, (letra, n, oficial) in enumerate(barras):
-        yc = cy + 78 + i * 104
-        cor_badge = CHIP_CO if oficial else CHIP_CY
-        cor_letra = CORALd if oficial else CYANd
-        s.rrect(M + 44, yc - 24, 52, 48, 13, cor_badge, z=3)
-        s.txt(M + 70, yc + 1, letra, outfitB, 22, cor_letra, ha="center", va="center", z=4)
-        s.ax.add_line(Line2D([bx0, bx1], [yc, yc], color=TRACK, lw=11, solid_capstyle="round", zorder=3))
-        xe = bx0 + max(n * escala, 6)
-        s.ax.add_line(Line2D([bx0, xe], [yc, yc], color=CORAL if oficial else "#C5CACF",
-                              lw=11, solid_capstyle="round", zorder=3.5))
-        s.txt(bx1 + 24, yc + 1, f"{n}", monoB, 19, CORALd if oficial else INK, va="center")
-        if oficial:
-            s.txt(bx1 + 24 + s.tw(str(n), monoB, 19) + 14, yc + 1, "← GABARITO", monoB, 11.5, CORALd, va="center")
-    s.mix(M, 940, [("85% dos melhores marcaram D. ", INK), ("A letra oficial (A) foi escolha de 14%.", GRAY, outfit)], 17.5)
-    s.txt(M, 976, "O item estava mesmo quebrado — anulado por “problema de convergência”.", outfit, 17.5, GRAY)
-    s.mix(M, 1012, [("E ainda assim separou o topo da edição.", INK)], 17.5)
+    s.mix(M, 250, [("A prova, direto do ", INK), ("console", CORAL), (".", INK)], 38)
+    s.txt(M, 310, "Saída real do script R (08_gemeos_escala_inteira.R) sobre os microdados:", outfit, 16.5, GRAY)
+    linhas = [
+        ("ÁREA: Matemática", "bold"),
+        ("Candidatos na base: 3.176.917", "norm"),
+        ("Gabarito do item de convergência: A", "norm"),
+        ("Grupos de gêmeos (anulada divergente): 210", "norm"),
+        ("Candidatos envolvidos: 1.868", "norm"),
+        ("", "blank"),
+        ("TESTE DE DETERMINISMO", "bold"),
+        ("subgrupos com nota NÃO única: 0 de 420", "coral"),
+        ("", "blank"),
+        ("TESTE DE EFEITO — o que vale acertar a anulada", "bold"),
+        ("grupos: 210 | ganho médio: 0.24 | mediano: 0 | máx: 12.6", "norm"),
+        ("grupos com ganho > 0: 4  |  = 0: 206  |  < 0: 0", "coral"),
+        ("faixa coberta: notas 399.2 a 980.3 | acertos 10 a 43", "norm"),
+        ("", "blank"),
+        ("Ganho por faixa de acertos válidos:", "bold"),
+        ("faixa      grupos   ganho_médio   ganho_mín   ganho_máx", "dim"),
+        ("(5,10]          1          0.00           0         0.0", "norm"),
+        ("(35,40]        27          0.00           0         0.0", "norm"),
+        ("(40,45]       182          0.28           0        12.6", "coral"),
+    ]
+    fim = console_card(s, M, 356, W - 2 * M, "08_gemeos_escala_inteira.R — Console do R", linhas)
+    s.mix(M, fim + 56, [("Os únicos 4 grupos com ganho: quem acertou ", INK), ("tudo", CORAL), (".", INK)], 18)
     s.footer()
-    s.save("c4_gabarito_feed.png")
+    s.save("c4_prova_mt_feed.png")
 
 
 # ============ SLIDE 5 — AFINAL, CONTA? ============
@@ -259,40 +282,48 @@ def slide5():
     s.save("c5_conta_feed.png")
 
 
-# ============ SLIDE 6 — MÉTODO ============
+# ============ SLIDE 6 — A PROVA (CIÊNCIAS DA NATUREZA) ============
 def slide6():
     s = Slide(); s.header("6/6")
-    s.txt(M, 250, "Como a gente descobriu.", outfitB, 40, INK)
-    cy, ch = 310, 700
-    s.shadow(M, cy, W - 2 * M, ch, 24); s.rrect(M, cy, W - 2 * M, ch, 24, CARD, z=2)
-    passos = [
-        ("01", "Microdados oficiais do INEP",
-         "4,8 milhões de candidatos — dado público, real e auditável."),
-        ("02", "Análise em R",
-         "data.table + ggplot2, scripts numerados e reproduzíveis."),
-        ("03", "Gêmeos de prova",
-         "candidatos com respostas idênticas em todos os itens válidos,\ndivergindo só na questão anulada."),
-        ("04", "644 comparações, zero exceções",
-         "a nota é função pura do padrão válido + resposta na anulada."),
+    s.mix(M, 250, [("Mesmo padrão em ", INK), ("Ciências da Natureza", CORAL), (".", INK)], 34)
+    s.txt(M, 308, "A replicação independente, no item anulado da outra área:", outfit, 16.5, GRAY)
+    linhas = [
+        ("ÁREA: Ciências da Natureza", "bold"),
+        ("Candidatos na base: 3.176.917", "norm"),
+        ("Gabarito do item de convergência: B", "norm"),
+        ("Grupos de gêmeos (anulada divergente): 112", "norm"),
+        ("Candidatos envolvidos: 432", "norm"),
+        ("", "blank"),
+        ("TESTE DE DETERMINISMO", "bold"),
+        ("subgrupos com nota NÃO única: 0 de 224", "coral"),
+        ("", "blank"),
+        ("TESTE DE EFEITO — o que vale acertar a anulada", "bold"),
+        ("grupos: 112 | ganho médio: 0.23 | mediano: 0 | máx: 6.3", "norm"),
+        ("grupos com ganho > 0: 4  |  = 0: 108  |  < 0: 0", "coral"),
+        ("faixa coberta: notas 362.4 a 858.7 | acertos 9 a 42", "norm"),
+        ("", "blank"),
+        ("Ganho por faixa de acertos válidos:", "bold"),
+        ("faixa      grupos   ganho_médio   ganho_mín   ganho_máx", "dim"),
+        ("(5,10]          1          0.00           0         0.0", "norm"),
+        ("(10,15]         1          0.00           0         0.0", "norm"),
+        ("(35,40]        70          0.00           0         0.0", "norm"),
+        ("(40,45]        40          0.63           0         6.3", "coral"),
     ]
-    for i, (num, titulo, sub) in enumerate(passos):
-        yc = cy + 92 + i * 158
-        s.rrect(M + 44, yc - 30, 62, 62, 16, CHIP_CY, z=3)
-        s.txt(M + 75, yc + 1, num, monoB, 17, CYANd, ha="center", va="center", z=4)
-        s.txt(M + 136, yc - 6, titulo, outfitB, 21.5, INK)
-        for j, linha in enumerate(sub.split("\n")):
-            s.txt(M + 136, yc + 26 + j * 27, linha, outfit, 14.5, GRAY)
+    fim = console_card(s, M, 348, W - 2 * M, "08_gemeos_escala_inteira.R — Console do R", linhas,
+                        fsz=11.5, lh=25)
+    s.mix(M, fim + 48, [("Duas áreas, o mesmo veredito: ", INK),
+                         ("644 comparações, zero exceções", CORAL), (".", INK)], 17)
 
-    # CTA + footer proprio (nota desce pra dar respiro ao CTA)
-    s.txt(M, 1128, "@xandaoxtri", outfitB, 28, INK)
-    s.mix(M, 1172, [("Transformamos ", INK), ("dados", CYAN), (" em ", INK),
+    # CTA + footer proprio
+    s.txt(M, 1136, "@xandaoxtri", outfitB, 28, INK)
+    s.mix(M, 1180, [("Transformamos ", INK), ("dados", CYAN), (" em ", INK),
                      ("aprovações", CORAL), (".", INK)], 23)
-    cax, cay, caw, cah = 726, 1090, W - M - 726, 100
+    cax, cay, caw, cah = 726, 1098, W - M - 726, 100
     s.rrect(cax, cay, caw, cah, 22, CTA_BG, z=3)
     s.txt(cax + 28, cay + 40, "VEJA MAIS ESTUDOS", mono, 11.5, CTA_SUB)
     s.txt(cax + 28, cay + 72, "xtri.online →", monoB, 14.5, "#FFFFFF")
-    s.txt(M, 1284, NOTA, mono, 10.5, GRAY)
-    s.save("c6_metodo_feed.png")
+    s.txt(M, 1290, NOTA, mono, 10.5, GRAY)
+    s.save("c6_prova_cn_feed.png")
 
 
 slide1("feed")
