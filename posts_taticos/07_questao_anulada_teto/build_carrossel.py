@@ -110,20 +110,20 @@ def hero_duplo(s, y, h, label_topo):
 def slide1(fmt):
     if fmt == "feed":
         s = Slide(1350)
-        hy, hsz, suby = [252, 326, 400], 54, 462
+        hy, hsz, suby = [252, 326, 400], 52, 462
         heroy, heroh, cuey = 528, 350, 946
         foot = dict(handle_y=1170, sig_y=1214, nota_y=1284)
     else:
         s = Slide(1920)
         s.header("1/6", logoy=140, logoz=0.135, wmy=204)
-        hy, hsz, suby = [400, 486, 572], 60, 650
+        hy, hsz, suby = [400, 486, 572], 58, 650
         heroy, heroh, cuey = 730, 430, 1250
         foot = dict(handle_y=1660, sig_y=1710, nota_y=1790)
     if fmt == "feed":
         s.header("1/6")
-    s.mix(M, hy[0], [("A questão ", INK), ("ANULADA", CORAL)], hsz)
-    s.txt(M, hy[1], "que decidiu quem", outfitB, hsz, INK)
-    s.txt(M, hy[2], "fez 980 em Matemática.", outfitB, hsz, INK)
+    s.txt(M, hy[0], "SUA VAGA DE MEDICINA", outfitB, hsz, INK)
+    s.txt(M, hy[1], "FOI DECIDIDA POR UMA", outfitB, hsz, INK)
+    s.txt(M, hy[2], "QUESTÃO ANULADA.", outfitB, hsz, CORAL)
     s.mix(M, suby, [("Ela oficialmente não valia nada. ", INK)], 19.5)
     s.txt(M + s.tw("Ela oficialmente não valia nada. ", outfitB, 19.5), suby,
           "Os microdados contam outra história.", outfit, 19.5, GRAY)
