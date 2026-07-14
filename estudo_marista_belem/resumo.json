@@ -1,0 +1,87 @@
+{
+  "nome": "Colégio Marista Nossa Senhora de Nazaré (Belém/PA)",
+  "co_escola": "15038424",
+  "aplicacao": "COP30/BAM (Belém-Ananindeua-Marituba)",
+  "extraidos": 142,
+  "processados_bam": 100,
+  "presentes_4_bam": 97,
+  "areas_fora_bam_p1_regular": 68,
+  "provas_vistas": {
+    "CH:1447": 8,
+    "CH:1448": 5,
+    "CH:1449": 3,
+    "CH:1450": 1,
+    "CH:1583": 23,
+    "CH:1584": 29,
+    "CH:1585": 28,
+    "CH:1586": 17,
+    "CH:1631": 3,
+    "CN:1483": 3,
+    "CN:1484": 8,
+    "CN:1485": 1,
+    "CN:1486": 5,
+    "CN:1619": 27,
+    "CN:1620": 22,
+    "CN:1621": 16,
+    "CN:1622": 29,
+    "CN:1634": 3,
+    "LC:1459": 8,
+    "LC:1460": 5,
+    "LC:1461": 1,
+    "LC:1462": 3,
+    "LC:1595": 23,
+    "LC:1596": 29,
+    "LC:1597": 17,
+    "LC:1598": 28,
+    "LC:1632": 3,
+    "MT:1471": 3,
+    "MT:1472": 8,
+    "MT:1473": 1,
+    "MT:1474": 5,
+    "MT:1607": 27,
+    "MT:1608": 22,
+    "MT:1609": 16,
+    "MT:1610": 29,
+    "MT:1633": 3
+  },
+  "medias_todos": {
+    "LC": 597.5,
+    "CH": 611.4,
+    "CN": 592.3,
+    "MT": 669.7
+  },
+  "n_notas": {
+    "LC": 117,
+    "CH": 117,
+    "CN": 114,
+    "MT": 114
+  },
+  "redacao_media": 830.6,
+  "redacoes_validas": 117,
+  "incoer": {
+    "media": 4.99,
+    "mediana": 5,
+    "max": 11,
+    "zero_pct": 3.1
+  },
+  "lingua": {
+    "ingles": 136,
+    "espanhol": 6
+  },
+  "cop30": {
+    "LC": 497.3,
+    "CH": 492.6,
+    "CN": 486.1,
+    "MT": 484.0
+  },
+  "cop30_redacao": {
+    "media": 609.2,
+    "n": 61430
+  },
+  "nacional_regular_p1": {
+    "LC": 533.4,
+    "CH": 513.1,
+    "CN": 500.6,
+    "MT": 521.2
+  }
+}

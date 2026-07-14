@@ -1,6 +1,6 @@
 # Newsletter LinkedIn — Qual área do ENEM 2025 mais separa quem sabe de quem chuta?
 
-**Capa:** `capa_linkedin_discriminacao_2025.png` (1280×720)
+Capa: `capa_linkedin_discriminacao_2025.png` (1280×720)
 
 ## Título
 Qual área do ENEM 2025 mais separa quem sabe de quem chuta?
@@ -12,14 +12,14 @@ O que o parâmetro A da TRI revela sobre as 4 áreas do ENEM — e por que a res
 
 Todo ano recebo a mesma pergunta de professores e coordenadores: "essa prova está bem calibrada? Ela realmente separa quem estudou de quem chutou?" Resolvi responder com dado, não com opinião.
 
-Na Teoria de Resposta ao Item (TRI), essa propriedade tem nome: **discriminação**, o parâmetro A do modelo 3PL. Quanto maior o A de uma questão, mais nitidamente ela distingue um candidato que domina o conteúdo de um candidato que está no chute. Um A baixo é o pior cenário possível para uma prova: significa que quem sabe e quem não sabe acertam a questão quase na mesma proporção.
+Na Teoria de Resposta ao Item (TRI), essa propriedade tem nome: discriminação, o parâmetro A do modelo 3PL. Quanto maior o A de uma questão, mais nitidamente ela distingue um candidato que domina o conteúdo de um candidato que está no chute. Um A baixo é o pior cenário possível para uma prova: significa que quem sabe e quem não sabe acertam a questão quase na mesma proporção.
 
 Peguei o parâmetro A oficial de todas as questões do caderno Azul do ENEM 2025 (banco Regular, itens não anulados) e calculei a média por área. O resultado, do 1º ao 4º lugar:
 
-- **1º Linguagens e Códigos: 2,44**
-- **2º Ciências da Natureza: 2,38** — praticamente empatada com Linguagens, diferença de só 0,06
-- **3º Ciências Humanas: 2,28** — sólida, no meio da tabela, sem se destacar
-- **4º Matemática: 1,96** — 0,31 abaixo de Humanas, uma diferença real
+- 1º Linguagens e Códigos: 2,44
+- 2º Ciências da Natureza: 2,38 — praticamente empatada com Linguagens, diferença de só 0,06
+- 3º Ciências Humanas: 2,28 — sólida, no meio da tabela, sem se destacar
+- 4º Matemática: 1,96 — 0,31 abaixo de Humanas, uma diferença real
 
 O ponto não é simplesmente "Linguagens ganha, Matemática perde". É que três áreas — Linguagens, Natureza e Humanas — ficam agrupadas num patamar parecido de discriminação, com Linguagens e Natureza praticamente empatadas no topo. A Matemática é quem se descola do grupo, e pra baixo.
 

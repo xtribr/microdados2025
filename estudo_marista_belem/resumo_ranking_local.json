@@ -1,0 +1,51 @@
+{
+  "escola": "Marista Nazaré (Belém/PA)",
+  "co_escola": 15038424,
+  "criterio": "média dos presentes nos 2 dias com 5 notas, N>=10",
+  "recortes": {
+    "belem": {
+      "total_escolas": 163,
+      "posicao": {
+        "MEDIA_5": 7,
+        "CN": 7,
+        "CH": 7,
+        "LC": 7,
+        "MT": 6,
+        "REDACAO": 8
+      }
+    },
+    "belem_privadas": {
+      "total_escolas": 64,
+      "posicao": {
+        "MEDIA_5": 6,
+        "CN": 6,
+        "CH": 6,
+        "LC": 6,
+        "MT": 5,
+        "REDACAO": 8
+      }
+    },
+    "pa": {
+      "total_escolas": 850,
+      "posicao": {
+        "MEDIA_5": 10,
+        "CN": 9,
+        "CH": 9,
+        "LC": 11,
+        "MT": 9,
+        "REDACAO": 22
+      }
+    },
+    "pa_privadas": {
+      "total_escolas": 186,
+      "posicao": {
+        "MEDIA_5": 9,
+        "CN": 8,
+        "CH": 8,
+        "LC": 10,
+        "MT": 8,
+        "REDACAO": 22
+      }
+    }
+  }
+}

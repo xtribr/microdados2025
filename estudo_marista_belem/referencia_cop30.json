@@ -1,0 +1,52 @@
+{
+  "coorte": "COP30/BAM (presentes por área, nota>0)",
+  "medias": {
+    "LC": 497.3,
+    "CH": 492.6,
+    "CN": 486.1,
+    "MT": 484.0
+  },
+  "n": {
+    "LC": 66523,
+    "CH": 66340,
+    "CN": 62190,
+    "MT": 62182
+  },
+  "redacao": {
+    "media": 609.2,
+    "n": 61430
+  },
+  "redacao_comp": {
+    "C1": {
+      "media": 118.9,
+      "n": 61430,
+      "pct_200": 0.0,
+      "pct_ate_120": 72.2
+    },
+    "C2": {
+      "media": 135.2,
+      "n": 61430,
+      "pct_200": 4.9,
+      "pct_ate_120": 55.9
+    },
+    "C3": {
+      "media": 118.5,
+      "n": 61430,
+      "pct_200": 0.6,
+      "pct_ate_120": 74.7
+    },
+    "C4": {
+      "media": 125.2,
+      "n": 61430,
+      "pct_200": 4.9,
+      "pct_ate_120": 65.0
+    },
+    "C5": {
+      "media": 111.4,
+      "n": 61430,
+      "pct_200": 13.2,
+      "pct_ate_120": 60.2
+    }
+  },
+  "gabarito_divergencias": "zero — mapa RESULTADOS->ITENS confere"
+}

@@ -1,0 +1,92 @@
+{
+  "red": 900.0,
+  "cursos": [
+    {
+      "uni": "UFPA",
+      "curso": "Medicina",
+      "campus": "Belém",
+      "pontuacao": 871.4,
+      "red": 900.0,
+      "cenarios": {
+        "sem_bonus": {
+          "media_enem": 871.4,
+          "n_obj": 864.2,
+          "acertos": {
+            "MT": 38,
+            "CN": null,
+            "CH": null,
+            "LC": null
+          }
+        },
+        "com_bonus": {
+          "media_enem": 792.2,
+          "n_obj": 765.2,
+          "acertos": {
+            "MT": 30,
+            "CN": 38,
+            "CH": 42,
+            "LC": 45
+          }
+        }
+      }
+    },
+    {
+      "uni": "UEPA",
+      "curso": "Medicina",
+      "campus": "Belém",
+      "pontuacao": 872.76,
+      "red": 900.0,
+      "cenarios": {
+        "sem_bonus": {
+          "media_enem": 872.8,
+          "n_obj": 866.0,
+          "acertos": {
+            "MT": 38,
+            "CN": null,
+            "CH": null,
+            "LC": null
+          }
+        },
+        "com_bonus": {
+          "media_enem": 793.4,
+          "n_obj": 766.8,
+          "acertos": {
+            "MT": 30,
+            "CN": 38,
+            "CH": 42,
+            "LC": 45
+          }
+        }
+      }
+    },
+    {
+      "uni": "UFPA",
+      "curso": "Direito",
+      "campus": "Belém (Mat.)",
+      "pontuacao": 757.82,
+      "red": 900.0,
+      "cenarios": {
+        "sem_bonus": {
+          "media_enem": 757.8,
+          "n_obj": 722.3,
+          "acertos": {
+            "MT": 26,
+            "CN": 35,
+            "CH": 39,
+            "LC": 43
+          }
+        },
+        "com_bonus": {
+          "media_enem": 688.9,
+          "n_obj": 636.2,
+          "acertos": {
+            "MT": 20,
+            "CN": 25,
+            "CH": 30,
+            "LC": 36
+          }
+        }
+      }
+    }
+  ]
+}

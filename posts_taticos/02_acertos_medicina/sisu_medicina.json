@@ -1,0 +1,314 @@
+{
+  "red_assumida": 900.0,
+  "universidades": [
+    {
+      "uni": "Universidade Federal de Minas Gerais",
+      "sigla": "UFMG",
+      "campus": "Campus Saúde",
+      "city": "Belo Horizonte",
+      "uf": "MG",
+      "corte": 818.2,
+      "pesos": {
+        "red": 1.0,
+        "lc": 1.0,
+        "mt": 1.0,
+        "ch": 1.0,
+        "cn": 1.0
+      },
+      "nota_por_area_necessaria": 797.8,
+      "acertos": {
+        "MT": 33,
+        "CN": 40,
+        "CH": 43,
+        "LC": null
+      }
+    },
+    {
+      "uni": "Universidade Federal do Ceará",
+      "sigla": "UFC",
+      "campus": "Fortaleza",
+      "city": "Fortaleza",
+      "uf": "CE",
+      "corte": 814.8,
+      "pesos": {
+        "red": 1.0,
+        "lc": 1.0,
+        "mt": 1.0,
+        "ch": 1.0,
+        "cn": 1.0
+      },
+      "nota_por_area_necessaria": 793.5,
+      "acertos": {
+        "MT": 33,
+        "CN": 40,
+        "CH": 43,
+        "LC": 45
+      }
+    },
+    {
+      "uni": "Universidade Federal de Pernambuco",
+      "sigla": "UFPE",
+      "campus": "Campus Universitário Cidade do Recife",
+      "city": "Recife",
+      "uf": "PE",
+      "corte": 809.5,
+      "pesos": {
+        "red": 2.0,
+        "lc": 2.0,
+        "mt": 2.0,
+        "ch": 1.0,
+        "cn": 3.0
+      },
+      "nota_por_area_necessaria": 786.9,
+      "acertos": {
+        "MT": 32,
+        "CN": 40,
+        "CH": 43,
+        "LC": 45
+      }
+    },
+    {
+      "uni": "Universidade Federal do Ceará",
+      "sigla": "UFC",
+      "campus": "Campus Ufc Sobral",
+      "city": "Sobral",
+      "uf": "CE",
+      "corte": 809.2,
+      "pesos": {
+        "red": 1.0,
+        "lc": 1.0,
+        "mt": 1.0,
+        "ch": 1.0,
+        "cn": 1.0
+      },
+      "nota_por_area_necessaria": 786.5,
+      "acertos": {
+        "MT": 32,
+        "CN": 40,
+        "CH": 43,
+        "LC": 45
+      }
+    },
+    {
+      "uni": "Universidade Federal da Paraíba",
+      "sigla": "UFPB",
+      "campus": "Unidade Sede",
+      "city": "João Pessoa",
+      "uf": "PB",
+      "corte": 805.1,
+      "pesos": {
+        "red": 1.0,
+        "lc": 1.0,
+        "mt": 1.0,
+        "ch": 1.0,
+        "cn": 1.0
+      },
+      "nota_por_area_necessaria": 781.4,
+      "acertos": {
+        "MT": 32,
+        "CN": 39,
+        "CH": 43,
+        "LC": 45
+      }
+    },
+    {
+      "uni": "Universidade Federal de Pernambuco",
+      "sigla": "UFPE",
+      "campus": "Campus do Agreste Caruaru",
+      "city": "Caruaru",
+      "uf": "PE",
+      "corte": 803.3,
+      "pesos": {
+        "red": 2.5,
+        "lc": 1.5,
+        "mt": 1.5,
+        "ch": 2.0,
+        "cn": 2.5
+      },
+      "nota_por_area_necessaria": 771.1,
+      "acertos": {
+        "MT": 31,
+        "CN": 39,
+        "CH": 42,
+        "LC": 45
+      }
+    },
+    {
+      "uni": "Universidade Federal do Maranhão",
+      "sigla": "UFMA",
+      "campus": "Cidade Universitária",
+      "city": "São Luís",
+      "uf": "MA",
+      "corte": 802.7,
+      "pesos": {
+        "red": 1.0,
+        "lc": 1.0,
+        "mt": 1.0,
+        "ch": 1.0,
+        "cn": 1.0
+      },
+      "nota_por_area_necessaria": 778.3,
+      "acertos": {
+        "MT": 31,
+        "CN": 39,
+        "CH": 42,
+        "LC": 45
+      }
+    },
+    {
+      "uni": "Universidade do Estado do Rio Grande do Norte",
+      "sigla": "UFRN",
+      "campus": "Campus Universitário Central",
+      "city": "Mossoró",
+      "uf": "RN",
+      "corte": 799.0,
+      "pesos": {
+        "red": 3.0,
+        "lc": 3.0,
+        "mt": 1.0,
+        "ch": 1.0,
+        "cn": 3.0
+      },
+      "nota_por_area_necessaria": 761.1,
+      "acertos": {
+        "MT": 30,
+        "CN": 38,
+        "CH": 41,
+        "LC": 45
+      }
+    },
+    {
+      "uni": "Universidade Federal do Maranhão",
+      "sigla": "UFMA",
+      "campus": "Centro de Ciências Sociais, Saúde e Tecnologia",
+      "city": "Imperatriz",
+      "uf": "MA",
+      "corte": 797.1,
+      "pesos": {
+        "red": 1.0,
+        "lc": 1.0,
+        "mt": 1.0,
+        "ch": 1.0,
+        "cn": 1.0
+      },
+      "nota_por_area_necessaria": 771.3,
+      "acertos": {
+        "MT": 31,
+        "CN": 39,
+        "CH": 42,
+        "LC": 45
+      }
+    },
+    {
+      "uni": "Universidade Federal da Bahia",
+      "sigla": "UFBA",
+      "campus": "Unidades Dispersas / Salvador - Faculdade de Medicina da Bahia",
+      "city": "Salvador",
+      "uf": "BA",
+      "corte": 795.6,
+      "pesos": {
+        "red": 3.0,
+        "lc": 3.0,
+        "mt": 2.0,
+        "ch": 3.0,
+        "cn": 4.0
+      },
+      "nota_por_area_necessaria": 769.5,
+      "acertos": {
+        "MT": 31,
+        "CN": 39,
+        "CH": 42,
+        "LC": 45
+      }
+    },
+    {
+      "uni": "Universidade Federal do Rio Grande do Norte",
+      "sigla": "UFRN",
+      "campus": "Centro de Ciências da Saúde",
+      "city": "Natal",
+      "uf": "RN",
+      "corte": 794.8,
+      "pesos": {
+        "red": 1.5,
+        "lc": 1.5,
+        "mt": 1.0,
+        "ch": 1.5,
+        "cn": 3.0
+      },
+      "nota_por_area_necessaria": 772.2,
+      "acertos": {
+        "MT": 31,
+        "CN": 39,
+        "CH": 42,
+        "LC": 45
+      }
+    },
+    {
+      "uni": "Universidade Federal do Maranhão",
+      "sigla": "UFMA",
+      "campus": "Campus de Pinheiro",
+      "city": "Pinheiro",
+      "uf": "MA",
+      "corte": 793.8,
+      "pesos": {
+        "red": 1.0,
+        "lc": 1.0,
+        "mt": 1.0,
+        "ch": 1.0,
+        "cn": 1.0
+      },
+      "nota_por_area_necessaria": 767.2,
+      "acertos": {
+        "MT": 30,
+        "CN": 39,
+        "CH": 42,
+        "LC": 45
+      }
+    },
+    {
+      "uni": "Universidade Federal da Bahia",
+      "sigla": "UFBA",
+      "campus": "Campus Universitário Vitória da Conquista",
+      "city": "Vitória da Conquista",
+      "uf": "BA",
+      "corte": 790.8,
+      "pesos": {
+        "red": 3.0,
+        "lc": 3.0,
+        "mt": 2.0,
+        "ch": 3.0,
+        "cn": 4.0
+      },
+      "nota_por_area_necessaria": 763.5,
+      "acertos": {
+        "MT": 30,
+        "CN": 38,
+        "CH": 42,
+        "LC": 45
+      }
+    },
+    {
+      "uni": "Universidade Federal do Rio Grande do Norte",
+      "sigla": "UFRN",
+      "campus": "Escola Multicampi",
+      "city": "Caicó",
+      "uf": "RN",
+      "corte": 788.5,
+      "pesos": {
+        "red": 1.5,
+        "lc": 1.5,
+        "mt": 1.0,
+        "ch": 1.5,
+        "cn": 3.0
+      },
+      "nota_por_area_necessaria": 764.7,
+      "acertos": {
+        "MT": 30,
+        "CN": 38,
+        "CH": 42,
+        "LC": 45
+      }
+    }
+  ],
+  "fonte": "SISU 2026 (ENEM 2025) — cortes e pesos oficiais / MIRT; acertos→nota: Microdados ENEM 2025 / INEP"
+}

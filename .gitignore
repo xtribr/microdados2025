@@ -45,3 +45,10 @@ Rplots.pdf
 .DS_Store
 **/.DS_Store
 Thumbs.db
+
+# --- Brechas fechadas em 2026-07-14 (auditoria pré-push) ---
+# grão individual: uma linha por candidato (nota reconstruída / chutes COP30)
+estudo_reproduz_nota/tema2_scatter.csv
+**/chutes_scatter*.csv
+# cópia bruta de microdado INEP de anos anteriores (reproduzível no site do INEP)
+**/ITENS_PROVA_*.csv

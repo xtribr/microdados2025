@@ -24,7 +24,7 @@ Se houver qualquer dúvida de colisão/borda, **dar mais espaço e re-renderizar
 - Cores: coral `#FA5230` (escuro `#E8431F`) · cyan `#1FAFEF` (escuro `#1597D8`) · tinta `#1D1D20` · cinza `#8C9298` · fundo `#F1F1F2` · cards brancos. **Proibido fundo preto.**
 - Categorias dificuldade: Fácil `#56C2F2` · Médio `#C7CBD0` · Difícil `#FB9276` · Muito difícil `#FA5230`.
 - Fontes: **Outfit** (títulos/corpo) + **JetBrains Mono** (rótulos/notas).
-- Logo **X-TRI** topo-esquerda · assinatura **"Transformamos dados em aprovações."** ("dados" cyan, "aprovações" coral) no rodapé — a antiga "Dados reais ou nada." foi APOSENTADA (jul/2026): não usar em NENHUMA arte nova · handle **@xandaoxtri** · domínio **app.rankingenem.com**.
+- Logo **X-TRI** topo-esquerda · assinatura **"Transformamos dados em aprovações."** ("dados" cyan, "aprovações" coral) no rodapé — a antiga "Dados reais ou nada." foi APOSENTADA (jul/2026): não usar em NENHUMA arte nova · handle **@xandaoxtri** · site **xtri.online** — em TODA arte/post/CTA referenciar SEMPRE `xtri.online` (regra do usuário, jul/2026); **nunca** app.rankingenem.com ou xtrisisu.com em material novo.
 - Rodapé: nota de fonte NUNCA colada na assinatura — mínimo ~50px de respiro entre as duas.
 - "Dificuldade TRI" = **b × 100 + 500**. DIF (0–100) = 100×(1−P(θ=0)).
 - Terminologia: "sexo feminino/masculino". **Proibido** "loteria" e buzzword-muleta.

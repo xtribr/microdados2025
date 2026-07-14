@@ -1,0 +1,181 @@
+{
+  "top_privadas": [
+    {
+      "co_escola": "23190710",
+      "adaptado_enem": 11,
+      "nome": "FILIPPO SMALDONE INST",
+      "mun": "Fortaleza",
+      "uf": "CE",
+      "exclusiva_censo": true,
+      "sala_aee": true,
+      "nee_med_censo": 44,
+      "verificacao": "privada no ENEM e no Censo"
+    },
+    {
+      "co_escola": "15554139",
+      "adaptado_enem": 7,
+      "nome": "COLEGIO DE E F M SOPHOS",
+      "mun": "Belém",
+      "uf": "PA",
+      "exclusiva_censo": false,
+      "sala_aee": false,
+      "nee_med_censo": 22,
+      "verificacao": "privada no ENEM e no Censo"
+    },
+    {
+      "co_escola": "31352195",
+      "adaptado_enem": 7,
+      "nome": "COLEGIO GABARITO",
+      "mun": "Uberlândia",
+      "uf": "MG",
+      "exclusiva_censo": false,
+      "sala_aee": false,
+      "nee_med_censo": 6,
+      "verificacao": "privada no ENEM e no Censo"
+    },
+    {
+      "co_escola": "33105405",
+      "adaptado_enem": 6,
+      "nome": "COLEGIO PH",
+      "mun": "Rio de Janeiro",
+      "uf": "RJ",
+      "exclusiva_censo": false,
+      "sala_aee": false,
+      "nee_med_censo": 12,
+      "verificacao": "privada no ENEM e no Censo"
+    },
+    {
+      "co_escola": "35103861",
+      "adaptado_enem": 6,
+      "nome": "MACKENZIE COLEGIO PRESBITERIANO",
+      "mun": "São Paulo",
+      "uf": "SP",
+      "exclusiva_censo": false,
+      "sala_aee": false,
+      "nee_med_censo": 38,
+      "verificacao": "privada no ENEM e no Censo"
+    },
+    {
+      "co_escola": "26192632",
+      "adaptado_enem": 6,
+      "nome": "CENTRO DE EDUCACAO PROFISSIONAL MEDIOTEC",
+      "mun": "Recife",
+      "uf": "PE",
+      "exclusiva_censo": false,
+      "sala_aee": true,
+      "nee_med_censo": 13,
+      "verificacao": "privada no ENEM e no Censo"
+    },
+    {
+      "co_escola": "15038513",
+      "adaptado_enem": 6,
+      "nome": "COLEGIO SANTA ROSA",
+      "mun": "Belém",
+      "uf": "PA",
+      "exclusiva_censo": false,
+      "sala_aee": true,
+      "nee_med_censo": 27,
+      "verificacao": "privada no ENEM e no Censo"
+    },
+    {
+      "co_escola": "31356816",
+      "adaptado_enem": 6,
+      "nome": "COLEGIO APOGEU - UNIDADE II DE ENSINO FUNDAMENTAL ANOS FINAIS E ENSINO MEDIO",
+      "mun": "Juiz de Fora",
+      "uf": "MG",
+      "exclusiva_censo": false,
+      "sala_aee": false,
+      "nee_med_censo": 7,
+      "verificacao": "privada no ENEM e no Censo"
+    },
+    {
+      "co_escola": "29277744",
+      "adaptado_enem": 5,
+      "nome": "COLEGIO NOSSA SENHORA DE FATIMA - SACRAMENTINAS",
+      "mun": "Vitória da Conquista",
+      "uf": "BA",
+      "exclusiva_censo": false,
+      "sala_aee": true,
+      "nee_med_censo": 13,
+      "verificacao": "privada no ENEM e no Censo"
+    },
+    {
+      "co_escola": "29181801",
+      "adaptado_enem": 5,
+      "nome": "COLEGIO ANTONIO VIEIRA",
+      "mun": "Salvador",
+      "uf": "BA",
+      "exclusiva_censo": false,
+      "sala_aee": false,
+      "nee_med_censo": 157,
+      "verificacao": "privada no ENEM e no Censo"
+    },
+    {
+      "co_escola": "35449477",
+      "adaptado_enem": 5,
+      "nome": "SENAC ACLIMACAO",
+      "mun": "São Paulo",
+      "uf": "SP",
+      "exclusiva_censo": false,
+      "sala_aee": false,
+      "nee_med_censo": 7,
+      "verificacao": "privada no ENEM e no Censo"
+    },
+    {
+      "co_escola": "33062609",
+      "adaptado_enem": 5,
+      "nome": "COLEGIO CRUZEIRO-CENTRO",
+      "mun": "Rio de Janeiro",
+      "uf": "RJ",
+      "exclusiva_censo": false,
+      "sala_aee": false,
+      "nee_med_censo": 0,
+      "verificacao": "privada no ENEM e no Censo"
+    },
+    {
+      "co_escola": "53013670",
+      "adaptado_enem": 5,
+      "nome": "C EDUCACIONAL LEONARDO DA VINCI - UNIDADE TAGUATINGA",
+      "mun": "Brasília",
+      "uf": "DF",
+      "exclusiva_censo": false,
+      "sala_aee": false,
+      "nee_med_censo": 35,
+      "verificacao": "privada no ENEM e no Censo"
+    },
+    {
+      "co_escola": "27218180",
+      "adaptado_enem": 5,
+      "nome": "SEB ESCOLAS DE ALTA PERFORMANCE LTDA",
+      "mun": "Maceió",
+      "uf": "AL",
+      "exclusiva_censo": false,
+      "sala_aee": true,
+      "nee_med_censo": 1,
+      "verificacao": "privada no ENEM e no Censo"
+    },
+    {
+      "co_escola": "53001095",
+      "adaptado_enem": 5,
+      "nome": "C EDUCACIONAL LEONARDO DA VINCI - UNID NORTE",
+      "mun": "Brasília",
+      "uf": "DF",
+      "exclusiva_censo": false,
+      "sala_aee": false,
+      "nee_med_censo": 33,
+      "verificacao": "privada no ENEM e no Censo"
+    }
+  ],
+  "n_escolas_privadas_com_adaptado": 1592,
+  "total_adaptados_em_privadas": 2204,
+  "divergencias_dependencia_n5mais": [
+    {
+      "co_escola": "60020822",
+      "n": 5,
+      "dep_enem": [
+        "4"
+      ],
+      "dep_censo": "(fora do Censo)"
+    }
+  ]
+}

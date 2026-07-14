@@ -1,0 +1,278 @@
+{
+  "dif_max": 548,
+  "itens": [
+    {
+      "area": "LC",
+      "n": 26,
+      "hab": "LCH26",
+      "pct": 87,
+      "dif": 440,
+      "gab": "B",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q26_LC.png",
+      "size": [
+        705,
+        1203
+      ]
+    },
+    {
+      "area": "LC",
+      "n": 19,
+      "hab": "LCH10",
+      "pct": 78.1,
+      "dif": 470,
+      "gab": "E",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q19_LC.png",
+      "size": [
+        705,
+        770
+      ]
+    },
+    {
+      "area": "LC",
+      "n": 18,
+      "hab": "LCH9",
+      "pct": 76.5,
+      "dif": 497,
+      "gab": "A",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q18_LC.png",
+      "size": [
+        705,
+        1090
+      ]
+    },
+    {
+      "area": "LC",
+      "n": 27,
+      "hab": "LCH9",
+      "pct": 70.5,
+      "dif": 496,
+      "gab": "A",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q27_LC.png",
+      "size": [
+        705,
+        656
+      ]
+    },
+    {
+      "area": "LC",
+      "n": 12,
+      "hab": "LCH11",
+      "pct": 64.4,
+      "dif": 519,
+      "gab": "C",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q12_LC.png",
+      "size": [
+        705,
+        699
+      ]
+    },
+    {
+      "area": "LC",
+      "n": 22,
+      "hab": "LCH12",
+      "pct": 62.8,
+      "dif": 528,
+      "gab": "B",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q22_LC.png",
+      "size": [
+        705,
+        1842
+      ]
+    },
+    {
+      "area": "LC",
+      "n": 33,
+      "hab": "LCH2",
+      "pct": 62,
+      "dif": 521,
+      "gab": "B",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q33_LC.png",
+      "size": [
+        642,
+        832
+      ]
+    },
+    {
+      "area": "LC",
+      "n": 39,
+      "hab": "LCH30",
+      "pct": 61.2,
+      "dif": 537,
+      "gab": "C",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q39_LC.png",
+      "size": [
+        705,
+        762
+      ]
+    },
+    {
+      "area": "LC",
+      "n": 31,
+      "hab": "LCH28",
+      "pct": 55,
+      "dif": 511,
+      "gab": "D",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q31_LC.png",
+      "size": [
+        705,
+        907
+      ]
+    },
+    {
+      "area": "LC",
+      "n": 14,
+      "hab": "LCH21",
+      "pct": 54.3,
+      "dif": 532,
+      "gab": "C",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q14_LC.png",
+      "size": [
+        642,
+        1046
+      ]
+    },
+    {
+      "area": "CH",
+      "n": 57,
+      "hab": "CHH26",
+      "pct": 60.1,
+      "dif": 533,
+      "gab": "A",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q57_CH.png",
+      "size": [
+        705,
+        796
+      ]
+    },
+    {
+      "area": "CH",
+      "n": 73,
+      "hab": "CHH15",
+      "pct": 58.4,
+      "dif": 539,
+      "gab": "A",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q73_CH.png",
+      "size": [
+        642,
+        723
+      ]
+    },
+    {
+      "area": "CH",
+      "n": 77,
+      "hab": "CHH28",
+      "pct": 57.7,
+      "dif": 536,
+      "gab": "A",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q77_CH.png",
+      "size": [
+        705,
+        1072
+      ]
+    },
+    {
+      "area": "CH",
+      "n": 71,
+      "hab": "CHH5",
+      "pct": 57.5,
+      "dif": 532,
+      "gab": "A",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q71_CH.png",
+      "size": [
+        705,
+        596
+      ]
+    },
+    {
+      "area": "CH",
+      "n": 56,
+      "hab": "CHH27",
+      "pct": 56.4,
+      "dif": 544,
+      "gab": "C",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q56_CH.png",
+      "size": [
+        642,
+        533
+      ]
+    },
+    {
+      "area": "CH",
+      "n": 61,
+      "hab": "CHH24",
+      "pct": 55.3,
+      "dif": 502,
+      "gab": "E",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q61_CH.png",
+      "size": [
+        642,
+        569
+      ]
+    },
+    {
+      "area": "CH",
+      "n": 65,
+      "hab": "CHH23",
+      "pct": 52.2,
+      "dif": 517,
+      "gab": "C",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q65_CH.png",
+      "size": [
+        705,
+        793
+      ]
+    },
+    {
+      "area": "CH",
+      "n": 84,
+      "hab": "CHH28",
+      "pct": 51.8,
+      "dif": 542,
+      "gab": "D",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q84_CH.png",
+      "size": [
+        642,
+        869
+      ]
+    },
+    {
+      "area": "CH",
+      "n": 54,
+      "hab": "CHH8",
+      "pct": 50.4,
+      "dif": 538,
+      "gab": "E",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q54_CH.png",
+      "size": [
+        642,
+        714
+      ]
+    },
+    {
+      "area": "CH",
+      "n": 85,
+      "hab": "CHH14",
+      "pct": 46.1,
+      "dif": 541,
+      "gab": "B",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q85_CH.png",
+      "size": [
+        642,
+        990
+      ]
+    },
+    {
+      "area": "CH",
+      "n": 82,
+      "hab": "CHH23",
+      "pct": 44.5,
+      "dif": 546,
+      "gab": "E",
+      "crop": "/Volumes/Kingston 1/microdados_enem_2025/posts_taticos/05_faceis_lc_ch/crops/q82_CH.png",
+      "size": [
+        705,
+        616
+      ]
+    }
+  ]
+}

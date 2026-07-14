@@ -1,0 +1,121 @@
+{
+  "2024": {
+    "year": 2024,
+    "linhas_lidas": 4332944,
+    "n_com_status": 3167955,
+    "n_validas": 3002710,
+    "medias_comp": {
+      "NU_NOTA_COMP1": 126.22,
+      "NU_NOTA_COMP2": 152.53,
+      "NU_NOTA_COMP3": 124.45,
+      "NU_NOTA_COMP4": 136.0,
+      "NU_NOTA_COMP5": 119.77
+    },
+    "status_count": {
+      "Sem problemas": 3002710,
+      "Anulada": 2432,
+      "Cópia Texto Motivador": 17725,
+      "Em Branco": 89786,
+      "Fuga ao tema": 33357,
+      "Não atendimento ao tipo textual": 3159,
+      "Texto insuficiente": 14387,
+      "Parte desconectada": 4399
+    },
+    "status_count_raw": {
+      "1": 3002710,
+      "3": 17725,
+      "4": 89786,
+      "6": 33357,
+      "8": 14387,
+      "2": 2432,
+      "9": 4399,
+      "7": 3159
+    },
+    "redacao_bands_validas": {
+      "0": 454,
+      "100": 1445,
+      "200": 23557,
+      "300": 119179,
+      "400": 335920,
+      "500": 594011,
+      "600": 682487,
+      "700": 479746,
+      "800": 474788,
+      "900": 291111,
+      "1000": 12
+    }
+  },
+  "2025": {
+    "year": 2025,
+    "linhas_lidas": 4810772,
+    "n_com_status": 3457555,
+    "n_validas": 3245696,
+    "medias_comp": {
+      "NU_NOTA_COMP1": 120.62,
+      "NU_NOTA_COMP2": 136.97,
+      "NU_NOTA_COMP3": 119.63,
+      "NU_NOTA_COMP4": 127.35,
+      "NU_NOTA_COMP5": 114.15
+    },
+    "status_count": {
+      "Sem problemas": 3245696,
+      "Anulada": 3070,
+      "Cópia Texto Motivador": 54840,
+      "Em Branco": 114329,
+      "Fuga ao tema": 13576,
+      "Não atendimento ao tipo textual": 5661,
+      "Texto insuficiente": 16975,
+      "Parte desconectada": 3408
+    },
+    "status_count_raw": {
+      "1": 3245696,
+      "3": 54840,
+      "4": 114329,
+      "8": 16975,
+      "6": 13576,
+      "7": 5661,
+      "2": 3070,
+      "9": 3408
+    },
+    "redacao_bands_validas": {
+      "0": 961,
+      "100": 2114,
+      "200": 29561,
+      "300": 189272,
+      "400": 492267,
+      "500": 743325,
+      "600": 773212,
+      "700": 463062,
+      "800": 378379,
+      "900": 173533,
+      "1000": 10
+    }
+  },
+  "delta_comp": {
+    "C1": {
+      "2024": 126.22,
+      "2025": 120.62,
+      "delta": -5.6
+    },
+    "C2": {
+      "2024": 152.53,
+      "2025": 136.97,
+      "delta": -15.56
+    },
+    "C3": {
+      "2024": 124.45,
+      "2025": 119.63,
+      "delta": -4.82
+    },
+    "C4": {
+      "2024": 136.0,
+      "2025": 127.35,
+      "delta": -8.65
+    },
+    "C5": {
+      "2024": 119.77,
+      "2025": 114.15,
+      "delta": -5.62
+    }
+  }
+}

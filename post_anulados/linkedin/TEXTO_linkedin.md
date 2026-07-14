@@ -1,6 +1,6 @@
 # Post LinkedIn — Autópsia das questões anuladas do ENEM 2025
 
-**Imagem:** `xtri_anuladas_linkedin.png` (1200×1200)
+Imagem: `xtri_anuladas_linkedin.png` (1200×1200)
 
 ---
 

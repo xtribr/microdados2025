@@ -4,19 +4,38 @@
 
 A questão anulada que decidiu quem fez 980 em Matemática no ENEM 2025.
 
-O INEP anulou a Q172 de Matemática e a Q125 de Ciências da Natureza por "problema de convergência" — o modelo estatístico da TRI não conseguiu calibrar esses itens. Questão anulada não deveria valer nada, certo?
+O INEP anulou a Q172 de Matemática e a Q125 de Ciências da Natureza por "problema de convergência", o modelo estatístico da TRI não conseguiu calibrar esses itens. 
 
-Fomos verificar nos microdados com um teste que não deixa margem: gêmeos de prova. Candidatos do mesmo caderno, com respostas idênticas em TODOS os itens válidos, divergindo só na anulada. Se a anulada não conta, gêmeo tem que ter nota igual.
+Questão anulada não deveria valer nada, certo?
 
-E na maior parte da escala é exatamente isso: em 314 de 322 grupos de gêmeos, da nota 362 à 980, a diferença foi de 0,0 ponto. Zero. A anulada não mudou a nota de praticamente ninguém.
+Fomos verificar nos microdados com um teste que não deixa margem: gêmeos de prova. 
 
-O plot twist está no topo. Entre os 601 candidatos que acertaram todos os 43 itens válidos de Matemática, quem marcou A na anulada levou 980,3. Quem marcou qualquer outra letra, 967,7. Mesmo desempenho em tudo que valia, 12,6 pontos de diferença — e foi isso que separou as maiores notas do país. Em Ciências da Natureza, mesma história: 858,7 contra 852,4.
+Candidatos do mesmo caderno, com respostas idênticas em TODOS os itens válidos, divergindo só na anulada. 
 
-E o detalhe que fecha o caso: dos 601 melhores, só 86 marcaram a letra oficial (A). 512 marcaram D. O gabarito era minoritário entre os melhores do Brasil — o item estava mesmo quebrado.
+Se a anulada não conta, gêmeo tem que ter nota igual.
 
-Nossa leitura técnica: o item parece ter entrado no cálculo com peso minúsculo, invisível onde a prova mede bem e decisivo onde a régua acaba. O processamento interno do INEP não é público — o que provamos é o efeito, não o mecanismo.
+E na maior parte da escala é exatamente isso: em 314 de 322 grupos de gêmeos, da nota 362 à 980, a diferença foi de 0,0 ponto. Zero. 
 
-Método: microdados oficiais do INEP (4,8 milhões de candidatos), análise em R com data.table e ggplot2, 644 comparações de gêmeos, zero exceções. Dado real, auditável, reproduzível.
+A anulada não mudou a nota de praticamente ninguém.
+
+O plot twist está no topo. 
+
+Entre os 601 candidatos que acertaram todos os 43 itens válidos de Matemática, quem marcou A na anulada levou 980,3. 
+
+Quem marcou qualquer outra letra, 967,7. 
+
+Mesmo desempenho em tudo que valia, 12,6 pontos de diferença, e foi isso que separou as maiores notas do país. 
+
+Em Ciências da Natureza, mesma história: 858,7 contra 852,4.
+
+E o detalhe que fecha o caso: dos 601 melhores, só 86 marcaram a letra oficial (A). 
+
+512 marcaram D. O gabarito era minoritário entre os melhores do Brasil, o item estava mesmo quebrado.
+
+Nossa leitura técnica: o item parece ter entrado no cálculo com peso minúsculo, invisível onde a prova mede bem e decisivo onde a régua acaba. 
+
+
+Método usado por mim e XTRI: microdados oficiais do INEP (4,8 milhões de candidatos), análise em R com data.table e ggplot2, 644 comparações de gêmeos, zero exceções. Dado real, auditável, reproduzível.
 
 Fonte: Microdados ENEM 2025 / INEP — gov.br/inep
 

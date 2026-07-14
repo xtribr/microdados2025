@@ -1,0 +1,495 @@
+{
+  "funil_nacional": {
+    "escolas_censo": 214192,
+    "mat_med_total": 7370879,
+    "nee_med": 294089,
+    "nee_med_cc": 292201,
+    "nee_med_ce": 1888,
+    "pct_cc": 99.4,
+    "pct_ce": 0.6,
+    "enem_adaptado": 22500,
+    "enem_por_tipo": {
+      "Atendimento Especializado": 15809,
+      "Ampliada": 4241,
+      "Libras": 1388,
+      "Superampliada": 820,
+      "Ledor": 242
+    },
+    "razao_adaptado_sobre_nee_med": 7.7
+  },
+  "por_uf": [
+    {
+      "uf": "SE",
+      "nee_med": 2263,
+      "pct_cc": 98.5,
+      "adaptado_enem": 388,
+      "taxa_chegada_pct": 17.15
+    },
+    {
+      "uf": "DF",
+      "nee_med": 4352,
+      "pct_cc": 98.1,
+      "adaptado_enem": 622,
+      "taxa_chegada_pct": 14.29
+    },
+    {
+      "uf": "PB",
+      "nee_med": 5719,
+      "pct_cc": 99.3,
+      "adaptado_enem": 722,
+      "taxa_chegada_pct": 12.62
+    },
+    {
+      "uf": "PA",
+      "nee_med": 11912,
+      "pct_cc": 100.0,
+      "adaptado_enem": 1501,
+      "taxa_chegada_pct": 12.6
+    },
+    {
+      "uf": "AP",
+      "nee_med": 1509,
+      "pct_cc": 99.6,
+      "adaptado_enem": 180,
+      "taxa_chegada_pct": 11.93
+    },
+    {
+      "uf": "PI",
+      "nee_med": 4492,
+      "pct_cc": 99.9,
+      "adaptado_enem": 528,
+      "taxa_chegada_pct": 11.75
+    },
+    {
+      "uf": "RN",
+      "nee_med": 5880,
+      "pct_cc": 100.0,
+      "adaptado_enem": 676,
+      "taxa_chegada_pct": 11.5
+    },
+    {
+      "uf": "AC",
+      "nee_med": 2786,
+      "pct_cc": 100.0,
+      "adaptado_enem": 310,
+      "taxa_chegada_pct": 11.13
+    },
+    {
+      "uf": "AL",
+      "nee_med": 4822,
+      "pct_cc": 99.8,
+      "adaptado_enem": 513,
+      "taxa_chegada_pct": 10.64
+    },
+    {
+      "uf": "RJ",
+      "nee_med": 16350,
+      "pct_cc": 99.1,
+      "adaptado_enem": 1680,
+      "taxa_chegada_pct": 10.28
+    },
+    {
+      "uf": "PE",
+      "nee_med": 12622,
+      "pct_cc": 99.9,
+      "adaptado_enem": 1292,
+      "taxa_chegada_pct": 10.24
+    },
+    {
+      "uf": "CE",
+      "nee_med": 18742,
+      "pct_cc": 99.4,
+      "adaptado_enem": 1790,
+      "taxa_chegada_pct": 9.55
+    },
+    {
+      "uf": "MA",
+      "nee_med": 9744,
+      "pct_cc": 99.6,
+      "adaptado_enem": 852,
+      "taxa_chegada_pct": 8.74
+    },
+    {
+      "uf": "MS",
+      "nee_med": 3308,
+      "pct_cc": 99.6,
+      "adaptado_enem": 268,
+      "taxa_chegada_pct": 8.1
+    },
+    {
+      "uf": "GO",
+      "nee_med": 11912,
+      "pct_cc": 99.8,
+      "adaptado_enem": 954,
+      "taxa_chegada_pct": 8.01
+    },
+    {
+      "uf": "BA",
+      "nee_med": 22635,
+      "pct_cc": 99.8,
+      "adaptado_enem": 1760,
+      "taxa_chegada_pct": 7.78
+    },
+    {
+      "uf": "ES",
+      "nee_med": 7165,
+      "pct_cc": 99.4,
+      "adaptado_enem": 539,
+      "taxa_chegada_pct": 7.52
+    },
+    {
+      "uf": "AM",
+      "nee_med": 4451,
+      "pct_cc": 100.0,
+      "adaptado_enem": 320,
+      "taxa_chegada_pct": 7.19
+    },
+    {
+      "uf": "MG",
+      "nee_med": 32043,
+      "pct_cc": 99.0,
+      "adaptado_enem": 2094,
+      "taxa_chegada_pct": 6.53
+    },
+    {
+      "uf": "MT",
+      "nee_med": 4756,
+      "pct_cc": 99.2,
+      "adaptado_enem": 291,
+      "taxa_chegada_pct": 6.12
+    },
+    {
+      "uf": "RO",
+      "nee_med": 3333,
+      "pct_cc": 100.0,
+      "adaptado_enem": 204,
+      "taxa_chegada_pct": 6.12
+    },
+    {
+      "uf": "SP",
+      "nee_med": 48991,
+      "pct_cc": 98.6,
+      "adaptado_enem": 2778,
+      "taxa_chegada_pct": 5.67
+    },
+    {
+      "uf": "RR",
+      "nee_med": 946,
+      "pct_cc": 100.0,
+      "adaptado_enem": 49,
+      "taxa_chegada_pct": 5.18
+    },
+    {
+      "uf": "PR",
+      "nee_med": 20471,
+      "pct_cc": 99.7,
+      "adaptado_enem": 876,
+      "taxa_chegada_pct": 4.28
+    },
+    {
+      "uf": "TO",
+      "nee_med": 2876,
+      "pct_cc": 99.7,
+      "adaptado_enem": 123,
+      "taxa_chegada_pct": 4.28
+    },
+    {
+      "uf": "RS",
+      "nee_med": 16803,
+      "pct_cc": 99.1,
+      "adaptado_enem": 712,
+      "taxa_chegada_pct": 4.24
+    },
+    {
+      "uf": "SC",
+      "nee_med": 13206,
+      "pct_cc": 99.7,
+      "adaptado_enem": 478,
+      "taxa_chegada_pct": 3.62
+    }
+  ],
+  "top_escolas": [
+    {
+      "co_escola": "23097140",
+      "adaptado_enem": 19,
+      "nome": "EEM DOM TERCEIRO",
+      "mun": "Boa Viagem",
+      "uf": "CE",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": false,
+      "nee_med_censo": 158
+    },
+    {
+      "co_escola": "23005157",
+      "adaptado_enem": 17,
+      "nome": "EEM CORONEL LUIZ FELIPE",
+      "mun": "Granja",
+      "uf": "CE",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 31
+    },
+    {
+      "co_escola": "23064684",
+      "adaptado_enem": 16,
+      "nome": "EEM GOVERNADOR ADAUTO BEZERRA",
+      "mun": "Fortaleza",
+      "uf": "CE",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 71
+    },
+    {
+      "co_escola": "35079005",
+      "adaptado_enem": 14,
+      "nome": "EMEBS HELEN KELLER",
+      "mun": "São Paulo",
+      "uf": "SP",
+      "dep": "Municipal",
+      "exclusiva_censo": true,
+      "sala_aee_censo": false,
+      "nee_med_censo": 189
+    },
+    {
+      "co_escola": "23068078",
+      "adaptado_enem": 12,
+      "nome": "EEMTI MONSENHOR DOURADO",
+      "mun": "Fortaleza",
+      "uf": "CE",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 56
+    },
+    {
+      "co_escola": "23064323",
+      "adaptado_enem": 12,
+      "nome": "EEM ANA BEZERRA DE SA",
+      "mun": "Eusébio",
+      "uf": "CE",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 104
+    },
+    {
+      "co_escola": "23148349",
+      "adaptado_enem": 12,
+      "nome": "EEM JOSE CORREIA LIMA",
+      "mun": "Várzea Alegre",
+      "uf": "CE",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 63
+    },
+    {
+      "co_escola": "52015807",
+      "adaptado_enem": 11,
+      "nome": "COLEGIO ESTADUAL JALLES MACHADO",
+      "mun": "Goianésia",
+      "uf": "GO",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 78
+    },
+    {
+      "co_escola": "23190710",
+      "adaptado_enem": 11,
+      "nome": "FILIPPO SMALDONE INST",
+      "mun": "Fortaleza",
+      "uf": "CE",
+      "dep": "Privada",
+      "exclusiva_censo": true,
+      "sala_aee_censo": true,
+      "nee_med_censo": 44
+    },
+    {
+      "co_escola": "52022706",
+      "adaptado_enem": 10,
+      "nome": "CENTRO DE ENSINO EM PERIODO INTEGRAL ARY RIBEIRO VALADAO FILHO",
+      "mun": "Inhumas",
+      "uf": "GO",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 35
+    },
+    {
+      "co_escola": "23085347",
+      "adaptado_enem": 10,
+      "nome": "EEMTI GOVERNADOR GONZAGA MOTA",
+      "mun": "Crateús",
+      "uf": "CE",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 52
+    },
+    {
+      "co_escola": "23036010",
+      "adaptado_enem": 10,
+      "nome": "EEM JOAQUIM MAGALHAES",
+      "mun": "Itapipoca",
+      "uf": "CE",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 114
+    },
+    {
+      "co_escola": "21148759",
+      "adaptado_enem": 9,
+      "nome": "CENTRO DE ENSINO COLARES MOREIRA",
+      "mun": "Codó",
+      "uf": "MA",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 51
+    },
+    {
+      "co_escola": "12033359",
+      "adaptado_enem": 9,
+      "nome": "ESC COLEGIO MILITAR TIRADENTES",
+      "mun": "Rio Branco",
+      "uf": "AC",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 32
+    },
+    {
+      "co_escola": "23071265",
+      "adaptado_enem": 9,
+      "nome": "INSTITUTO CEARENSE DE EDUCACAO DE SURDOS",
+      "mun": "Fortaleza",
+      "uf": "CE",
+      "dep": "Estadual",
+      "exclusiva_censo": true,
+      "sala_aee_censo": true,
+      "nee_med_censo": 45
+    },
+    {
+      "co_escola": "13027123",
+      "adaptado_enem": 9,
+      "nome": "ESCOLA ESTADUAL DESEMBARGADOR ANDRE VIDAL DE ARAUJO",
+      "mun": "Manaus",
+      "uf": "AM",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 46
+    },
+    {
+      "co_escola": "12012181",
+      "adaptado_enem": 9,
+      "nome": "ESC PROF JOSE RODRIGUES LEITE",
+      "mun": "Rio Branco",
+      "uf": "AC",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 96
+    },
+    {
+      "co_escola": "23090235",
+      "adaptado_enem": 9,
+      "nome": "EEMTI ALFREDO GOMES",
+      "mun": "Nova Russas",
+      "uf": "CE",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 31
+    },
+    {
+      "co_escola": "23246669",
+      "adaptado_enem": 8,
+      "nome": "EEEP LUCAS EMMANUEL LIMA PINHEIRO",
+      "mun": "Iguatu",
+      "uf": "CE",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 21
+    },
+    {
+      "co_escola": "29109361",
+      "adaptado_enem": 8,
+      "nome": "COLEGIO ESTADUAL DE TEMPO INTEGRAL DE SANTO ESTEVAO",
+      "mun": "Santo Estêvão",
+      "uf": "BA",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 55
+    },
+    {
+      "co_escola": "27003515",
+      "adaptado_enem": 8,
+      "nome": "ESCOLA ESTADUAL FRANCISCA ROSA DA COSTA",
+      "mun": "Delmiro Gouveia",
+      "uf": "AL",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 47
+    },
+    {
+      "co_escola": "23047976",
+      "adaptado_enem": 8,
+      "nome": "EEM FREI POLICARPO",
+      "mun": "Canindé",
+      "uf": "CE",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 28
+    },
+    {
+      "co_escola": "52015815",
+      "adaptado_enem": 8,
+      "nome": "COLEGIO ESTADUAL DA POLICIA MILITAR DE GOIAS JOSE CARRILHO",
+      "mun": "Goianésia",
+      "uf": "GO",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 41
+    },
+    {
+      "co_escola": "42066670",
+      "adaptado_enem": 8,
+      "nome": "IFSC - CAMPUS PALHOCA BILINGUE",
+      "mun": "Palhoça",
+      "uf": "SC",
+      "dep": "Federal",
+      "exclusiva_censo": true,
+      "sala_aee_censo": true,
+      "nee_med_censo": 56
+    },
+    {
+      "co_escola": "12012106",
+      "adaptado_enem": 8,
+      "nome": "ESC SENADOR ADALBERTO SENA",
+      "mun": "Rio Branco",
+      "uf": "AC",
+      "dep": "Estadual",
+      "exclusiva_censo": false,
+      "sala_aee_censo": true,
+      "nee_med_censo": 57
+    }
+  ],
+  "notas": {
+    "fonte": "Microdados Censo Escolar 2025 e ENEM 2025 / INEP",
+    "censo_agregado": "Tabela_Matricula do Censo é agregada por escola (QT_MAT_*), não tem aluno individual.",
+    "enem_adaptado_def": "caderno adaptado = CO_PROVA em {Ampliada, Superampliada, Ledor, Libras, Atendimento Especializado}; capta só quem mudou o caderno físico; condição (TEA/TDAH) nunca registrada.",
+    "ressalva_funil": "razão adaptado/NEE-EM mistura estoque (3 anos de EM) com fluxo (quem prestou) e subconta NEE que fez caderno regular — é ilustrativa do gap de VISIBILIDADE, não taxa de transição exata.",
+    "uf_basis": "NEE-EM por UF da escola (Censo); adaptado-ENEM por UF de prova (ENEM)."
+  }
+}
