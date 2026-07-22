@@ -52,3 +52,7 @@ estudo_reproduz_nota/tema2_scatter.csv
 **/chutes_scatter*.csv
 # cópia bruta de microdado INEP de anos anteriores (reproduzível no site do INEP)
 **/ITENS_PROVA_*.csv
+
+# R history (lixo)
+**/.Rhistory
+.Rhistory
