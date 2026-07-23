@@ -103,3 +103,13 @@ que tem **zero itens em comum** com a Regular P1.
 
 Fonte: Microdados ENEM 2025 / INEP. Nome da escola: Censo Escolar 2025.
 Nenhum dado individual identificável é exportado.
+
+## Dossiê completo (23/07/2026)
+
+`Dossie_Marista_Belem_ENEM.pdf` — A4, 8 páginas (gerado por `dossie.py` a partir de
+`dossie_dados.json`): capa/resumo, notas TRI 2025 (escola × coorte COP30 × Brasil),
+**histórico 2024→2025** (novo: perfil 2024 computado do microdado — LC 583,0 · CH 611,6 ·
+CN 557,6 · MT 671,6 · M5 657,7 · redação 870,7, n=135; ranking Belém 2024 = 7º/161),
+redação C1–C5 + evolução, rankings, raio-X TRI item a item e metodologia.
+Destaques: CN +34,7 (Brasil +6,7); redação −40,1 ≈ queda nacional (−40,3); C5 com 59% de
+nota 200; ranking estável 7º de Belém nos dois anos.

@@ -1,0 +1,16 @@
+{
+  "criterio": "Redações VÁLIDAS (TP_STATUS_REDACAO = 1, 'Sem problemas'), mesmo critério da referência Brasil.",
+  "escolas": {
+    "dom_bosco": {"nome": "Salesiano Dom Bosco", "cidade": "Parnamirim/RN", "co_escola": "24281301",
+      "2024": {"n": 138, "comp": [147.8, 180.7, 158.0, 175.7, 171.6], "red": 833.8, "p900": 54, "max": 980},
+      "2025": {"n": 126, "comp": [149.8, 171.7, 157.6, 175.2, 177.1], "red": 831.6, "p900": 42, "max": 980}},
+    "sao_jose": {"nome": "Salesiano São José", "cidade": "Natal/RN", "co_escola": "24057126",
+      "2024": {"n": 75, "comp": [146.7, 187.7, 162.9, 180.0, 183.7], "red": 861.1, "p900": 37, "max": 960},
+      "2025": {"n": 59, "comp": [147.1, 168.8, 153.6, 170.8, 181.0], "red": 821.4, "p900": 16, "max": 960}}
+  },
+  "brasil": {
+    "2024": {"n": 3002710, "comp": [126.2, 152.5, 124.5, 136.0, 119.8], "red": 659.0},
+    "2025": {"n": 3245696, "comp": [120.6, 137.0, 119.6, 127.3, 114.2], "red": 618.7}
+  },
+  "fonte": "Microdados ENEM 2024 e 2025 / INEP"
+}

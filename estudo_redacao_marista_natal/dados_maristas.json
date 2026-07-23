@@ -1,0 +1,242 @@
+{
+ "2025": {
+  "rede": {
+   "c1": 141.9,
+   "c2": 162.4,
+   "c3": 145.8,
+   "c4": 160.5,
+   "c5": 163.4,
+   "red": 774.1,
+   "n": 4600,
+   "escolas": 70,
+   "p900": 898
+  },
+  "natal": {
+   "co": "24057134",
+   "n": 171,
+   "c1": 154.5,
+   "c2": 174.3,
+   "c3": 165.0,
+   "c4": 183.3,
+   "c5": 190.2,
+   "red": 867.3,
+   "p900": 76
+  },
+  "pos": [
+   1,
+   70
+  ],
+  "top10": [
+   {
+    "pos": 1,
+    "nome": "Colegio Marista De Natal",
+    "cid": "Natal",
+    "uf": "RN",
+    "n": 171,
+    "red": 867.3,
+    "e_natal": true
+   },
+   {
+    "pos": 2,
+    "nome": "Colegio Marista Sao Jose Barra",
+    "cid": "Rio de Janeiro",
+    "uf": "RJ",
+    "n": 39,
+    "red": 857.9,
+    "e_natal": false
+   },
+   {
+    "pos": 3,
+    "nome": "Marista Colegio De Ribeirao Preto",
+    "cid": "Ribeirão Preto",
+    "uf": "SP",
+    "n": 68,
+    "red": 855.9,
+    "e_natal": false
+   },
+   {
+    "pos": 4,
+    "nome": "Colegio Marista Santo Antonio",
+    "cid": "Sinop",
+    "uf": "MT",
+    "n": 20,
+    "red": 855.0,
+    "e_natal": false
+   },
+   {
+    "pos": 5,
+    "nome": "Colegio Marista Dom Silverio",
+    "cid": "Belo Horizonte",
+    "uf": "MG",
+    "n": 99,
+    "red": 852.1,
+    "e_natal": false
+   },
+   {
+    "pos": 6,
+    "nome": "Colegio Marista Sao Jose",
+    "cid": "Rio de Janeiro",
+    "uf": "RJ",
+    "n": 62,
+    "red": 850.3,
+    "e_natal": false
+   },
+   {
+    "pos": 7,
+    "nome": "Colegio Marista Pio Xii",
+    "cid": "Surubim",
+    "uf": "PE",
+    "n": 73,
+    "red": 843.0,
+    "e_natal": false
+   },
+   {
+    "pos": 8,
+    "nome": "Colegio Marista - Varginha",
+    "cid": "Varginha",
+    "uf": "MG",
+    "n": 69,
+    "red": 837.1,
+    "e_natal": false
+   },
+   {
+    "pos": 9,
+    "nome": "Colegio Marista Nossa Senhora Da Penha",
+    "cid": "Vila Velha",
+    "uf": "ES",
+    "n": 48,
+    "red": 836.2,
+    "e_natal": false
+   },
+   {
+    "pos": 10,
+    "nome": "Col Marista Champagnat",
+    "cid": "Uberlândia",
+    "uf": "MG",
+    "n": 18,
+    "red": 832.2,
+    "e_natal": false
+   }
+  ]
+ },
+ "2024": {
+  "rede": {
+   "c1": 145.7,
+   "c2": 177.2,
+   "c3": 151.9,
+   "c4": 166.2,
+   "c5": 166.1,
+   "red": 807.2,
+   "n": 4323,
+   "escolas": 67,
+   "p900": 1280
+  },
+  "natal": {
+   "co": "24057134",
+   "n": 131,
+   "c1": 153.0,
+   "c2": 188.1,
+   "c3": 167.2,
+   "c4": 182.3,
+   "c5": 184.3,
+   "red": 874.8,
+   "p900": 69
+  },
+  "pos": [
+   5,
+   67
+  ],
+  "top10": [
+   {
+    "pos": 1,
+    "nome": "Colegio Marista Pio Xii",
+    "cid": "Surubim",
+    "uf": "PE",
+    "n": 59,
+    "red": 888.5,
+    "e_natal": false
+   },
+   {
+    "pos": 2,
+    "nome": "Colegio Marista Sao Jose Barra",
+    "cid": "Rio de Janeiro",
+    "uf": "RJ",
+    "n": 30,
+    "red": 887.3,
+    "e_natal": false
+   },
+   {
+    "pos": 3,
+    "nome": "Colegio Marista Nossa Senhora Da Penha",
+    "cid": "Vila Velha",
+    "uf": "ES",
+    "n": 68,
+    "red": 877.9,
+    "e_natal": false
+   },
+   {
+    "pos": 4,
+    "nome": "Colegio Marista Anjo Da Guarda Ei Ef Em",
+    "cid": "Curitiba",
+    "uf": "PR",
+    "n": 64,
+    "red": 877.5,
+    "e_natal": false
+   },
+   {
+    "pos": 5,
+    "nome": "Colegio Marista De Natal",
+    "cid": "Natal",
+    "uf": "RN",
+    "n": 131,
+    "red": 874.8,
+    "e_natal": true
+   },
+   {
+    "pos": 6,
+    "nome": "Colegio Marista Dom Silverio",
+    "cid": "Belo Horizonte",
+    "uf": "MG",
+    "n": 114,
+    "red": 874.2,
+    "e_natal": false
+   },
+   {
+    "pos": 7,
+    "nome": "Colegio Marista Goiania Ei Ef Em",
+    "cid": "Goiânia",
+    "uf": "GO",
+    "n": 28,
+    "red": 873.6,
+    "e_natal": false
+   },
+   {
+    "pos": 8,
+    "nome": "Colegio Marista Nossa Senhora De Nazare",
+    "cid": "Belém",
+    "uf": "PA",
+    "n": 135,
+    "red": 870.7,
+    "e_natal": false
+   },
+   {
+    "pos": 9,
+    "nome": "Colegio Marista - Varginha",
+    "cid": "Varginha",
+    "uf": "MG",
+    "n": 56,
+    "red": 869.3,
+    "e_natal": false
+   },
+   {
+    "pos": 10,
+    "nome": "Col Marista Sao Jose",
+    "cid": "Montes Claros",
+    "uf": "MG",
+    "n": 72,
+    "red": 866.4,
+    "e_natal": false
+   }
+  ]
+ }
+}
